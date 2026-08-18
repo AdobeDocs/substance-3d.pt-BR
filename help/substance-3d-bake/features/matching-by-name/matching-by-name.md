@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/br/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Use o recurso Correspondência por nome para isolar malhas de baixo e alto polígono e evitar sangramento de geometria durante a cozedura.
 helpx_creative_field: ''

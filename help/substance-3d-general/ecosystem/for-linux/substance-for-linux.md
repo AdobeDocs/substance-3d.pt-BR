@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: Saiba como baixar, instalar e ativar os aplicativos da Substance 3D no Linux usando o portal Adobe Download Access.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: Solucione problemas sobre por que sua malha aparece totalmente preta após o cozimento e saiba como corrigir causas comuns.
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > Há duas soluções possíveis:
 > 
-> * Corrija a configuração de cozimento para evitar texturas pretas, consulte: [A saída do padeiro está totalmente preta ou vazia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * Corrija a configuração de cozimento para evitar texturas pretas, consulte: [A saída do padeiro está totalmente preta ou vazia](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 > * Remova a textura preta das [Configurações do conjunto de texturas](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).

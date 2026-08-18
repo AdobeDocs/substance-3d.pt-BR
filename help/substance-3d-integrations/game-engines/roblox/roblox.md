@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Use materiais de Substance no Roblox Studio com o fluxo de trabalho Aspereza metálica PBR para experiências 3D imersivas.
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ Depois, peça ao Designer *assistir* à pasta de modelos para procurar modelos d
 * Vá para o diretório `templates` e clique em **Selecionar pasta**
 * Clique no botão **OK**
 * Vá para **Arquivo > Novo > gráfico de Substance...**
-* Verifique se o modelo `Roblox` está listado na parte inferior da lista de modelos na janela [Novo Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
+* Verifique se o modelo `Roblox` está listado na parte inferior da lista de modelos na janela [Novo Substance](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ Depois, peça ao Designer *assistir* à pasta de modelos para procurar modelos d
 
 Crie um gráfico usando o modelo Roblox e exporte bitmaps desse gráfico quando terminar de trabalhar em um material.
 
-* Na janela [Novo gráfico de Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), selecione o modelo `Roblox`
+* Na janela [Novo gráfico de Substance](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html), selecione o modelo `Roblox`
 * Defina qualquer identificador e outros parâmetros para o gráfico e clique em **OK**
 * Trabalhe no seu material na [Exibição de gráfico](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view) - veja [aqui](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview) para começar a usar o fluxo de trabalho
 * Quando terminar, vá para **Ferramentas > Exportar bitmaps...** na Exibição de gráfico *barra de ferramentas*

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
 breadcrumb-title: ''
 description: Importe vários arquivos SBSAR Substance de uma só vez no 3ds Max usando o recurso Importação de lote para eficiência.
 helpx_creative_field: ""

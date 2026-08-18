@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
 description: Use valores de cor e tabelas de dados precisos para simular materiais metálicos reais com o modelo de material padrão da Adobe.
 helpx_creative_field: ""

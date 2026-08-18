@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: Ajuste as propriedades de divisão em blocos gráficos de textura de Substance no MODO definindo as configurações de quebra horizontal e vertical.
 helpx_creative_field: ""

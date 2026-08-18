@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Saiba como otimizar a configuração do hardware e a preparação de malha para obter um desempenho de cozimento mais rápido.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ As falhas podem ser causadas por vários fatores, um deles é o TDR (Timeout Det
 * ao assar malhas densas com o padeiro de Oclusão ambiente
 * ao utilizar os padeiros acelerados DXR com malhas de alto poli muito densas (mais de 60 milhões de triângulos)
 
-Você pode encontrar informações adicionais sobre o TDR e um guia passo a passo de como modificar suas configurações associadas aqui: [Os drivers de GPU falham com cálculos longos (falha do TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Você pode encontrar informações adicionais sobre o TDR e um guia passo a passo de como modificar suas configurações associadas aqui: [Os drivers de GPU falham com cálculos longos (falha do TDR)](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

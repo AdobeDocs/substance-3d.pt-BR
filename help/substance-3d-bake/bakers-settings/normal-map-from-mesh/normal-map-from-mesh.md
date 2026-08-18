@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Crie mapas normais de espaço tangente ou espaço mundial de malhas de alto polígono usando o Mapa normal do padeiro de malha.
 helpx_creative_field: ""

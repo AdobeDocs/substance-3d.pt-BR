@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/home.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/home.html"
 breadcrumb-title: ''
 description: Descubra como os materiais do Substance se integram com mecanismos de jogo, aplicativos DCC e renderizadores por meio de plug-ins e suporte nativo.
 helpx_creative_field: ""
@@ -35,9 +35,9 @@ Para obter mais informações sobre como usar esses materiais, consulte:
 
 Se você gostaria de experimentar arquivos SBSAR, há muitas maneiras de obter seus próprios materiais SBSAR:
 
-* Materiais de Substance gratuitos podem ser encontrados no site dos [ativos da comunidade 3D](https://helpx.adobe.com/substance-3d/unlisted/assets.html).
-* Os materiais de Substance para download estão disponíveis no site do [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html) como parte da assinatura de Substance.
-* Os materiais de Substance com parâmetros exponíveis podem ser criados com o [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) e o [Substance 3D Sampler](https://helpx.adobe.com/substance-3d-sampler.html). (Verifique nossas [Diretrizes de otimização](../game-engines/unity/optimization-guidelines/optimization-guidelines.md). )
+* Materiais de Substance gratuitos podem ser encontrados no site dos [ativos da comunidade 3D](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html).
+* Os materiais de Substance para download estão disponíveis no site do [Substance 3D Assets](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html) como parte da assinatura de Substance.
+* Os materiais de Substance com parâmetros exponíveis podem ser criados com o [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) e o [Substance 3D Sampler](https://helpx.adobe.com/br/substance-3d-sampler.html). (Verifique nossas [Diretrizes de otimização](../game-engines/unity/optimization-guidelines/optimization-guidelines.md). )
 * O conector do Substance 3D pode ser usado para compartilhar facilmente materiais de Substance entre aplicativos principais e de terceiros. Para mais informações, leia nossa [postagem oficial do blog](https://blog.adobe.com/en/publish/2024/04/04/substance-3d-connector-bridging-tools-3dworkflows).
 
 >[!NOTE]

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
 description: Exporte texturas de Substance Painter para o renderizador Corona usando o fluxo de trabalho Specular/Textura reluzente e as conversões apropriadas.
 helpx_creative_field: ""

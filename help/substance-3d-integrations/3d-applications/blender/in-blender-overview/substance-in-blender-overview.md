@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Saiba mais sobre o complemento do Substance 3D para Blender e como importar e trabalhar com materiais do Substance em seus projetos.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Para obter mais informações, consulte a página [Preferências](../../../3d-ap
 
 ## Encontre mais materiais sobre Substance
 
-Milhares de materiais e outros ativos criados profissionalmente estão disponíveis para download na [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html). Muitos outros ativos compartilhados pela Comunidade gratuitamente podem ser encontrados na [página Ativos da comunidade do Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)
+Milhares de materiais e outros ativos criados profissionalmente estão disponíveis para download na [Substance 3D Assets](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html). Muitos outros ativos compartilhados pela Comunidade gratuitamente podem ser encontrados na [página Ativos da comunidade do Substance 3D](https://helpx.adobe.com/br/substance-3d/unlisted/community-assets.html)
 
 ## Comunidade
 

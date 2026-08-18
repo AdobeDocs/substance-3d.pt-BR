@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: Saiba como usar materiais de Substance com os ciclos do Blender e renderizadores Evee para diferentes fluxos de trabalho.
 helpx_creative_field: ""

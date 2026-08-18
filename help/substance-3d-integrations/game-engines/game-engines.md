@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines.html"
 breadcrumb-title: ''
 description: Saiba como importar e usar materiais de Substance no Unity, Unreal Engine, Lumberyard e outros mecanismos de jogos.
 helpx_creative_field: ""

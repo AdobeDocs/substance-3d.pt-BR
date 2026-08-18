@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/vray.html"
 breadcrumb-title: ''
 description: Renderize materiais de Substance com o V-Ray no Maya e no 3ds Max usando mapas exportados ou o plug-in Substance.
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ O Substance Painter 2020.1 (6.1.0) é fornecido com shaders VrayMtl para workflo
 
 ## Sumário
 
-* [Vray Próximo - Substance no Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
-* [Vray Próximo - Substance no 3ds Max](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
+* [Vray Próximo - Substance no Maya](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
+* [Vray Próximo - Substance no 3ds Max](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
 * [Variar Próximo - Substance Painter](../../renderers/vray/vray-next-painter/vray-next-substance-painter.md)

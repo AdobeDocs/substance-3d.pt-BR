@@ -57,4 +57,4 @@ fique à vontade para entrar em contato com os comitês existentes e conversar s
 
 ## Problemas de segurança
 
-Os problemas de segurança não devem ser relatados neste controlador de problemas. Em vez disso, [envie um problema aos nossos especialistas em segurança](https://helpx.adobe.com/security/alertus.html)
+Os problemas de segurança não devem ser relatados neste controlador de problemas. Em vez disso, [envie um problema aos nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)

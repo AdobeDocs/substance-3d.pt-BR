@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: Solucione problemas sobre por que as saídas de panificação estão totalmente pretas ou vazias e saiba como corrigir problemas de malha e UV.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: Alterne entre os mecanismos de Substance da CPU e GPU no MODO para otimizar o desempenho com base no seu hardware.
 helpx_creative_field: ""
