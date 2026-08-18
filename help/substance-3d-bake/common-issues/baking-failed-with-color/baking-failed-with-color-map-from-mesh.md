@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Possível mensagem de erro:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Preparação ] Falha na cozedura (Mapa de cores da malha)\
 > Não foi possível localizar as cores do vértice

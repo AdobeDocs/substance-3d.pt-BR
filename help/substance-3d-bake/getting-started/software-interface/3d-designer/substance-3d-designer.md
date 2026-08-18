@@ -73,7 +73,7 @@ Consulte os [parâmetros comuns](../../../bakers-settings/common-parameters/comm
 * **Adicionando um novo padeiro:** Clique no botão “Adicionar Padeiro”.
 * **Remoção de um padeiro:** selecione o padeiro na lista e, em seguida, clique no botão “Excluir o padeiro”.
 * **Movendo um padeiro para o topo:** selecione o padeiro na lista e clique no botão “Puxar para o topo”.
-* **Movendo para baixo um padeiro:**Selecione o padeiro na lista, em seguida, clique no botão “Empurrar para baixo”.
+* **Movendo para baixo um padeiro:**&#x200B;Selecione o padeiro na lista, em seguida, clique no botão “Empurrar para baixo”.
 
 Cada padeiro no herda por padrão os Valores padrão (veja acima). O tamanho (resolução), por exemplo, pode ser substituído clicando na célula na linha do padeiro. Isso é verdadeiro para as outras configurações na linha.
 

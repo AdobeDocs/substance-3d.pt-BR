@@ -56,7 +56,7 @@ ht-degree: 0%
 * [Removendo plug-in Substance](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [Substance 3D no Unity Tutorials](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [Tamanho físico no Unity](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [Compartilhando Arquivos Sbsar Entre Projetos](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [Compartilhando Arquivos Sbsar Entre Projetos](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[FORMULÁRIO ENCONTRADO - REGRAS NECESSÁRIAS]**
 
