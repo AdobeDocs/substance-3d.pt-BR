@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-A janela de cozimento pode ser acessada por meio das [Configurações do conjunto de textura](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Clique no botão chamado “**Fazer mapas de malha**” para abrir a janela de cozimento do projeto atual.
+A janela de cozimento pode ser acessada por meio das [Configurações do conjunto de textura](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Clique no botão chamado “**Fazer mapas de malha**” para abrir a janela de cozimento do projeto atual.
 
 ## Visão geral
 

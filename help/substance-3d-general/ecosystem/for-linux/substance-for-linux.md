@@ -75,6 +75,6 @@ Há duas opções para a ativação do software: ativação local ou ativação 
 1. Coloque os arquivos de chave de licença descompactados em uma rede montada compartilhada.
 1. No computador do usuário, configure uma variável de ambiente que aponte para o arquivo de chave de licença conforme explicado nestas páginas:
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/pt-br/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

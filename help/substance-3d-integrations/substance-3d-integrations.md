@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Ecossistema e plug-ins
 
-O [formato sbsar de material de Substance](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) é compatível com todas as ferramentas principais de criação de conteúdo digital (DCC) e de jogos. O formato é publicado no Designer como um arquivo .sbsar. Esse arquivo sbsar pode ser carregado em aplicativos DCC e mecanismos de jogo que suportam materiais de Substance por meio de um plug-in de Substance ou uma integração nativa.
+O [formato sbsar de material de Substance](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) é compatível com todas as ferramentas principais de criação de conteúdo digital (DCC) e de jogos. O formato é publicado no Designer como um arquivo .sbsar. Esse arquivo sbsar pode ser carregado em aplicativos DCC e mecanismos de jogo que suportam materiais de Substance por meio de um plug-in de Substance ou uma integração nativa.
 
 * Materiais de Substance gratuitos podem ser encontrados no site dos [ativos da comunidade 3D](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html).
 * Os materiais de Substance para download estão disponíveis no site do [Substance 3D Assets](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html) como parte da assinatura de Substance.

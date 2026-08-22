@@ -39,4 +39,4 @@ ht-degree: 0%
 > Há duas soluções possíveis:
 > 
 > * Corrija a configuração de cozimento para evitar texturas pretas, consulte: [A saída do padeiro está totalmente preta ou vazia](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * Remova a textura preta das [Configurações do conjunto de texturas](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).
+> * Remova a textura preta das [Configurações do conjunto de texturas](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).
