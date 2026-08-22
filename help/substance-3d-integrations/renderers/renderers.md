@@ -26,7 +26,7 @@ Os materiais de Substance fornecidos em [Substance Source](https://source.substa
 
 Por exemplo, com Arnold ou Vray Next, é possível usar saídas metálicas/de aspereza diretamente. No entanto, com a pxrSurface do Renderman, as saídas de basecolor/metálicas precisam ser convertidas para a cor da face difusa e do specular. Um plug-in de integração de Substance tratará essas conversões automaticamente se o renderizador for compatível.
 
-Com o Substance Painter, você pode escolher um [Modelo de saída](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) que criará os tipos de mapa apropriados necessários para um determinado renderizador. Se o seu renderizador não for suportado por padrão, você também pode criar Modelos de saída personalizados.
+Com o Substance Painter, você pode escolher um [Modelo de saída](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) que criará os tipos de mapa apropriados necessários para um determinado renderizador. Se o seu renderizador não for suportado por padrão, você também pode criar Modelos de saída personalizados.
 
 **Modelo de saída de Substance Painter**
 

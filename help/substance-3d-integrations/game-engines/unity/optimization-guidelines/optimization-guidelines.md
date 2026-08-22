@@ -35,6 +35,6 @@ Uma advertência importante a ser observada são os nós que têm uma resoluçã
 >   
 > O mecanismo da CPU Substance pode computar em 4K, mas é muito lento e pode causar um travamento na integração ou possivelmente um travamento.
 
-No exemplo a seguir, o tamanho de saída de um nó [Tile Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) está definido como [Absoluto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096. Ele faz com que vários nós downstream sejam computados em 4K antes de serem reduzidos para a resolução de saída final de 2048.
+No exemplo a seguir, o tamanho de saída de um nó [Tile Sampler](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) está definido como [Absoluto](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/output-size) 4096. Ele faz com que vários nós downstream sejam computados em 4K antes de serem reduzidos para a resolução de saída final de 2048.
 
 ![](../../../assets/absolute.png){width="1000px"}
