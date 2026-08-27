@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: Entenda como os sombreadores de Substance vinculam ativos de Substance a materiais de Cinema 4D para renderizar fluxos de trabalho.
 helpx_creative_field: ""
@@ -30,13 +30,13 @@ Depois de adicionar manualmente um sombreador de Substance, ele não tem nenhum 
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/cinema-4d-7?$png$&jpegSize=300&wid=1506){width="500px"}
 
-Para acessar os parâmetros do sombreador de Substance, clique na seta pequena na parte superior esquerda ou na imagem de visualização do sombreador.
+Para acessar os parâmetros do sombreador, clique na seta pequena na parte superior esquerda ou na imagem de visualização do sombreador.
 
 ![](../../../assets/cinema-4d-8.png){width="500px"}
 
 ## Parâmetros
 
-O sombreador de Substance tem dois parâmetros:
+O sombreador Substance tem dois parâmetros:
 
-* **Ativo:** aqui você pode remover um Ativo de Substance do Gerenciador de Ativos de Substance para vinculá-lo ao sombreador. Em outras palavras, ele vinculará um ativo de Substance a um canal de Cinema 4D.
+* **Ativo:** aqui você pode retirar um Ativo de Substance do Gerenciador de Ativos de Substance para vinculá-lo ao sombreador. Em outras palavras, ele vinculará um ativo de Substance a um canal de Cinema 4D.
 * **Canal:** selecione o canal de saída do Substance vinculado.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: Gere máscaras de opacidade convertendo raios perdidos em imagens binárias em tons de cinza para efeitos de transparência.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 10%
 
 # Máscara de opacidade da malha
 
-A Máscara de opacidade do mesh baker calcula uma textura onde os raios faltantes são convertidos em uma imagem binária em tons de cinza. Essa textura geralmente é usada como um mapa de opacidade.
+A Máscara de opacidade do baker de malha calcula uma textura em que os raios não vistos são convertidos em uma imagem binária em tons de cinza. Essa textura é geralmente usada como um mapa de opacidade.
 
 As propriedades da textura são definidas como:
 
@@ -35,4 +35,4 @@ As propriedades da textura são definidas como:
 
 ## Parâmetros:
 
-Este padeiro não tem parâmetros específicos.
+Este baker não tem parâmetros específicos.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
 description: Saiba mais sobre como atualizar projetos do Unity com materiais de Substance e problemas conhecidos para evitar durante a migração.
 helpx_creative_field: ""
@@ -32,4 +32,4 @@ ht-degree: 1%
 * Erro “*Falha de asserção na expressão” ao navegar em pastas do painel.*
   * Esse é um erro que ocorre na extremidade do Unity quando as alterações são feitas na interface do usuário, geralmente alterações em miniatura, devem ser uma mensagem inofensiva.
 * *As entradas da imagem parecem estar bloqueadas em 8 bits*
-  * Isso foi corrigido na versão 3.8.0-3. O fluxo de trabalho correto seria para os usuários alterarem o formato padrão do Unity para a textura RGBA64. O plug-in cuidará de enviar corretamente essa informação para o Substance Engine.
+  * Isso foi corrigido na versão 3.8.0-3. O fluxo de trabalho correto seria para os usuários alterarem o formato padrão do Unity para a textura para RGBA64. O plug-in cuidará de enviar corretamente essa informação para o Substance Engine.

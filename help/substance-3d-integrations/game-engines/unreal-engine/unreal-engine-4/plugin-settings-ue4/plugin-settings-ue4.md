@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
 breadcrumb-title: ''
 description: Defina as configurações do plug-in Substance no Unreal Engine 4 por meio das Configurações do projeto para personalizar o comportamento do plug-in.
 helpx_creative_field: ""
@@ -44,11 +44,11 @@ O Modo de Geração de Substance (SGM) controla como as texturas são geradas. E
 
 **SGM na Sincronização de Carregamento**: bloqueia o aplicativo enquanto os Substance estão sendo carregados.
 
-**SGM em Sincronização de Carga e Cache**: armazena em cache um resultado intermediário da textura no disco.
+**SGM em Sincronização de Carga e Cache**: armazena em cache um resultado intermediário da textura em disco.
 
 **SGM em Carregar Assíncrono**: sem bloqueio. Os Substance são gerados em segundo plano.
 
-**SGM em Carregar Assíncrono e Cache**: armazena em cache um resultado intermediário da textura no disco.
+**SGM em Carregar Assíncrono e Cache**: armazena em cache um resultado intermediário da textura em disco.
 
 ***O Padrão da Plataforma é Carregar Assíncrono e Cache***
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: Transforme UVs de malha em arquivos gráficos vetoriais que podem ser usados para criar máscaras e sobreposições precisas.
 helpx_creative_field: ""

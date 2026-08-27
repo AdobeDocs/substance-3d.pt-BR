@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: Aprenda a usar o padeiro de Oclusão ambiente para gerar texturas de sombra ambiente usando algoritmos acelerados por GPU rápidos.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ O padeiro de Oclusão ambiente permite assar uma textura de sombra ambiente. Ess
 | **Inverter normal** | Calcula o mapa de oclusão ambiente com normais invertidos (pode ser usado para gerar um mapa de thickness). |
 | **Usar partes de malha não selecionadas** | Use partes de malha não selecionadas da malha para assar o mapa de oclusão ambiente. |
 | Qualidade **1** | Escolha a qualidade do mapa de Oclusão ambiente. Uma qualidade mais alta é mais lenta de calcular.Valores disponíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Baixo</strong> (3 passos)</li><li data-preserve-html="true"><strong>Médio</strong> (padrão, 5 passos)</li><li data-preserve-html="true"><strong>Alto</strong> (10 passos)</li><li data-preserve-html="true"><strong>Muito Alta</strong> (16 passadas)</li></ul> |
-| **Polarização de Precisão** | Precisão da oclusão ambiente. Um valor mais baixo fornecerá uma precisão mais alta, mas poderá produzir artefatos maiores. |
+| **Polarização de Precisão** | Precisão da oclusão de ambiente. Um valor mais baixo fornecerá uma precisão mais alta, mas poderá produzir artefatos maiores. |
 | **Desvanecer à Distância** | Dispersão da oclusão do ambiente. |

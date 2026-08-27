@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: Evite que as partes da malha sangrem umas para as outras durante a cozedura usando a opção Corresponder por nome ou ajustando as distâncias.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Algumas soluções estão disponíveis para evitar esse problema:
 > 
 > * Use o recurso [Correspondência por Nome](../../features/matching-by-name/matching-by-name.md) para isolar as malhas
-> * Use uma [gaiola](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar a distância do raio.
+> * Use uma [gaiola](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html) para limitar a distância do raio.
 > * Altere a distância padrão do raio nas configurações do padeiro comum para um valor mais baixo.

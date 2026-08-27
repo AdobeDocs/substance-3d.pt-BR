@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
-description: Exporte texturas de Substance Painter para o Renderman usando material pxrSurface e conversões de saída apropriadas.
+description: Exporte texturas de Substance Painter para o Renderman usando o material pxrSurface e as conversões de saída apropriadas.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Renderman > Renderman - Substance Painter
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Renderman - Substance Painter
 
-O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.substance3d.com/display/SPDOC/Export)**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney.
+O Substance Painter 2020.1 (6.1.0) oferece suporte a [**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney](https://docs.substance3d.com/display/SPDOC/Export).
 
 ![](../../../assets/renderman.png)
 
@@ -28,7 +28,7 @@ O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.su
 
 ![](../../../assets/pxrsurface.png)
 
-## Renderman Shader (Maya - RM 23.1)
+## Sombreador renderman (Maya - RM 23.1)
 
 | Exportar Substance Painter | PxrSurface |
 | --- | --- |
@@ -36,7 +36,7 @@ O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.su
 | Aspereza especular | Specular/aspereza principal |
 | SpecularFaceColor | Specular/cor do rosto principal |
 | Normal | Globals / Bump / PxrNormalMap → Orientação (Open GL) |
-| Deslocamento | (canal vermelho ) PxrDispTransform (Resultado F) → (disp scalar) PxrDisplace (Cor de saída) → (Sombreador de Deslocamento) PxrSurfaceSG |
+| Deslocamento | (canal vermelho ) PxrDispTransform (Resultado F) → (disp scalar) PxrDisplace (Out Color) → (Sombreador do Deslocamento) PxrSurfaceSG |
 | GlowColor | Brilho/cor (ganho = 1,0) |
 | Presença | Globais/Presença |
 

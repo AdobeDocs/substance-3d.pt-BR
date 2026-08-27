@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-0.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Unity versão 2.4.0 para saber mais sobre novos recursos, aprimoramentos e correções de erros.
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ ht-degree: 0%
 ### Correções de erros:
 
 * Correção de um erro em que abrir o Substance Source no Mac OS gerava um erro de Linux
-* Redução do tempo necessário para trocar de plataforma. A conversão de textura para plataformas móveis agora é feita na criação, em vez de ao alternar a plataforma de destino.
+* Redução do tempo necessário para trocar de plataforma. A conversão de textura para plataformas móveis agora é feita na compilação, em vez de ao alternar a plataforma de destino.
 * Erro de falha de asserção ao importar sbsar
 * Atualizar projetos usando o .NET 3.5 faz com que os materiais do substance sejam quebrados
 * Fonte de Substance não suportada na caixa de diálogo do linux que aparece no OS X

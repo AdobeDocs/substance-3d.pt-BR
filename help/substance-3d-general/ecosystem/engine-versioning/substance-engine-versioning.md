@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: Use esta referência para verificar qual versão do mecanismo de Substance é compatível com o seu software e garantir a compatibilidade do material.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Esta página reagrupa informações sobre qual versão do mecanismo de Substance
 
 Os materiais e modelos de Substance criados no software de Substance só podem ser usados em aplicativos que oferecem suporte à mesma versão do mecanismo do substance ou a uma versão mais recente, caso contrário, novos recursos seriam incompatíveis.
 
-As tabelas desta página ajudam a saber se um material de Substance ou um modelo de procedimento de Substance é utilizável com a versão atual do software. Eles podem não mencionar todas as versões lançadas, apenas aquelas em que uma atualização foi feita. Portanto, se uma versão não for mencionada, significa que a versão anterior é a que se aplica.
+As tabelas desta página ajudam a saber se um material de Substance ou um modelo de Substance processual é utilizável com a versão atual do software. Eles podem não mencionar todas as versões lançadas, apenas aquelas em que uma atualização foi feita. Portanto, se uma versão não for mencionada, significa que a versão anterior é a que se aplica.
 
 <table>
 <tr style="border: 0;">

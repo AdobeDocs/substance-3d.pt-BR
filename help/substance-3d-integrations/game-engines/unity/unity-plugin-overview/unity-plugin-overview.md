@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: Saiba mais sobre o plug-in do Substance 3D para Unity, incluindo suporte à versão, recursos e recursos de integração.
 helpx_creative_field: ""
@@ -34,14 +34,14 @@ O plug-in Adobe Substance 3D para Unity versão 3.0.0 atualmente suporta Unity 2
 1. Procure o material de Substance que deseja importar. Os materiais do Substance têm a extensão de arquivo “.sbsar”.
 1. O material do Substance será importado para seu projeto do Unity.
 
-   1. O ativo sbsar criará um arquivo de importação principal e uma pasta contendo as texturas de saída e um material do Unity gerado.
+   1. O ativo sbsar criará um arquivo de importação principal e uma pasta contendo as texturas de saída e um material gerado do Unity.
 1. Em seguida, você pode arrastar e soltar o material em uma malha na visualização Cena e editar os parâmetros no Inspetor.
 
    ![](../../../assets/window-overview.png){width="1000px"}
 
 >[!NOTE]
 >
-> **Conversão de Mapa Normal**
+> **Conversão de Mapa normal**
 > 
 > O plug-in Substance do Unity converte automaticamente o DirectX em OpenGL. Ao usar materiais de [Substance Source](https://source.substance3d.com/), não é necessário alterar a orientação normal para OGL. Se você estiver criando seu próprio material em Substance Designer, certifique-se de trabalhar com o sombreador de DirectX padrão, pois o plug-in lidará com a conversão normal automaticamente. Para obter mais informações, consulte Trabalhando com normais no Unity.
 

@@ -245,8 +245,8 @@ ht-degree: 2%
   + [Convertendo saídas de Substance](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + Gerenciamento de Cores{#color-management}
     + [Visão geral do gerenciamento de cores](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Texturas de Substance no Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
-    + [texturas de Substance em 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
+    + [texturas Substance no Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [texturas Substance no 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + Arnold{#arnold}
     + [Visão geral do Arnold](/help/substance-3d-integrations/renderers/arnold/arnold.md)
     + [Arnold - Substance em 3ds Max](/help/substance-3d-integrations/renderers/arnold/arnold-in-3ds-max/arnold-substance-in-3ds-max.md)

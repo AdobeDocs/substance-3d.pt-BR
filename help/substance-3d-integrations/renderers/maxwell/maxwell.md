@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
 description: Use materiais de Substance com o renderizador Maxwell no Maya e no Painter para fluxos de trabalho de renderização baseados fisicamente.
 helpx_creative_field: ""

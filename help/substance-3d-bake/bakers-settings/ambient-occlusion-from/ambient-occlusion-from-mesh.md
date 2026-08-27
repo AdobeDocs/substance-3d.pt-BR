@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ''
 description: Crie texturas de oclusão ambiente precisas a partir de malhas de alto polígono usando técnicas de traçado de raio para aprimorar o realismo.
 helpx_creative_field: ""

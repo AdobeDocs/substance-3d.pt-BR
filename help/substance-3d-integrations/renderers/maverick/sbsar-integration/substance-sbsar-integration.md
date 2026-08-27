@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: Use arquivos SBSAR Substance diretamente no renderizador Maverick para edição de material em tempo real e controle de parâmetro.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Integração SBSAR Substance
 
-**Você pode** **facilmente***trazer **&#x200B;**&#x200B;arquivos SBSAR **&#x200B;**&#x200B;criados **&#x200B;**&#x200B;em Substance Designer ou Substance **&#x200B;**&#x200B;Alchemist **&#x200B;**&#x200B;para **&#x200B;**&#x200B;Maverick **&#x200B;**&#x200B;após&#x200B;**&#x200B;** qualquer **&#x200B;**&#x200B;de **&#x200B;**&#x200B;esses **&#x200B;**&#x200B;2 **&#x200B;**&#x200B;métodos&#x200B;**&#x200B;**:**
+**Você pode** **facilmente***trazer **** arquivos SBSAR **** criados **** em Substance Designer ou Substance **** Alchemist **** para **** Maverick ****após**** qualquer **** de **** esses **** 2 **** métodos****:**
 
 **Método** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **Método** **2**&#x200B;**:**
+   **Método** **2****:**
 1. Basta soltar o arquivo SBSAR do Windows Explorer em qualquer objeto na cena. Você também pode soltar arquivos SBSAR no painel Material.
 1. Na caixa de diálogo Importar, você pode definir alguns parâmetros de material:
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
-description: Saiba como acessar e usar a janela de cozimento no Substance 3D Designer para transformar informações de modelo em texturas.
+description: Saiba como acessar e usar a janela fazer bake no Substance 3D Designer para fazer bake informações de modelo no textura.
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Software Interface > Substance 3D Designer
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-A janela de cozimento pode ser acessada por meio do arquivo de malha na janela do [Explorer](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Clique com o botão direito do mouse no nome da malha e escolha “**Informações do modelo de cozimento**” para abrir a janela de cozimento.
+A janela de cozimento pode ser acessada por meio do arquivo de malha na janela do [Explorer](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Clique com o botão direito do mouse no nome da malha e escolha “**Informações do modelo de cozimento**” para abrir a janela de cozimento.
 
 ## Visão geral
 
@@ -30,7 +30,7 @@ A janela de cozimento pode ser acessada por meio do arquivo de malha na janela d
 
 A janela de cozedura de é dividida em vários painéis que são descritos abaixo.
 
-### Elemento para assar
+### Elemento a ser Feito bake
 
 ![](../../../assets/sd-mesh-selection.png)
 
@@ -46,11 +46,11 @@ Esse painel controla onde a textura assada será localizada.
 
 | *Parâmetro* | *Descrição* |
 | --- | --- |
-| **Método** | Controla como as texturas assadas serão armazenadas com o pacote de Substance.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Incorporada</strong>: a textura cozida é armazenada em uma subpasta próxima ao pacote de Substance com nome específico.</li><li data-preserve-html="true"><strong>Vinculado</strong> (padrão): a textura cozida é armazenada na pasta definida e referenciada no Substance empacotado.</li></ul> |
-| **Pasta** | Local das texturas assadas quando salvas. Clique no botão de três pontos para abrir uma caixa de diálogo de arquivo e escolher a pasta de exportação. Uma marca de seleção estará visível à direita para indicar se a pasta realmente existe ou não. |
-| **Nome** | Convenção de nomenclatura das texturas assadas. Clique no botão de três pontos para abrir um menu suspenso e inserir outros espaços reservados (nome do banco, personalizado, material, malha). |
+| **Método** | Controla como as texturas assadas serão armazenadas com o pacote de Substance.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Incorporada</strong>: a textura cozida é armazenada em uma subpasta próxima ao pacote de Substance com nome específico.</li><li data-preserve-html="true"><strong>Vinculado</strong> (padrão): a textura feita bake é armazenada na pasta definida e referenciada no Substance empacotado.</li></ul> |
+| **Pasta** | Local das texturas feitas bake quando salvas. Clique no botão de três pontos para abrir uma caixa de diálogo de arquivo e escolher a pasta de exportação. Uma marca de seleção estará visível à direita para indicar se a pasta realmente existe ou não. |
+| **Nome** | Convenção de nomenclatura das texturas feitas bake. Clique no botão de três pontos para abrir um menu suspenso e inserir outros espaços reservados (nome do banco, personalizado, material, malha). |
 | **Amostra** | Simule um nome de arquivo para testar a convenção de nomenclatura. |
-| **Colocar Recurso em uma Pasta Específica do Mesh** | Se ativadas, as texturas cozidas serão salvas dentro de uma pasta nomeada como arquivo de malha. |
+| **Colocar Recurso em uma Pasta Específica do Mesh** | Se ativado, o textura feito bake será salvo dentro de uma pasta nomeada como arquivo de malha. |
 
 ### Malhas de alta definição
 
@@ -64,18 +64,18 @@ Este painel controla a lista de malha de alto polígono e as configurações rel
 
 Consulte os [parâmetros comuns](../../../bakers-settings/common-parameters/common-parameters.md) para obter mais informações.
 
-### Lista e configurações de Baker
+### Lista de baker e Configurações
 
 ![](../../../assets/sd-baker-list.png)
 
-É no padeiro que você pode escolher qual textura assada deseja gerar. Por padrão, a lista está vazia.
+É no baker que você pode escolher qual textura feita bake deseja gerar. Por padrão, a lista está vazia.
 
-* **Adicionando um novo padeiro:** Clique no botão “Adicionar Padeiro”.
-* **Remoção de um padeiro:** selecione o padeiro na lista e, em seguida, clique no botão “Excluir o padeiro”.
-* **Movendo um padeiro para o topo:** selecione o padeiro na lista e clique no botão “Puxar para o topo”.
-* **Movendo para baixo um padeiro:**&#x200B;Selecione o padeiro na lista, em seguida, clique no botão “Empurrar para baixo”.
+* **Adicionando um novo baker:** Clique no botão “Adicionar Baker”.
+* **Removendo um baker:** selecione o baker na lista e clique no botão “Excluir baker”.
+* **Movendo um baker para o topo:** selecione o baker na lista e clique no botão “Puxar para o topo”.
+* **Movendo um baker para baixo:**Selecione o baker na lista e clique no botão “Empurrar para baixo”.
 
-Cada padeiro no herda por padrão os Valores padrão (veja acima). O tamanho (resolução), por exemplo, pode ser substituído clicando na célula na linha do padeiro. Isso é verdadeiro para as outras configurações na linha.
+Cada baker no herda por padrão os Valores padrão (veja acima). O tamanho (resolução), por exemplo, pode ser substituído clicando na célula na linha do padeiro. Isso é verdadeiro para as outras configurações na linha.
 
 Ao clicar em um padeiro na lista, a visualização Parâmetros Baker atualizará com seus parâmetros específicos.
 

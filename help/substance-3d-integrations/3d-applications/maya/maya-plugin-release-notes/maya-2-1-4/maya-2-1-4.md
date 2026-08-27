@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Maya versão 2.1.4 para saber mais sobre novos recursos, melhorias e correções de erros.
 helpx_creative_field: ""

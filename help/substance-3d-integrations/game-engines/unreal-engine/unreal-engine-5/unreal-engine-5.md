@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: Use materiais de Substance no Unreal Engine 5 com o plug-in de Substance para edição e renderização de materiais em tempo real.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ O plug-in Adobe Substance 3D no Unreal Engine 5 está oficialmente disponível n
 * [Definição de Instância de Material - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md) — Você pode usar Instâncias de Material UE5 com Substance.
 * [Uso do Modelo de Material - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
 * [Tamanho físico - UE5](../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-* [Substance de divisão em blocos - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) — Para colocar em blocos uma textura de substância, será necessário adicionar um nó de Coordenada de textura e multiplicá-lo pelo parâmetro escalar.
+* [Substance de divisão em blocos - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) — Para colocar em blocos uma textura do substance, será necessário adicionar um nó de Coordenada de Textura e multiplicá-lo pelo parâmetro escalar.
 * [Modelos padrão de plug-ins do Substance 3D](../../../game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
 * [Uso da Biblioteca do Substance 3D Assets - UE5](../../../game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
 * [Blueprints - UE5](../../../game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md) — Atualize materiais de Substance em tempo de execução com uma API de Blueprint extensa.

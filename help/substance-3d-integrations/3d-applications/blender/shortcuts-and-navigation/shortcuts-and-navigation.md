@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: Aprenda a usar atalhos de teclado para o complemento do Substance 3D no Blender e personalizar atalhos de teclado para aumentar a eficiência.
 helpx_creative_field: ""

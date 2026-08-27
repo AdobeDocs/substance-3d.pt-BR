@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Unity versão 3.0.0 para saber mais sobre novos recursos, aprimoramentos e alterações.
 helpx_creative_field: ""
@@ -37,7 +37,7 @@ Atualizado/adicionado:
 Corrigido:
 
 * Erro na exibição do inspetor ao pressionar o botão aleatório várias vezes
-* Entradas de textura nula quebrando atualizações de Substance
+* Entradas de textura nulas que quebram atualizações de Substance
 * Os alternadores “Gerar todas as saídas”, “Gerar mapas de mip” e “Somente tempo de execução” não funcionam
 * Problemas com os Namespaces
 * Erro de referência nula ao entrar no modo de reprodução com o ativo do gráfico selecionado

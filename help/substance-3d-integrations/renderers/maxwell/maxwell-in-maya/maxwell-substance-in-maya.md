@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
 description: Use materiais de Substance com o renderizador Maxwell no Maya por meio de mapas exportados ou do plug-in Substance.
 helpx_creative_field: ""

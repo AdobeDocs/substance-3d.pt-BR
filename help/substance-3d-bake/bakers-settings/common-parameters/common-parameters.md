@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
-description: Conheça os parâmetros comuns que se aplicam a todos os padeiros e como configurá-los para geração de textura ideal.
+description: Saiba mais sobre os parâmetros comuns que se aplicam a todos os baker e como configurá-los para geração de textura ideal.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Common Parameters
 helpx_experience_level: ""
@@ -20,28 +20,28 @@ ht-degree: 1%
 
 # Parâmetros comuns
 
-Os parâmetros comuns aplicam-se a todos os padeiros. Esses parâmetros geralmente definem como os padeiros se comportarão e trabalharão com malhas de alto-polímero, mas como as texturas finais serão geradas. Alguns desses parâmetros podem ser substituídos por padeiros específicos.
+Parâmetros comuns se aplicam a todos os baker. Esses parâmetros geralmente definem como os baker se comportarão e trabalharão com malhas de alto-polígono, mas como as texturas finais serão geradas. Alguns desses parâmetros podem ser substituídos por baker específicos.
 
 Embora a maioria desses parâmetros esteja disponível em todos os softwares (incluindo o Substance Automation Toolkit), seu comportamento pode ser ligeiramente diferente; ou alguns deles podem não estar disponíveis dependendo do fluxo de trabalho e da implementação do software.
 
 ## Parâmetros gerais
 
-Esses parâmetros afetam a maneira como os padeiros geram texturas.
+Esses parâmetros afetam a maneira como os baker geram texturas.
 
 | *Nome* | *Descrição* |
 | --- | --- |
-| **Tamanho**(Tamanho Padrão ou Tamanho de Saída) | Controle a resolução da textura de saída de cozimento (em pixels). Valores disponíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>32</strong></li><li data-preserve-html="true"><strong>64</strong></li><li data-preserve-html="true"><strong>128</strong></li><li data-preserve-html="true"><strong>256</strong></li><li data-preserve-html="true"><strong>512</strong></li><li data-preserve-html="true"><strong>1024</strong></li><li data-preserve-html="true"><strong>2048</strong> (padrão)</li><li data-preserve-html="true"><strong>4096</strong></li><li data-preserve-html="true"><strong>8192</strong></li></ul>Resoluções não quadradas também são compatíveis, por exemplo: 2048x1024 (proporção 2:1). No Substance Designer, esse parâmetro pode ser substituído pelo próprio padeiro. |
-| **Formato** | Formato de arquivo das texturas assadas.*Não disponível no Substance Painter.* Consulte: [Como exportar os mapas baked](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md). |
-| **Suavização de borda** | Controla a suavização de serrilhado, que pode melhorar a qualidade de texturas assadas e reduzir o serrilhado em locais onde diferentes geometrias se conectam.Para saber mais sobre aliases, consulte: [Aliases em Seams UV](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) e [Aliases na Wikipédia](https://en.wikipedia.org/wiki/Aliasing).Valores disponíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Nenhum</strong> (padrão)</li><li data-preserve-html="true"><strong>Subamostragem de 2x2</strong></li><li data-preserve-html="true"><strong>Subamostragem 4x4</strong></li><li data-preserve-html="true"><strong>Subamostragem 8x8</strong></li></ul>  **Observação:** a habilitação da suavização de borda pode aumentar significativamente o tempo de cozimento, pois funciona computando a textura em uma resolução mais alta e, em seguida, reduzindo-a de volta ao tamanho originalmente selecionado. Isso significa que uma textura 2K com uma subamostragem 2x2 calculará realmente uma textura 4K.Às vezes, é preferível aumentar o número de raias no padeiro em vez de aumentar a subamostragem. Poderia alcançar melhores resultados sem esperar muito. |
-| **Conjunto UV** | Controla quais UVs da malha de baixo polígono serão usados para calcular as texturas assadas.*Não disponível no Substance Painter.* |
+| **Tamanho**(Tamanho Padrão ou Tamanho de Saída) | Controla a resolução de textura de saída feita bake (em pixels). Valores disponíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>32</strong></li><li data-preserve-html="true"><strong>64</strong></li><li data-preserve-html="true"><strong>128</strong></li><li data-preserve-html="true"><strong>256</strong></li><li data-preserve-html="true"><strong>512</strong></li><li data-preserve-html="true"><strong>1024</strong></li><li data-preserve-html="true"><strong>2048</strong> (padrão)</li><li data-preserve-html="true"><strong>4096</strong></li><li data-preserve-html="true"><strong>8192</strong></li></ul>Resoluções não quadradas também são compatíveis, por exemplo: 2048x1024 (proporção 2:1). No Substance Designer, esse parâmetro pode ser substituído pelo próprio baker. |
+| **Formato** | Formato de arquivo das texturas feitas bake.*Não disponível no Substance Painter.* Consulte: [Como exportar os mapas baked](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md). |
+| **Suavização de borda** | Controla a suavização de serrilhado, que pode melhorar a qualidade das texturas feitas bake e reduzir o serrilhado nos locais em que diferentes geometrias se conectam.Para saber mais sobre aliases, consulte: [Aliases em Seams UV](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) e [Aliases na Wikipédia](https://en.wikipedia.org/wiki/Aliasing).Valores disponíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Nenhum</strong> (padrão)</li><li data-preserve-html="true"><strong>Subamostragem de 2x2</strong></li><li data-preserve-html="true"><strong>Subamostragem 4x4</strong></li><li data-preserve-html="true"><strong>Subamostragem 8x8</strong></li></ul>  **Observação:** a ativação da suavização de borda pode aumentar significativamente o tempo de fça bake, pois funciona calculando a textura com uma resolução mais alta e reduzindo-a de volta ao tamanho originalmente selecionado. Isso significa que uma textura 2K com uma subamostragem 2x2 calculará uma textura 4K.Às vezes, é preferível aumentar o número de raios no baker em vez de aumentar a subamostragem. Poderia alcançar melhores resultados sem esperar muito. |
+| **Conjunto UV** | Controla quais UVs da malha de baixo polígono serão usados para calcular as texturas feitas bake.*Não disponível no Substance Painter.* |
 |  |  |
-| **Dilatação (px)** | Dilatar/estender os pixels das UVs fora ou de sua borda pela quantidade de pixels fornecida. Essa operação permite evitar emendas nas bordas UV quando essas bordas não estiverem perfeitamente alinhadas aos pixels da textura ou quando a resolução da textura for reduzida (por exemplo: mipmaps). Este é um pós-processo aplicado após o processo de cozedura. Às vezes, também pode ser chamado de “preenchimento”.Para saber mais sobre dilatação, consulte: [Suavização em emendas UV](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) e [Preenchimento](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/spdoc/padding-134643719.html). |
-| **Aplicar difusão** | Se ativada, a parte externa dos UVs será preenchida com cores de gradiente suavizadas com base nas bordas UV. Esse processo garante que, quando o tamanho da textura for reduzido, ela permanecerá estável e não criará emendas excessivamente visíveis (por exemplo: mipmaps). Este é um pós-processo aplicado após o processo de cozedura. |
-| **Média Normalizada** | Se habilitado, calcula o normal médio de um vértice para saber em que direção enviar raios durante o processo de correspondência de malha de cozimento. Se desativado, os raios seguirão os normais de vértice originais da malha. |
+| **Dilatação (px)** | Dilatar/estender os pixels das UVs fora ou de sua borda pela quantidade de pixels fornecida. Esta operação permite evitar emendas nas bordas UV quando essas bordas não estão perfeitamente alinhadas com os pixels da textura ou quando a resolução da textura é reduzida (por exemplo: mipmaps). Este é um pós-processo aplicado após o processo de fça bake. Às vezes, também pode ser chamado de “preenchimento”.Para saber mais sobre dilatação, consulte: [Suavização em emendas UV](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) e [Preenchimento](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html). |
+| **Aplicar difusão** | Se ativada, a parte externa dos UVs será preenchida com cores de gradiente suavizadas com base nas bordas UV. Esse processo garante que, quando o tamanho da textura for reduzido, ela permanecerá estável e não criará emendas excessivamente visíveis (por exemplo: mipmaps). Este é um pós-processo aplicado após o processo de fça bake. |
+| **Média Normalizada** | Se habilitado, calcula o normal médio de um vértice para saber em que direção enviar raios durante o processo de correspondência de malha de fça bake. Se desativado, os raios seguirão os normais de vértice originais da malha. |
 
 ## Parâmetros High-Poly
 
-Os seguintes parâmetros controlam a cozedura em malha de alto-poli a baixo-poli (de padaria em malha).
+Os parâmetros a seguir controlam o fça bake de malha de alto-poli para baixo-poli (baker de malha).
 
 | *Nome* | *Descrição* |
 | --- | --- |

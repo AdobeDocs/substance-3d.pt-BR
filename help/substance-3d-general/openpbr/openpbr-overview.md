@@ -31,7 +31,7 @@ Este documento é um guia focado no artista para entender e trabalhar com OpenPB
 
 ### Um idioma material compartilhado com o OpenPBR
 
-Um dos principais objetivos do OpenPBR é melhorar a movimentação de materiais entre ferramentas. Em vez de ser um sombreador ligado a um único renderizador ou aplicativo, o OpenPBR define um **modelo de sombreamento compartilhado** - uma maneira comum de descrever como um material responde à luz.
+Um dos principais objetivos do OpenPBR é melhorar a movimentação de materiais entre ferramentas. Em vez de ser um sombreador vinculado a um único renderizador ou aplicativo, o OpenPBR define um **modelo de sombreamento compartilhado** - uma maneira comum de descrever como um material responde à luz.
 
 Para os artistas, isso significa que um material de OpenPBR não é apenas, por exemplo, “um material de Adobe” ou “um material da Autodesk”, mas sim uma descrição do comportamento de superfície e volume que pode, em princípio, ser entendido por várias ferramentas. A intenção é que um material criado em um aplicativo possa ser interpretado consistentemente em outro lugar, desde que essas ferramentas suportem o modelo de OpenPBR.
 
@@ -107,7 +107,7 @@ Embora o OpenPBR não imponha tipos de materiais rígidos, a maioria dos materia
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/metalness/metalness1Colored.png" alt=""/><br><em>Um exemplo de um material metálico.</em></td>
-    <td style="border: 0;" valign="top">Materiais metálicos como aço, alumínio, cobre ou ouro se comportam fundamentalmente de forma diferente dos materiais não metálicos (dielétricos). Para os metais, a aparência é impulsionada quase inteiramente pela reflexão do specular: ao contrário dos dielétricos, os metais não têm componentes difusos, e a luz não dispersão sob a superfície, mas é refletida diretamente. Suas características definidoras são:<br><br><ul><li>Nenhum componente difuso — a cor vem inteiramente do reflexo</li><li>Reflexos de specular coloridos</li><li>Os detalhes da superfície, especialmente a aspereza, desempenham um papel importante na aparência</li></ul><br><br><strong>Parâmetros chave para materiais metálicos:</strong><br><br><ul><li>A Cor de base controla a cor dos reflexos</li><li>A Aspereza do specular controla o nível de nitidez ou desfoque dos reflexos</li><li>Intensidade de reflexo das escalas de Peso do specular</li></ul></td>
+    <td style="border: 0;" valign="top">Materiais metálicos como aço, alumínio, cobre ou ouro se comportam fundamentalmente de forma diferente dos materiais não metálicos (dielétricos). Para os metais, a aparência é impulsionada quase inteiramente pela reflexão do specular: ao contrário dos dielétricos, os metais não têm componentes difusos, e a luz não dispersão sob a superfície, mas é refletida diretamente. Suas características definidoras são:<br><br><ul><li>Nenhum componente difuso — a cor vem inteiramente do reflexo</li><li>Reflexos de specular coloridos</li><li>Os detalhes da superfície, especialmente a aspereza, desempenham um papel importante na aparência</li></ul><br><br><strong>Parâmetros chave para materiais metálicos:</strong><br><br><ul><li>Cor de base controla a cor dos reflexos</li><li>A Aspereza do specular controla o nível de nitidez ou desfoque dos reflexos</li><li>Intensidade de reflexo das escalas de Peso do specular</li></ul></td>
   </tr>
 </table>
 
@@ -125,11 +125,11 @@ A Metalidade de base define se um material se comporta como um dielétrico ou um
 * Usar valores médios somente para superfícies misturadas
 * Confie na aspereza e nos detalhes da superfície para moldar a aparência metálica.
 
-Use camadas (por exemplo, Revestimento) em vez de reduzir a metalidade para metais pintados ou revestidos, materiais transparentes e transmissivos.
+Use camadas (por exemplo, Revestimento) em vez de reduzir a metalidade para metais pintados ou revestidos, transparentes e Materiais de transmissivo.
 
-### Materiais transparentes e transmissivos
+### Materiais transparentes e de transmissivo
 
-Materiais transparentes e transmissivos permitem que a luz passe por eles. Exemplos comuns incluem vidro, muitos líquidos e plásticos claros ou coloridos. Suas características definidoras são:
+Materiais transparentes e de transmissivo permitem que a luz passe por eles. Exemplos comuns incluem vidro, muitos líquidos e plásticos claros ou coloridos. Suas características definidoras são:
 
 * A luz entra na superfície e sai pelo lado oposto
 * O thickness afeta fortemente a aparência
@@ -138,7 +138,7 @@ Materiais transparentes e transmissivos permitem que a luz passe por eles. Exemp
 
 A transmissão descreve como a luz viaja através de um objeto. As áreas mais espessas parecem mais escuras ou mais saturadas, enquanto as áreas mais finas parecem mais claras. Parâmetros como Cor de transmissão, Profundidade de transmissão, Cor de Dispersão e Dispersão funcionam juntos para controlar esse comportamento.
 
-Um ponto de distinção entre os termos &#39;transparente&#39; e &#39;transmissivo&#39;: &#39;transparente&#39; é um termo cotidiano da vida real; algo é transparente se pudermos ver através dele. &#39;Transmissivo&#39; é um sinônimo de &#39;translucidez&#39;. O vidro fosco, por exemplo, permite a passagem de luz (e assim, é transmissivo), mas não é transparente - não dá para enxergar.
+Um ponto de distinção entre os termos &#39;transparente&#39; e &#39;transmissivo&#39;: &#39;transparente&#39; é um termo cotidiano da vida real; algo é transparente se pudermos ver através dele. “Transmissivo” é um sinônimo de “translucidez”. O vidro fosco, por exemplo, permite que a luz passe por ele (e assim, é transmissivo), mas não é transparente - não podemos enxergar através dele.
 
 ### Materiais do subsolo
 
@@ -191,7 +191,7 @@ Cada camada contribui com um efeito físico específico, e o modelo de material 
 >
 > Há duas “camadas” que não aparecem no diagrama acima:
 >
-> * **Specular**: controla o quão brilhante ou reflexiva é uma superfície, se a base é metálica ou não. O specular existe dentro da pilha de camadas, mas ele não é uma camada real, é uma propriedade das camadas de base e de revestimento que aparecem na pilha de camadas.
+> * **Specular**: controla o quão brilhante ou reflexiva é uma superfície, se a base é metálica ou não. O specular existe dentro da pilha de camadas, mas não é em si uma camada real, é uma propriedade das camadas de base e revestimento que aparecem na pilha de camadas.
 > * **Geometria**: enquanto outras camadas de OpenPBR determinam do que o material é feito, a camada Geometria define a forma e a presença na qual o material é aplicado, incluindo opacidade, normais, tangentes e comportamento de parede fina.
 >
 > Continuaremos nos referindo à geometria e ao Specular como “camadas” para simplificar.
@@ -238,7 +238,7 @@ Combinados com os seguintes canais, materiais metálicos podem criar vários efe
 
 **Emissão**
 
-A emissão permite que uma superfície aja como fonte de luz ao emitir luz diretamente. Embora a emissão não seja um fenômeno reflexivo, ela está incluída no modelo de material de OpenPBR para que os materiais emissivos possam ser definidos consistentemente ao lado de propriedades reflexivas e transmissivas.
+A emissão permite que uma superfície aja como fonte de luz ao emitir luz diretamente. Embora a emissão não seja um fenômeno reflexivo, ela é incluída no modelo de material de OpenPBR para que os materiais de emissivo possam ser definidos consistentemente ao lado de propriedades reflexivas e de transmissivo.
 
 **Filme fino**
 
@@ -251,7 +251,7 @@ A emissão permite que uma superfície aja como fonte de luz ao emitir luz diret
 
 **Revestimento**
 
-Uma camada de revestimento, se presente, reproduz uma camada transparente e reflexiva posicionada acima de todas as outras camadas, exceto Fuzz. Isso pode simular efeitos do mundo real, como verniz ou certos tipos de pintura de carro. Uma camada de Revestimento é definida por um intervalo entre 0 e 1. Definir esse valor como 0 desativa completamente a camada de Revestimento.
+Uma camada de revestimento, se presente, reproduz uma camada transparente e reflexiva posicionada acima de todas as outras camadas, exceto Fuzz. Isso pode simular efeitos do mundo real, como verniz, ou certos tipos de tinta do carro. Uma camada de Revestimento é definida por um intervalo entre 0 e 1. Definir esse valor como 0 desativa completamente a camada de Revestimento.
 
 **Fuzz**
 
@@ -261,7 +261,7 @@ Uma camada Fuzz (Fuzz) pode ser adicionada para reproduzir a aparência de super
 
 #### Pensando em Comportamentos Leves, Não em Rótulos Materiais
 
-O OpenPBR é projetado em torno de como a luz se comporta, em vez de em torno de categorias de materiais fixos. Em vez de selecionar um sombreador que representa “vidro”, “pele” ou “metal”, os artistas criam materiais descrevendo como a luz reflete a partir de uma superfície, passa por ela, dispersão dentro dela ou é emitida por ela. Esta abordagem incentiva uma mudança de mentalidade: os materiais não são tipos predefinidos, mas combinações de comportamentos físicos. Um único material do mundo real pode envolver vários desses comportamentos de uma só vez, e o OpenPBR torna essas contribuições explícitas em vez de ocultá-las atrás de predefinições ou modelos de sombreamento opacos.
+O OpenPBR é projetado em torno de como a luz se comporta, em vez de em torno de categorias de materiais fixos. Em vez de selecionar um sombreador que representa “vidro”, “pele” ou “metal”, os artistas constroem materiais descrevendo como a luz reflete a partir de uma superfície, passa por ela, dispersão dentro dela ou é emitida por ela. Esta abordagem incentiva uma mudança de mentalidade: os materiais não são tipos predefinidos, mas combinações de comportamentos físicos. Um único material do mundo real pode envolver vários desses comportamentos de uma só vez, e o OpenPBR torna essas contribuições explícitas em vez de ocultá-las atrás de predefinições ou modelos de sombreamento opacos.
 
 #### Separação de preocupações: os materiais são independentes da iluminação
 
@@ -381,7 +381,7 @@ O OpenPBR também inclui parâmetros que afetam o modo como o material interage 
 
 ### A camada base
 
-Na parte inferior do modelo de OpenPBR, a camada Base representa a interação fundamental entre a luz e o próprio material da superfície. A camada Base é definida por quatro características: Espessura Base, Cor Base, Metalidade e Aspereza Difusa.
+Na parte inferior do modelo de OpenPBR, a camada Base representa a interação fundamental entre a luz e o próprio material da superfície. A camada Base é definida por quatro características: Peso Base, Cor de base, Metalidade e Aspereza da Difusão.
 
 <table>
   <tr style="border: 0;">
@@ -394,7 +394,7 @@ Na parte inferior do modelo de OpenPBR, a camada Base representa a interação f
 
 +++Características da camada base
 
-* **Espessura base**: define essencialmente a intensidade da Cor base (veja abaixo), em uma escala de 0 a 1, com um valor de 0 resultando em um material predominantemente preto (sem cor) e um valor de 1 (uma combinação da maior quantidade possível de luz vermelha, verde e azul).
+* **Espessura base**: define essencialmente a intensidade da Cor de base (veja abaixo), em uma escala de 0 a 1, com um valor de 0 resultando em um material predominantemente preto (sem cor) e um valor de 1 (uma combinação da maior quantidade possível de luz vermelha, verde e azul).
 
 <table>
   <tr style="border: 0;">
@@ -591,7 +591,7 @@ A emissão controla se o material emite ou não sua própria luz (independente d
 
 ![](../assets/openpbrf/renders/emission/color/emissionColorGreen.png){width="250"}
 
-*Um material emissivo verde brilhante.*
+*Um material de emissivo verde brilhante.*
 
 +++Parâmetros de emissão
 
@@ -741,7 +741,7 @@ A emissão controla se o material emite ou não sua própria luz (independente d
 
 *Direções diferentes da tangente de Anisotropia.*
 
-* Revestimento normal: a camada Revestimento pode ser deformada em um pequeno grau para produzir a aparência de geometria de escala fina. Isso pode ser usado, por exemplo, para reproduzir a aparência de arranhões ou gotas de chuva sobre um material.
+* Normal do revestimento: a camada Coat pode ser deformada em um pequeno grau para produzir a aparência de geometria de escala fina. Isso pode ser usado, por exemplo, para reproduzir a aparência de arranhões ou gotas de chuva sobre um material.
 
 +++
 
@@ -805,7 +805,7 @@ Um ponto forte dos fluxos de trabalho de PBR é a separação de preocupações 
 
 Os fluxos de trabalho modernos do PBR visam minimizar as dependências ocultas entre os parâmetros. Ao ajustar um valor como aspereza, metalidade ou transmissão, o objetivo deve ser afetar apenas esse aspecto específico da aparência do material. Na prática, isto significa:
 
-* Evite gerar vários efeitos visuais a partir de uma única textura, a menos que haja uma justificativa física clara.
+* Evite a condução de múltiplos efeitos visuais a partir de uma única textura, a menos que haja uma clara justificação física.
 * Preferir configurações de parâmetros simples e legíveis a redes estreitamente interligadas.
 * Faça alterações incrementalmente, avaliando seu impacto isoladamente sempre que possível. Essa abordagem torna os materiais mais fáceis de entender, mais fáceis de depurar e mais previsíveis quando reutilizados em outros contextos.
 
@@ -925,9 +925,9 @@ O modelo em si é baseado nos princípios da renderização baseada fisicamente 
 
 ## Apêndice iii: Antecedentes e motivações da iniciativa OpenPBR
 
-Para entender por que o OpenPBR existe, é útil examinar como o sombreamento físico evoluiu na última década. Como a PBR se tornou o padrão do setor, a maioria das principais ferramentas 3D introduziu seus próprios shaders de superfície. Esses sombreadores tinham uma intenção amplamente semelhante: eles tinham como objetivo representar materiais do mundo real usando modelos de reflexão conservadores de energia e expondo os parâmetros ao modelo físico subjacente de uma maneira artisticamente significativa, como cor base, aspereza, metalidade e assim por diante.
+Para entender por que o OpenPBR existe, é útil examinar como o sombreamento físico evoluiu na última década. Como a PBR se tornou o padrão do setor, a maioria das principais ferramentas 3D introduziu seus próprios shaders de superfície. Esses sombreadores tinham uma intenção amplamente semelhante: eles tinham como objetivo representar materiais do mundo real usando modelos de reflexão conservadores de energia e expondo os parâmetros ao modelo físico subjacente de uma forma artisticamente significativa, como cor de base, rugosidade, metalidade e assim por diante.
 
-Fazer isso requereu muitas iterações, e o cenário 3D foi inicialmente muito fragmentado, com vários colaboradores explorando diferentes maneiras de expressar os visuais, e fazendo progresso em diferentes frentes. Uma solução seria substituída por outra, até que abordagens específicas surgiram como superiores, e o trabalho em diferentes áreas começou a convergir, levando ao surgimento de GGX, abordagens de materiais metálicos e, finalmente, OpenPBR.
+Fazer isso exigiu muitas iterações, e o panorama 3D foi inicialmente muito fragmentado, com vários colaboradores explorando diferentes maneiras de expressar os visuais, e fazendo progresso em diferentes frentes. Uma solução seria substituída por outra, até que abordagens específicas surgiram como superiores, e o trabalho em diferentes áreas começou a convergir, levando ao surgimento de GGX, abordagens de materiais metálicos e, finalmente, OpenPBR.
 
 Paralelamente, os gasodutos de produção tornaram-se mais interligados. Ativos cada vez mais necessários para alternar entre aplicativos para modelagem, texturização, desenvolvimento de aparência, iluminação, renderização e uso em tempo real. Os estúdios começaram a depender mais fortemente de formatos de intercâmbio padronizados, como USD e MaterialX, e ficou claro que um formato que permitisse o movimento de descrições de materiais especificamente também seria vantajoso.
 

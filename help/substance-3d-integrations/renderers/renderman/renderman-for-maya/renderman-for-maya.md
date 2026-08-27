@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
 description: Use materiais de Substance com o Renderman no Maya usando materiais pxrSurface ou pxrDisney para renderização de PBR.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance no plug-in Maya
 
-O plug-in Substance no Maya oferece suporte ao pxrSurface por meio do fluxo de trabalho de renderização do Renderman. O uso desse fluxo de trabalho criará um sombreador pxrSurface e converterá as saídas de Substance para uso com o material.
+O plug-in Substance no Maya oferece suporte ao pxrSurface por meio do fluxo de trabalho de renderização do Renderman. O uso desse fluxo de trabalho criará um sombreador pxrSurface e converterá as saídas Substance para uso com o material.
 
 ![](../../../assets/renderman-1.png)

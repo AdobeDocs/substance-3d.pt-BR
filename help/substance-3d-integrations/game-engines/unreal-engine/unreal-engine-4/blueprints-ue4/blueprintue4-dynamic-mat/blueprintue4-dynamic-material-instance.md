@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-material-instance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-material-instance.html"
 breadcrumb-title: ''
 description: Crie instâncias de material dinâmico a partir de materiais de Substance no tempo de execução no Unreal Engine 4 usando Blueprints.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ Você pode criar uma ocorrência de Gráfico do Substance para criar uma ocorrê
    ![](../../../../../assets/rt-02.png){width="800px"}
 1. Adicione um nó Definir material e defina o valor da variável MID como a Entrada de material. Para o destino, defina-o como o objeto ao qual deseja aplicar o material.
 1. Crie uma variável do tipo Nome. Essa variável manterá o nome dos canais definidos no material. Inicialize com um valor de “NONE”
-1. Adicione um nó Obter texturas de Substance e defina a Instância do gráfico para a variável Instância do gráfico dinâmico.
+1. Adicione um nó Obter Substance do Textura e defina a Instância do gráfico para a variável Instância do gráfico dinâmico.
 1. Adicione um nó de Loop For. Aqui você executa o loop pelas texturas de Substance. Tome o resultado de Get Substance Textures como a matriz de entrada.
 
    ![](../../../../../assets/rt-03.png){width="800px"}

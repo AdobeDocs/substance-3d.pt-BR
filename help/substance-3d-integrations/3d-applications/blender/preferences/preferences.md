@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: Configure as preferências do complemento do Substance 3D no Blender para personalizar o comportamento e as configurações do plug-in.
 helpx_creative_field: ""
@@ -67,7 +67,7 @@ As preferências do complemento podem ser encontradas na janela de preferências
 
 <b>Grupos de entrada recolhidos por padrão</b> - Alterna o clima porque os grupos de entrada do material de Substance são expandidos ou recolhidos por padrão.
 
-<b>Atualizar somente texturas por padrão</b> - Alterna parâmetros de Substance de atualização de clima afeta apenas as texturas de saída na rede de Sombreamentos do Blender. Desabilitar isso redefinirá as conexões de nó depois de ajustar os parâmetros. A ativação é recomendada ao adicionar nós adicionais a um material, caso contrário, eles serão desconectados após o ajuste dos parâmetros.
+<b>Somente atualizar texturas por padrão</b> - alterna os parâmetros de Substance de atualização de clima afeta apenas as texturas de saída na rede do Sombreamento do Blender. Desabilitar isso redefinirá as conexões de nó depois de ajustar os parâmetros. A ativação é recomendada ao adicionar nós adicionais a um material, caso contrário, eles serão desconectados após o ajuste dos parâmetros.
 
 <b>Mecanismo Remoto do Substance </b>- Define o hardware usado pelo Mecanismo Remoto do Substance.
 

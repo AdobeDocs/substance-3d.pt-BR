@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Unity versão 3.0.0 e posterior para saber mais sobre novos recursos e aprimoramentos.
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * Resolvido um problema de vazamento de memória no código C++ do plug-in, garantindo a recuperação completa da memória após o descarte de objetos.
 * Correção de um problema no Linux em que a importação do pacote de plug-ins do Unity resultava em um erro “SubstanceException: um argumento inválido foi fornecido para a API”, agora permitindo a importação bem-sucedida de arquivos SBSAR.
-* Correção de um problema em que SubstanceGraphSO.CurrentStatePreset não estava funcionando corretamente para carregar predefinições com um script de janela de editor personalizado no Unity. Um script corretivo agora está disponível em nossa página de documentação do Substance (HelpX): https://experienceleague.adobe.com/pt-br/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Correção de um problema em que SubstanceGraphSO.CurrentStatePreset não estava funcionando corretamente para carregar predefinições com um script de janela de editor personalizado no Unity. Um script corretivo agora está disponível em nossa página de documentação do Substance (HelpX): https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Correção de um erro em que as propriedades do gráfico desapareciam ao serem selecionadas novamente no editor de unidade.
 * Resolvido o problema “Tipo gerenciado desconhecido referenciado” relacionado ao SubstanceGraphSO no plug-in Unity, aprimorando a compatibilidade e a funcionalidade nas plataformas Android, especialmente para o Unity 2022.1 e potencialmente em todas as versões do Unity.
 * Correção de um problema em que a seleção “FORMATO NORMAL” na seção PARÂMETROS TÉCNICOS era exibida incorretamente como um campo de entrada de número, em vez da lista suspensa esperada com as opções DirectX e OpenGL.
@@ -211,7 +211,7 @@ ht-degree: 0%
 <b>Corrigido:</b>
 
 * Erro na exibição do inspetor ao pressionar o botão aleatório várias vezes
-* Entradas de textura nula quebrando atualizações de Substance
+* Entradas de textura nulas que quebram atualizações de Substance
 * Os alternadores “Gerar todas as saídas”, “Gerar mapas de mip” e “Somente tempo de execução” não funcionam
 * Problemas com os Namespaces
 * Erro de referência nula ao entrar no modo de reprodução com o ativo do gráfico selecionado

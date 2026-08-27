@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do complemento do Blender versão 1.0.2 para saber mais sobre novos recursos, aprimoramentos e correções de erros.
 helpx_creative_field: ""
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ***Seção De Preferências: Adicionada/Atualizada:***
 
-* *Adicionado link de preferências de pino aos fóruns da comunidade do Adobe e ao canal do Discord.*
+* *Link de preferências de fixar adicionado aos fóruns da comunidade do Adobe e ao canal do Discord.*
