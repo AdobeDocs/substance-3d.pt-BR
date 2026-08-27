@@ -38,7 +38,7 @@ Enviamos modelos para trabalhar com materiais de deslocamento, refração e alin
 1. Clique com o botão direito do mouse na fábrica de instâncias do substance e escolha “Criar uma instância de gráfico”. Isso criará uma instância do gráfico e outro material UE4. Exclua o material UE4 recém-criado, pois ele não será usado.
 
    ![](../../../../assets/02-10.png){width="300px"}
-1. Clique duas vezes na instância do material criada na etapa 1 e ative os parâmetros Textura para todos os mapas.
+1. Clique duas vezes na instância do material criada na etapa 1 e ative os parâmetros de Textura para todos os mapas.
 1. Defina a textura para a nova textura INST criada na etapa 2. Isso definirá a ocorrência do material para usar os mapas de saída do substance a partir do gráfico de ocorrência.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}

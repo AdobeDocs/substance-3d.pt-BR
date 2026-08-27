@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Alterar lista:
 
-* Adicionado um modo para habilitar o tamanho físico. Isso adicionará os cálculos de projeção triplanar à rede de nós e poderá ser ativado e desativado
+* Adicionado um modo para habilitar o tamanho físico. Isso adicionará os cálculos de projeção tripla na rede de nós e poderá ser ativado e desativado
 * Foram adicionados novos comandos de script, substanceUtilityActivatePhysicalSize para ativar/desativar o tamanho físico e substanceUtilityResetPhysicalSize para redefinir os valores de projeção se modificado.
 * Adicionado o comando substanceNodeGetPhysicalSize para adquirir o valor de tamanho físico de um gráfico.
 * Adicionados novos botões e caixas de seleção para ativar/desativar, bem como para redefinir. Adicionada uma exibição no editor de atributos do tamanho físico de um gráfico de Substance.

@@ -47,11 +47,11 @@ O Substance Designer suporta o seguinte algoritmo:
 >
 > É possível escrever um plug-in personalizado Tangent Space. Um arquivo de cabeçalho chamado **tangentspaceplugin.h** está disponível na pasta de instalação em **Substance Designer/SDK/tangentspace** e pode ser usado como uma interface.
 
-## Definir um espaço tangente personalizado
+## Definir um Espaço tangente personalizado
 
 ## Substance Painter
 
-O Substance Painter não é compatível com plug-ins personalizados do Tangent Space no momento. Isso significa que se Tangents e Binormals não estiverem presentes na malha de baixo-poli (usada para criar o projeto) eles serão recalculados com base no algoritmo MikkTSpace.
+O Substance Painter não oferece suporte a plug-ins de Espaço tangente personalizados no momento. Isso significa que se Tangents e Binormals não estiverem presentes na malha de baixo-poli (usada para criar o projeto) eles serão recalculados com base no algoritmo MikkTSpace.
 
 ## Substance Designer
 
@@ -70,7 +70,7 @@ Para definir o algoritmo de espaço tangente em Substance Designer, siga estas e
 
 ## Substance Automation Toolkit
 
-Ao assar com o Kit de ferramentas de automação, é possível especificar o plug-in Espaço tangente com um argumento de linha de comando específico:
+Ao fazer bake com o Kit de ferramentas de automação, é possível especificar o plug-in Espaço tangente com um argumento de linha de comando específico:
 
 ```
 sbsbaker normal-from-mesh --tangent-space-plugin "C:/Substance Designer/plugins⁄tangentspace⁄mikktspace.dll" ...

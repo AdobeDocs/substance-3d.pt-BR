@@ -27,12 +27,12 @@ Artefatos de sombreamento preto aparecem em várias áreas da malha quando sob i
 
 ## Explicação
 
-Uma cruz com sombreado preto geralmente significa que o mapa normal não corresponde à malha, geralmente porque a geometria da malha mudou ou foi calculada de uma forma diferente do cálculo realizado pelo padeiro. Por exemplo: a triangulação da malha é diferente entre o padeiro e o visor, que renderiza a malha e seu mapa normal.
+Uma cruz com sombreado preto geralmente significa que o mapa normal não corresponde à malha, geralmente porque a geometria da malha mudou ou foi calculada de uma forma diferente do cálculo realizado pelo baker. Por exemplo: a triangulação da malha é diferente entre a baker e o visor que renderiza a malha e seu mapa normal.
 
 ## Solução
 
-Verifique se o aplicativo que mostra a malha e seu mapa normal está sincronizado com a forma como a textura foi cozida. Isto implica:
+Certifique-se de que o aplicativo que mostra a malha e seu mapa normal esteja sincronizado com a maneira como a textura foi feita bake. Isto implica:
 
-* Verifique se o espaço tangente é idêntico entre o visualizador e o padeiro.
-* Verifique se o formato Normal é idêntico entre a vista e o padeiro.
-* Verifique se a triangulação é idêntica entre o visualizador e o padeiro. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obter mais informações.
+* Verifique se o Espaço tangente é idêntico entre o visualizador e o baker.
+* Verifique se o formato Normal é idêntico entre a exibição e a baker.
+* Verifique se a Triangulação é idêntica entre o visualizador e o baker. Consulte [esta página](../../guides/triangulating-before-bak/triangulating-before-baking.md) para obter mais informações.

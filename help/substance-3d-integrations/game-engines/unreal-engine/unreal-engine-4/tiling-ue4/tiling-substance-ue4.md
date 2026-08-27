@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
-description: Texturas de Substance de blocos no Unreal Engine 4 adicionando nós de Coordenada de textura e parâmetros escalares aos materiais.
+description: Texturas Substance de blocos no Unreal Engine 4 adicionando nós de coordenadas de Textura e parâmetros escalares aos materiais.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Tiling Substance - UE4
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance de divisão em blocos gráficos - UE4
 
-Para cobrir uma textura do substance, você precisará adicionar um nó Coordenada de textura e multiplicá-lo pelo parâmetro escalar.
+Para cobrir uma textura do substance, você precisará adicionar um nó Coordenada de Textura e multiplicá-lo pelo parâmetro escalar.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/#texturecoordinate>
 

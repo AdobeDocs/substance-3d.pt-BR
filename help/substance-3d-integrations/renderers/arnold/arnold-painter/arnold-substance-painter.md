@@ -24,15 +24,15 @@ O Substance Painter 2020.1 (6.1.0) vem com [Modelos de saída](https://experienc
 
 ![](../../../assets/arnold-export.png){width="800px"}
 
-## Arnold Standard Shader (Arnold 5 e superior)
+## Sombreador padrão Arnold (Arnold 5 e superior)
 
 | Exportar Substance Painter | Arnold AiStandardSurface |
 | --- | --- |
 | BaseColor | Base / Cor |
 | Rugosidade | Specular / Aspereza |
 | Metalicidade | Base / Metalidade |
-| Normal | (**Maya**) Geometry/ Bump Mapping / bump2d (Use como normais de espaço tangente) (**3ds** **Max**) Bitmap → Normal |
-| Altura | (**Maya**) Deslocamento Shader / deslocamento (**3ds** **Max**) Modificador de objeto → Arnold Properties → Deslocamento → Usar Mapa |
+| Normal | (**Maya**) Geometry/ Bump Mapping / bump2d (Use como normais de Espaço tangente) (**3ds** **Max**) Bitmap → Normal |
+| Altura | (**Maya**) Deslocamento Sombreador / deslocamento (**3ds** **Max**) Modificador de objeto → Arnold Propriedades → Deslocamento → Usar Mapa |
 | Emissivo | Emissão/Cor (Peso da Emissão = 1,0) |
 | Nível de anisotropia (não incluído no Modelo de saída Arnold padrão) | (**Maya**) Casaco/Anisotropia (**3ds** **Max**) Casaco/Anisotropia |
 | Nível de anisotropia (não incluído no Modelo de saída Arnold padrão) | (**Maya**) Revestimento/Rotação (**3ds** **Max**) Revestimento/Rotação |

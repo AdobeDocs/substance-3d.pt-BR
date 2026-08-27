@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Corrigido:
 
-* As configurações padrão de importação de Substance não são aplicadas a texturas criadas a partir de uma instância
+* As configurações padrão de importação de Substance não são aplicadas a texturas criados a partir de uma instância
 * O UE4 falha ao enviar uma malha para o Substance Painter após excluir o material de base
 * As atualizações das configurações de compactação no UE Editor não estão sendo aplicadas

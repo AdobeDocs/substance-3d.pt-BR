@@ -24,6 +24,6 @@ ht-degree: 0%
 
 * Ao usar o HDRP, o valor metálico no material HDRP gerado será definido como 0. Corrigido o padrão de 1.0.
 * A saída da máscara HDRP foi definida como sRGB - corrigida para desabilitar o sRGB
-* A leitura/gravação não está mais habilitada em texturas que não sejam de substância
+* A leitura/gravação não está mais habilitada em texturas que não sejam do Subsubstance
 * O Android agora é compatível corretamente com 64 bits.
 * Substance Source fixo não carregando no sistema operacional Mac

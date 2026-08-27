@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance no plug-in Maya
 
-O plug-in Substance no Maya oferece suporte ao pxrSurface por meio do fluxo de trabalho de renderização do Renderman. O uso desse fluxo de trabalho criará um sombreador pxrSurface e converterá as saídas de Substance para uso com o material.
+O plug-in Substance no Maya oferece suporte ao pxrSurface por meio do fluxo de trabalho de renderização do Renderman. O uso desse fluxo de trabalho criará um sombreador pxrSurface e converterá as saídas Substance para uso com o material.
 
 ![](../../../assets/renderman-1.png)

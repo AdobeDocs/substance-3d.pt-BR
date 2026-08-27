@@ -22,6 +22,6 @@ ht-degree: 0%
 
 O Thea Substance™ Converter permite que você crie um material Thea a partir de um arquivo SBSAR Substance™. Você pode usar os parâmetros exportados com o arquivo Substance™ para alterar a aparência das texturas e também visualizar o material Thea criado antes de salvar o resultado final.
 
-O Thea Substance™ Converter permite que você crie um material Thea a partir de um arquivo SBSAR Substance™. Você pode usar os parâmetros exportados com o arquivo Substance para alterar a aparência das texturas e também visualizar o material Thea criado antes de salvar o resultado final. Você pode usar qualquer arquivo SBSAR, mas com um material Substance™ baseado no modelo PBR metálico/áspero você garante que o material Thea criado também será um material físico.
+O Thea Substance™ Converter permite que você crie um material Thea a partir de um arquivo SBSAR Substance™. Você pode usar os parâmetros exportados com o arquivo Substance para alterar a aparência das texturas e também ver a visualização do material Thea criado antes de salvar o resultado final. Você pode usar qualquer arquivo SBSAR, mas com um material Substance™ baseado no modelo PBR metálico/áspero você garante que o material Thea criado também será um material físico.
 
 Consulte os documentos de renderização do Thea para obter mais informações. [Conversor De Substance De Renderização Do Thea](http://thearender.media/docs/fr/thea-substance-converter/menu)

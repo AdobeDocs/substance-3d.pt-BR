@@ -103,11 +103,11 @@ As tabelas abaixo listam o suporte de Rastreamento de raios do GPU para cada pad
 | Posição da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | Posição | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | Espessura da malha | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| Textura transferida da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Textura transferida partir da Malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | Direção do espaço mundial | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | Normais do espaço mundial | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
-\*: Suporta o rastreamento de raios da CPU, que é significativamente mais lento que o Rastreamento de raios do GPU.
+\*: Suporta Rastreamento de raios da CPU, que é significativamente mais lento que o Rastreamento de raios do GPU.
 
 +++

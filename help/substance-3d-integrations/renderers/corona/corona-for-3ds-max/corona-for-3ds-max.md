@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Corona 1,6 - 6
 
-Usando o [plug-in 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), você pode escolher Corona no menu Substance para configurar automaticamente o material Corona com entradas de textura Substance.
+Usando o [plug-in 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), você pode escolher Corona no menu Substance para configurar automaticamente o material Corona com entradas de textura de Substance.
 
 ![](../../../assets/corona.png){width="500px"}
 
@@ -36,6 +36,6 @@ Para a renderização Corona 7 e superior, selecionar “Substance para Corona�
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/corona-physical-material?$png$&jpegSize=200&wid=857)
 
-* **LiftGamaGain** é criado entre a saída da Cor Base e a entrada da Cor Base. Um valor de gama de 0,455 é usado para corrigir a diferença de cor.
-* **CoronaNormal** é criado entre a saída Normal e a entrada de Relevo Base, e também entre a saída Coat Normal e a entrada Clearcoat Bump. Nenhuma configuração é alterada, mas as modificações para o normal podem ser feitas aqui.
+* **LiftGamaGain** é criado entre a saída da Cor de base e a entrada da Cor de base. Um valor de gama de 0,455 é usado para corrigir a diferença de cor.
+* **CoronaNormal** é criado entre a saída Normal e a entrada de Relevo Base, e também entre a saída do Normal do revestimento e a entrada de Relevo Clearcoat. Nenhuma configuração é alterada, mas as modificações para o normal podem ser feitas aqui.
 * **CoronaMix** é criada entre a saída da Cor do brilho e a entrada da Cor do brilho. Uma Quantidade de mix de 0 é definida e um multiplicador de 2 é definido para a Camada base. Os usuários podem ajustar o valor do Valor de mixagem para controlar o brilho.

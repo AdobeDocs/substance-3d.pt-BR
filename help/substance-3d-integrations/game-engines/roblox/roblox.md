@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
-description: Use materiais de Substance no Roblox Studio com o fluxo de trabalho Aspereza metálica PBR para experiências 3D imersivas.
+description: Use materiais de Substance no Roblox Studio com o fluxo de trabalho de Aspereza metálica PBR para experiências 3D imersivas.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Roblox
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Roblox
 
-O [Roblox](https://www.roblox.com/) é uma plataforma para experiências imersivas e multiplayer em 3D. O Roblox Studio, a ferramenta de design Roblox, suporta o fluxo de trabalho Aspereza metálica PBR.
+O [Roblox](https://www.roblox.com/) é uma plataforma para experiências imersivas e multiplayer em 3D. O Roblox Studio, a ferramenta de design Roblox, é compatível com o fluxo de trabalho de Aspereza metálica PBR.
 
 <table>
 <tr style="border: 0;">
@@ -28,11 +28,11 @@ O [Roblox](https://www.roblox.com/) é uma plataforma para experiências imersiv
 
 ## Modelo do Substance 3D Designer
 
-Para criar texturas para o Roblox, você pode usar o arquivo do Substance 3D abaixo como um modelo de [gráficos de composição de Substance](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) no [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
+Para criar textura para Roblox, você pode usar o arquivo do Substance 3D abaixo como um modelo de [gráficos de composição de Substance](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) no [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home).
 
 [![Imagem do ícone de formato de arquivo sbs vinculada ao modelo roblox.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
-Este modelo de gráfico permite a pré-configuração dos nomes e tipos finais dos arquivos de textura. Este modelo pode ser instalado e reutilizado para criar novos materiais que sempre seguem as diretrizes de materiais do Roblox.
+Este modelo de gráfico permite a pré-configuração dos nomes e tipos finais de arquivos de textura. Este modelo pode ser instalado e reutilizado para criar novos materiais que sempre seguem as diretrizes de materiais do Roblox.
 
 </td>
 <td width="41.60%" style="border: 0;" valign="top">
@@ -107,7 +107,7 @@ Crie um gráfico usando o modelo Roblox e exporte bitmaps desse gráfico quando 
 * Trabalhe no seu material na [Exibição de gráfico](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view) - veja [aqui](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/getting-started/workflow-overview) para começar a usar o fluxo de trabalho
 * Quando terminar, vá para **Ferramentas > Exportar bitmaps...** na Exibição de gráfico *barra de ferramentas*
 * Na janela [Exportar bitmaps](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps), defina um caminho válido de **Destino**, verifique se *todas* as saídas estão *marcadas* e clique em **Exportar**
-* Verifique se as texturas são exportadas corretamente para o caminho de **Destino**
+* Verifique se as texturas foram exportadas corretamente para o caminho de **Destino**
 
 </td>
 <td style="border: 0;" valign="top">

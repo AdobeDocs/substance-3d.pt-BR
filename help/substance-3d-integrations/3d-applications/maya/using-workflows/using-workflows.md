@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Uso de fluxos de trabalho
 
-Em Fluxos de trabalho, você pode escolher ou criar predefinições de renderização para saídas de Substance. Essas predefinições são redes sombreadoras para um renderizador como Arnold ou Vray.
+Em Fluxos de trabalho, você pode escolher ou criar predefinições de renderização para saídas de Substance. Essas predefinições são redes de sombreador para um renderizador como Arnold ou Vray.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Em Fluxos de trabalho, você pode escolher ou criar predefinições de renderiza
 
 ![](../../../assets/workflows-4.png)
 
-Para usar um fluxo de trabalho, basta escolher a predefinição na lista suspensa e, em seguida, clicar no botão Criar rede do sombreador.
+Para usar um fluxo de trabalho, basta escolher a predefinição na lista suspensa e, em seguida, clicar no botão Criar rede de Sombreador.
 
 ![](../../../assets/workflow.gif)
 

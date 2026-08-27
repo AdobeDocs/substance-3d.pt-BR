@@ -30,11 +30,11 @@ Os parâmetros para o material de Substance estão acessíveis no SGO (Gráfico 
 
    ![](../../../assets/screen-shot-2022-03-29-at-2-27-56-pm.png)
 
-## Propriedades de procedimento
+## Propriedades processuais
 
 1. **Gerar todas as saídas**: gera todas as saídas do arquivo Substance sbsar. Por padrão, apenas as saídas usadas pelos sombreadores padrão são criadas.
 1. **Gerar Mipmaps**: irá gerar texturas mip para cada saída de Substance.
-1. **Distribuição aleatória**: este botão alterará a distribuição aleatória que o gráfico de Substance usa para gerar as texturas. Alterar esse valor criará um novo resultado para a textura calculada com base no valor de semente.
+1. **Distribuição aleatória**: este botão alterará a distribuição aleatória que o gráfico de Substance usa para gerar as texturas. Alterar esse valor criará um novo resultado para a textura calculada com base no valor semente.
 1. Os parâmetros expostos no arquivo Substance estão disponíveis no Unity. O controle Editor é baseado no tipo de parâmetro criado para o Substance.
 1. **Tratamento de predefinições:** você pode exportar ou importar arquivos de predefinições de Substance (sbsars). A exportação de uma predefinição criará um arquivo de predefinição com base nas configurações de parâmetro do Substance. É possível exportar arquivos de predefinição de Substance Designer e Substance Player que podem ser importados usando o botão Importar predefinição. Isso é útil para compartilhar predefinições de Substance entre aplicativos e equipes.
 

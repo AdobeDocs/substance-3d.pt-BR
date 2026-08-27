@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
-description: Controle o tamanho da amostragem da textura de procedimento no Maya para otimizar a qualidade e o desempenho de materiais de Substance.
+description: Controle o tamanho da amostragem de textura processual no Maya para otimizar a qualidade e o desempenho de materiais de Substance.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Procedural Sampling
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Amostragem de procedimentos
 
-As configurações de amostragem de procedimento permitem que você controle em que tamanho o plug-in obtém amostras de texturas de procedimento, como Browninan, Noise, Fractal, Mandelbrot etc. Essas configurações são específicas ao material de Substance que tem uma entrada de imagem que está usando uma textura de procedimento.
+As processuais configurações de amostragem permitem que você controle em que tamanho o plug-in faz amostras de texturas processuais, como Browninan, Noise, Fractal, Mandelbrot etc. Essas configurações são específicas ao material de Substance que tem uma entrada de imagem que está usando uma textura processual.
 
 ![](../../../assets/procedural.png)

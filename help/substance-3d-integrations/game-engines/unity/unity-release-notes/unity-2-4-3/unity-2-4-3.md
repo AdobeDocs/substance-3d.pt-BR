@@ -24,7 +24,7 @@ Lançado em dezembro de 2019
 
 Correções de erros:
 
-* Fixo: mapa normal invertido
+* Fixo: Mapa normal invertido
 * Corrigido: problema de posição vertical inicial no inspetor
 * Corrigido: manipulação da barra de rolagem na seção “Texturas geradas” do Inspetor Graph. Depurar texto limpo
 * Corrigido: erro de ortografia “PC, Max e Linux” no texto hover de Resolução de plataforma

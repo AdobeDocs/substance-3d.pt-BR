@@ -29,8 +29,8 @@ ht-degree: 0%
 
 1. Clique duas vezes no item Substance INST para abrir a janela Parâmetros.
 1. O botão Redefinir redefinirá os parâmetros do substance para o padrão. A predefinição Exportar e importar exportará um arquivo de predefinição de Substance (.sbspr) usando os valores definidos no editor. Você também pode importar uma predefinição.
-1. Em Saídas, você pode desativar e ativar saídas que geram texturas.
-1. O tamanho da saída permitirá alterar o tamanho da textura.
+1. Em Saídas, você pode desativar e ativar saídas que geram textura.
+1. O tamanho da saída permitirá que você altere o tamanho da textura.
 1. A Distribuição aleatória alterará o valor da distribuição para gerar as texturas. Isso é bom para materiais aleatórios.
 1. A seção Parâmetros permite ajustar o material.
 

@@ -33,7 +33,7 @@ Você pode facilmente trazer seu projeto de Substance Painter para o Maverick se
 **No Substance** **Painter**&#x200B;**:**
 
 1. Exporte sua malha.
-1. Exporte as texturas na mesma pasta em que a malha está, usando uma das predefinições do Maverick (exibir imagem):
+1. Exporte suas texturas na mesma pasta em que a malha está, usando uma das predefinições do Maverick (exibir imagem):
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 

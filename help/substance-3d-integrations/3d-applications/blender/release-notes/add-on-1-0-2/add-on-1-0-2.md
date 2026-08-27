@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ***Seção De Preferências: Adicionada/Atualizada:***
 
-* *Adicionado link de preferências de pino aos fóruns da comunidade do Adobe e ao canal do Discord.*
+* *Link de preferências de fixar adicionado aos fóruns da comunidade do Adobe e ao canal do Discord.*

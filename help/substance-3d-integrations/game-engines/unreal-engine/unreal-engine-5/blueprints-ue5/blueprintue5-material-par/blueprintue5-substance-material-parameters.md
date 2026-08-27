@@ -49,12 +49,12 @@ Os parâmetros de cor são alterados usando Definir cor de entrada.
 
 ## Alterando um parâmetro de número inteiro:
 
-Os parâmetros inteiros funcionam da mesma forma que a opção &#39;Definir flutuante de entrada&#39;. Você usará o nó Definir número inteiro de entrada.
+Os parâmetros inteiros funcionam da mesma forma que a Precisão decimal Definir entrada. Você usará o nó Definir número inteiro de entrada.
 
 ![](../../../../../assets/int.png)
 
 ## Identificadores
 
-Você pode encontrar o identificador de um parâmetro no INST da substância. Mova o mouse sobre o parâmetro e a dica revelará o nome do identificador. Esse é o nome definido no campo de identificador da saída em Substance Designer.
+Você pode encontrar o identificador de um parâmetro no INST da substância. Mova o mouse sobre o parâmetro e a dica revelará o nome do identificador. Esse é o nome definido no campo identificador da saída em Substance Designer.
 
 ![](../../../../../assets/screen-shot-2022-04-01-at-4-50-02-pm-copy.png)

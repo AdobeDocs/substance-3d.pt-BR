@@ -1,7 +1,7 @@
 ---
 helpx_url: 'https://helpx.adobe.com/br/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
-description: Use o recurso Correspondência por nome para isolar malhas de baixo e alto polígono e evitar sangramento de geometria durante a cozedura.
+description: Use o recurso Correspondência por nome para isolar malhas de baixo e alto polígono e evitar sangramento de geometria durante o fça bake.
 helpx_creative_field: ''
 helpx_description: bakers > Features > Matching by Name
 helpx_experience_level: ''
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 Correspondência por nome é o nome de um método de filtragem que pode ser usado em Padeiros Substance para isolar malhas de poli baixo e de poli alto com base em seu nome.
 
-Essa funcionalidade é muito útil para evitar o sangramento geométrico um sobre o outro durante o processo de cozimento para obter texturas limpas. Evita-se ter de afastar malhas (muitas vezes referidas como “explodindo”) para alcançar o mesmo resultado.
+Essa funcionalidade é muito útil para evitar que a geometria vaze uma sobre a outra durante o processo de fça bake para obter texturas limpas. Evita-se ter de afastar malhas (muitas vezes referidas como “explodindo”) para alcançar o mesmo resultado.
 
 ## Quando Usar Correspondência por Nome
 
-### Assamento de mapa normal com sangramento de malha
+### Mapa normal fazendo bake com sangria de malha
 
 Neste exemplo, o capacete na parte superior da cabeça do personagem sangra na face do personagem.
 
-Ao ativar a Correspondência por nome, podemos ignorar o capacete e assar o rosto corretamente. *Este resultado é baseado na configuração principal de Correspondência.*
+Ao ativar a Correspondência por nome, podemos ignorar o capacete e fazer bake o rosto corretamente. *Este resultado é baseado na configuração principal de Correspondência.*
 
 | *Malha* | *Correspondência Por Nome Desativada* | *Correspondendo Por Nome Em* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Ao ativar a Correspondência por nome, podemos ignorar o capacete e assar o rost
 
 Neste exemplo, os “botões” na parte superior da caixa são geometria flutuante, eles não estão conectados à malha alta de poli. Portanto, eles projetarão sombras por padrão na caixa abaixo deles, que mostrará a borda da geometria.
 
-Ao habilitar a opção Corresponder por nome para a configuração **Ignorar face de fundo**, podemos programar a oclusão do ambiente ignorando a área sob os botões para torná-la como uma caixa singular.*Este resultado é baseado no uso da configuração Ignorar Backface.*
+Ao habilitar a opção Corresponder por nome para a configuração **Ignorar face de fundo**, podemos fazer bake a oclusão de ambiente enquanto ignoramos a área sob os botões para que ela pareça uma caixa singular.*Este resultado é baseado no uso da configuração Ignorar Backface.*
 
 | *Malha* | *Correspondência Por Nome Desativada* | *Correspondendo Por Nome Em* |
 | --- | --- | --- |
@@ -90,12 +90,12 @@ A Correspondência por Nome pode ser habilitada nos [Parâmetros Comuns](../../b
 
 Os sufixos padrão são \_low e \_high e podem ser alterados da seguinte maneira:
 
-* **Substance Painter**: na [janela de cozimento](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro dos parâmetros comuns.
-* **Substance Designer**: em [Configurações do projeto](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/workspace/preferences/project-settings), nas configurações de Bicicleta de Torção.
+* **Substance Painter**: na [janela de Fça bake](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro dos parâmetros comuns.
+* **Substance Designer**: em [Configurações do projeto](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/workspace/preferences/project-settings), nas configurações do Faço bake.
 
 ## Malhas de alto polígono do zBrush
 
-Malhas de alto polígono exportadas do zBrush podem ser usadas para cozimento com o recurso Correspondência por nome, no entanto, algumas configurações podem ser seguidas:
+Malhas de alto polígono exportadas do zBrush podem ser usadas para fazer bake com o recurso Correspondência por nome, no entanto, algumas configurações podem ser seguidas:
 
 | *Formato de arquivo* | *Descrição* |
 | --- | --- |

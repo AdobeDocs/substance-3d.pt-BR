@@ -429,7 +429,7 @@ float value ) [inline]
 ```
 
 
-Atualizar entrada de flutuação de Substance
+Atualizar entrada de Precisão decimal de Substance
 
 **Parâmetros**
 

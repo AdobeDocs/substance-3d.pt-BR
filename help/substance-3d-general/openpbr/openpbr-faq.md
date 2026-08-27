@@ -23,7 +23,7 @@ OpenPBR é uma especificação de material aberto hospedada pela Academy Softwar
 
 Não há um processo formal de certificação, portanto a solicitação pode significar coisas diferentes. Na prática, as implementações variam: algumas abrangem a especificação completa, outras apenas um subconjunto, deixando de fora recursos como filme fino, dispersão ou certos comportamentos subsuperficiais. Observe também que “suporte a MaterialX” e “suporte a OpenPBR” não são a mesma coisa; um aplicativo pode suportar um sem implementar totalmente o outro.
 
-Para descobrir o que um aplicativo específico realmente suporta, use uma combinação de abordagens: verifique as notas de versão (o suporte é frequentemente adicionado de forma incremental); carregue o OpenPBR Shader Playground do ASWF e compare com uma renderização de referência para lacunas de superfície rapidamente; ou, para estúdios com investimento significativo em pipeline, pergunte diretamente ao fornecedor sobre os recursos suportados e seu roteiro.
+Para descobrir o que um aplicativo específico realmente suporta, use uma combinação de abordagens: verifique as notas de versão (o suporte é frequentemente adicionado de forma incremental); carregue o OpenPBR Sombreador Playground do ASWF e compare com uma renderização de referência para lacunas de superfície rapidamente; ou, para estúdios com investimento significativo em pipeline, pergunte diretamente ao fornecedor sobre os recursos suportados e seu roteiro.
 
 +++
 
@@ -31,7 +31,7 @@ Para descobrir o que um aplicativo específico realmente suporta, use uma combin
 
 Não totalmente, e isso é por design. O OpenPBR define um modelo de material compartilhado, mas a aparência final também é moldada por iluminação, algoritmos de renderização, gerenciamento de cores e o grau de conformidade de cada implementação com a especificação.
 
-Na prática, maximizar essa garantia significa: exportar via USD com integração com o MaterialX; validar a viagem de ida e volta com antecedência usando o plano de reprodução ASWF&#39;s OpenPBR Shader em vez de no final da produção; confirmar os níveis de suporte de seus fornecedores para quaisquer recursos avançados que você usar; e concordar antecipadamente sobre quais recursos serão e não serão usados em materiais compartilhados. A portabilidade deve ser validada ativamente, e não presumida.
+Na prática, maximizar essa garantia significa: exportar via USD com integração com o MaterialX; validar a viagem de ida e volta com antecedência usando o Playground de Sombreador de OpenPBR do ASWF em vez de no final da produção; confirmar os níveis de suporte de seus fornecedores para quaisquer recursos avançados que você usar; e concordar antecipadamente sobre quais recursos serão e não serão usados em materiais compartilhados. A portabilidade deve ser validada ativamente, e não presumida.
 
 +++
 
@@ -39,7 +39,7 @@ Na prática, maximizar essa garantia significa: exportar via USD com integraçã
 
 Sim. OpenPBR é um modelo paramétrico. Parâmetros como rugosidade, metalidade e IOR abrangem a grande maioria dos casos de uso da produção, mas não podem replicar a precisão de formatos de material medido, como X-Rite AxF, que captura dados ópticos reais de uma amostra física. Para a produção geral, o OpenPBR de trabalho é bem adequado; para aplicações que exigem correspondência exata da amostra, um formato medido pode ser mais apropriado.
 
-A pintura de carro é uma ilustração útil. É possível criar a pintura do carro no OpenPBR com um par de advertências. O OpenPBR não inclui um sombreador de pintura de carro especializado, então pode ser insuficiente para certos usos da indústria automotiva. Além disso, depende simplesmente do tipo de pintura de automóveis — algumas tintas para automóveis sempre terão propriedades que ficam fora do escopo de qualquer sombreador. Mas com esses pontos em mente, a pintura de carros mapeia naturalmente a arquitetura de camadas do OpenPBR.
+A tinta de carro é uma ilustração útil. É possível criar tinta de carro no OpenPBR com um par de advertências. O OpenPBR não inclui um sombreador de tinta de carro especializado, então pode ser insuficiente para certos usos da indústria automotiva. Além disso, depende simplesmente do tipo de tinta de carro — algumas tintas de carro sempre terão propriedades que estão fora do escopo de qualquer sombreador. Mas com esses pontos em mente, a tinta do carro mapeia naturalmente a arquitetura em camadas do OpenPBR.
 
 +++
 
@@ -49,27 +49,27 @@ A pintura de carro é uma ilustração útil. É possível criar a pintura do ca
 
 Não. Para a maioria dos artistas, o OpenPBR é simplesmente o modelo de material incorporado às ferramentas que eles já usam. Substance 3D Painter, Maya 2025.3 e 3ds Max 2026 usam o OpenPBR como material padrão; trabalhar com ele significa apenas trabalhar com o sombreador padrão. O USD e o MaterialX somente se tornam relevantes quando os materiais precisam se mover entre aplicativos. Para workflows de aplicativo único, o suporte nativo é suficiente; para pipelines de vários DCC, o USD e o MaterialX fornecem a infraestrutura de intercâmbio, mas em grande parte nos bastidores.
 
-Dito isso, o caminho de troca mais robusto para bibliotecas de materiais compartilhados é via USD com integração ao MaterialX, que fornece um contêiner padronizado e agnóstico para descrições de materiais. Os fluxos de trabalho para exportar materiais como ativos independentes (sem um modelo associado, para uso em uma biblioteca compartilhada) ainda estão em desenvolvimento ativo e ainda não são totalmente compatíveis em todos os lugares. Antes de se comprometer com uma arquitetura de biblioteca que depende disso, valide seu pipeline específico em relação aos recursos atuais.
+Dito isso, o caminho de troca mais robusto para bibliotecas de materiais compartilhados é via USD com integração MaterialX, que fornece um recipiente padronizado, renderizador-agnóstico para descrições de materiais. Os fluxos de trabalho para exportar materiais como ativos independentes (sem um modelo associado, para uso em uma biblioteca compartilhada) ainda estão em desenvolvimento ativo e ainda não são totalmente compatíveis em todos os lugares. Antes de se comprometer com uma arquitetura de biblioteca que depende disso, valide seu pipeline específico em relação aos recursos atuais.
 
 +++
 
 +++Como crio um novo projeto de OpenPBR no Substance 3D Painter?
 
-Um projeto criado sem um modelo usa o sombreador de OpenPBR por padrão. O sombreador de OpenPBR é agora a primeira opção na janela do novo projeto, substituindo o ASM. Modelos dedicados também estão disponíveis para fluxos de trabalho específicos (Anisotropia, Revestimento, Fuzz, Dispersão da subsuperfície) e a importação de um arquivo em USD que contém um material de OpenPBR configurará o projeto automaticamente. Os projetos de amostra enviados com o Substance 3D Painter também foram atualizados para usar o fluxo de trabalho do OpenPBR e são um bom ponto de partida para se familiarizar com seu funcionamento na prática.
+Um projeto criado sem um modelo usa o sombreador de OpenPBR por padrão. O sombreador de OpenPBR é agora a primeira opção na janela do novo projeto, substituindo o ASM. Modelos dedicados também estão disponíveis para fluxos de trabalho específicos (Anisotropia, Revestimento, Fuzz, Dispersão da subsuperfície) e a importação de um arquivo USD que contém um material de OpenPBR configurará o projeto automaticamente. Os projetos de amostra enviados com o Substance 3D Painter também foram atualizados para usar o fluxo de trabalho do OpenPBR e são um bom ponto de partida para se familiarizar com seu funcionamento na prática.
 
 +++
 
-+++É possível converter um projeto existente de Adobe Standard Material (ASM) em OpenPBR?
++++Posso converter um projeto de Adobe Standard Material (ASM) existente em OpenPBR?
 
 Não há conversão automática. Os projetos existentes do ASM mantêm o sombreador atual quando abertos e os modelos do ASM permanecem disponíveis para novos projetos.
 
-Para migrar manualmente para o OpenPBR, selecione o sombreador de OpenPBR na janela Configurações do sombreador e, em seguida, adicione os canais de OpenPBR relevantes por meio das Configurações do conjunto de texturas > Adicionar ou remover canais. Depois disso, revise as camadas existentes para garantir que o conteúdo esteja direcionado aos canais desejados.
+Para migrar manualmente para o OpenPBR, selecione o sombreador do OpenPBR na janela Configurações do Sombreador e adicione os canais de OpenPBR relevantes por meio das Configurações do conjunto de texturas > Adicionar ou remover canais. Depois disso, revise as camadas existentes para garantir que o conteúdo esteja direcionado aos canais desejados.
 
 +++
 
 +++Meus sombreadores personalizados precisam ser atualizados para o OpenPBR?
 
-Não — os sombreadores personalizados existentes continuam funcionando, pois as bibliotecas de sombreadores relevantes são descontinuadas em vez de removidas. No entanto, é recomendável migrar para as novas bibliotecas de sombreador; elas estão mais limpas e fáceis de trabalhar. Consulte o log de alterações do API de sombreamento no menu Ajuda para obter detalhes.
+Não — os shaders personalizados existentes continuam funcionando, pois as bibliotecas de sombreador relevantes são descontinuadas em vez de removidas. No entanto, é recomendável migrar para as novas bibliotecas de sombreador; elas estão mais limpas e fáceis de trabalhar. Consulte o log de alterações do API de sombreamento no menu Ajuda para obter detalhes.
 
 +++
 

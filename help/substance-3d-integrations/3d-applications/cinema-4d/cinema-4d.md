@@ -24,10 +24,10 @@ ht-degree: 0%
 >
 > O plug-in Substance é instalado nativamente no Cinema 4D R18 e superior e desenvolvido pela Maxon.
 
-O plug-in Substance consiste basicamente em dois componentes: **arquivos de Substance** e um **sombreador de Substance**.
+O plug-in Substance consiste basicamente em dois componentes: **arquivos de Substance** e um **sombreador de**.
 
 * Os ativos de Substance representam os Substance reais no Cinema 4D. Eles são gerenciados no Substance Asset Manager.
-* o sombreador de Substance conecta os canais de saída dos ativos de Substance com canais de Cinema 4D.
+* O Substance sombreador conecta os canais de saída dos ativos de Substance com os canais de Cinema 4D.
 
 ## Sumário
 
