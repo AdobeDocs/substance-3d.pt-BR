@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: Gere máscaras de opacidade convertendo raios perdidos em imagens binárias em tons de cinza para efeitos de transparência.
 helpx_creative_field: ""

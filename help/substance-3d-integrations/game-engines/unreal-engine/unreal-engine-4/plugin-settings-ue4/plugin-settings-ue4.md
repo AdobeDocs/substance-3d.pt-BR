@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
 breadcrumb-title: ''
 description: Defina as configurações do plug-in Substance no Unreal Engine 4 por meio das Configurações do projeto para personalizar o comportamento do plug-in.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Revise as notas de versão do plug-in Maya versão 3.0.0 e posterior para saber mais sobre novos recursos, melhorias e correções de erros.
 helpx_creative_field: ""

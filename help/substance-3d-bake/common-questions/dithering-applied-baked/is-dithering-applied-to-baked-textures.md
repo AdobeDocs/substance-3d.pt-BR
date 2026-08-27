@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
 description: Entenda se o pontilhamento é aplicado a texturas cozidas e como ele afeta a qualidade da textura.
 helpx_creative_field: ""

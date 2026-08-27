@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: Descubra o que é e saiba como salvar informações de malha 3D em arquivos de textura para aprimorar os materiais em Substance.
 helpx_creative_field: ""

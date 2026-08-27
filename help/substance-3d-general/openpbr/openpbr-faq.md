@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++O que é OpenPBR e qual versão é compatível com o Painter?
 
-OpenPBR é uma especificação de material aberto hospedada pela Academy Software Foundation, definindo um modelo de sombreamento padronizado projetado para funcionar de forma consistente entre os aplicativos. [A documentação da Painter tem mais informações sobre como usar o OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home).
+OpenPBR é uma especificação de material aberto hospedada pela Academy Software Foundation, definindo um modelo de sombreamento padronizado projetado para funcionar de forma consistente entre os aplicativos. [A documentação da Painter tem mais informações sobre como usar o OpenPBR](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/home).
 
 +++
 

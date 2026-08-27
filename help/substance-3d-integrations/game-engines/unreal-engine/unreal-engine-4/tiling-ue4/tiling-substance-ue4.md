@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
 description: Texturas Substance de blocos no Unreal Engine 4 adicionando nós de coordenadas de Textura e parâmetros escalares aos materiais.
 helpx_creative_field: ""
