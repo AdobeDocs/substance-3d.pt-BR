@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Saiba como acessar e usar a janela fazer bake no Substance 3D Designer para fazer bake informações de modelo no textura.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-A janela de cozimento pode ser acessada por meio do arquivo de malha na janela do [Explorer](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Clique com o botão direito do mouse no nome da malha e escolha “**Informações do modelo de cozimento**” para abrir a janela de cozimento.
+A janela de cozimento pode ser acessada por meio do arquivo de malha na janela do [Explorer](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html). Clique com o botão direito do mouse no nome da malha e escolha “**Informações do modelo de cozimento**” para abrir a janela de cozimento.
 
 ## Visão geral
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
 breadcrumb-title: ''
 description: Crie Definições de instância de material com materiais de Substance no Unreal Engine 4 para otimizar o desempenho de renderização da GPU.
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ Enviamos modelos para trabalhar com materiais de deslocamento, refração e alin
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}
 
-Agora você tem uma instância de material UE4 que está usando um conjunto específico de texturas do substance. Esta é uma maneira mais otimizada de trabalhar com várias substâncias em um projeto UE4. Para saber como criar um MID usando o blueprint, verifique esta página. [Blueprint(UE4): instância de material dinâmico](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+Agora você tem uma instância de material UE4 que está usando um conjunto específico de texturas do substance. Esta é uma maneira mais otimizada de trabalhar com várias substâncias em um projeto UE4. Para saber como criar um MID usando o blueprint, verifique esta página. [Blueprint(UE4): instância de material dinâmico](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

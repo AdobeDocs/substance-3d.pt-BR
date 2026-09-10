@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: Use arquivos SBSAR Substance diretamente no renderizador Maverick para edição de material em tempo real e controle de parâmetro.
 helpx_creative_field: ""

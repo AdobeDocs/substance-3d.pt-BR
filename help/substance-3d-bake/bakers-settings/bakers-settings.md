@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: Explore todas as configurações de panificação disponíveis e saiba como configurar cada tipo de panificação para obter os melhores resultados de geração de textura.
 helpx_creative_field: ""

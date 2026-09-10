@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Resolva falhas de fça bake de Colorir mapa a partir duma malha verificando as propriedades de cor de malha e o mapeamento UV.
 helpx_creative_field: ""

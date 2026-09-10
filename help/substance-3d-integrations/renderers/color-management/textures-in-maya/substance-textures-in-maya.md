@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
 description: Defina as configurações de espaço de cor para texturas no Maya para garantir o gerenciamento de cores e a renderização precisos.
 helpx_creative_field: ""

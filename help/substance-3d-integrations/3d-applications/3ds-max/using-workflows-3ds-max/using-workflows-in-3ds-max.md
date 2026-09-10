@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: Use fluxos de trabalho de renderização no 3ds Max para criar automaticamente redes de sombreador para diferentes renderizadores a partir de materiais de Substance.
 helpx_creative_field: ""

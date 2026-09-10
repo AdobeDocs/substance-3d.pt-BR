@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-are-assbin-files.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-questions/what-are-assbin-files.html"
 breadcrumb-title: ''
 description: Saiba o que são arquivos Assbin e como são usados como arquivos de cache de geometria para acelerar as operações de cozimento.
 helpx_creative_field: ""
@@ -32,4 +32,4 @@ ht-degree: 0%
 > 
 > Atribua aos arquivos versões pré-processadas das malhas de alto polígono usadas durante o processo de fça bake. Eles são mais rápidos de ler do que os arquivos de malha originais, o que permite fazer bake novamente mais rapidamente ao iterar nas configurações de Baker. Eles podem ser removidos com segurança. O Substance Painter irá regenerá-los, se necessário. No entanto, isso pode afetar o desempenho da panificação.
 > 
-> É possível nunca gerar esses arquivos indo até as [preferências principais](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) do Substance Painter e desabilitando a opção “Salvar arquivos de cena pré-processados”.
+> É possível nunca gerar esses arquivos indo até as [preferências principais](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/spdoc/general-71008262.html) do Substance Painter e desabilitando a opção “Salvar arquivos de cena pré-processados”.

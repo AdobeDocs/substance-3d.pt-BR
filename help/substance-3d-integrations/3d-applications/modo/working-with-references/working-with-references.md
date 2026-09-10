@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-references.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/working-with-references.html"
 breadcrumb-title: ''
 description: Gerencie referências de materiais de Substance no MODO para compartilhar materiais entre vários objetos e cenas.
 helpx_creative_field: ""

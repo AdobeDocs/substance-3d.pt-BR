@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
 description: Defina as configurações do plug-in Substance no Unreal Engine 5 por meio de Configurações do projeto para personalizar o comportamento do plug-in.
 helpx_creative_field: ""

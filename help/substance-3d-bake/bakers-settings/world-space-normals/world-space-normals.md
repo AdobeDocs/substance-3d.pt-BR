@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: Salve normais de malha, tangentes e binormais no textura usando coordenadas do espaço global para workflows avançados.
 helpx_creative_field: ""

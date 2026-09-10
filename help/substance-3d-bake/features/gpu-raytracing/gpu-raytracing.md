@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: Permita que o Rastreamento de raios do GPU acelerado por hardware acelere os cálculos de cozimento em 25x ou mais para workflows mais rápidos.
 helpx_creative_field: ""

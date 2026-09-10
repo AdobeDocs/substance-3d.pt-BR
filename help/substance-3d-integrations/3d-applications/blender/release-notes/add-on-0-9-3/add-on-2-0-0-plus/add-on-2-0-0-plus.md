@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
 breadcrumb-title: ''
 description: Revise as notas de versão do complemento do Blender versão 2.0.0 e posterior para saber mais sobre novos recursos e melhorias.
 helpx_creative_field: ""

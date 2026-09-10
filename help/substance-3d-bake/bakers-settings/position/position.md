@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: Calcule e salve o local da geometria da malha no textura para criar efeitos baseados em volume e máscaras de gradiente.
 helpx_creative_field: ""

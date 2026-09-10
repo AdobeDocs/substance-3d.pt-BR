@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Use as saídas de Substance e metálicas no Toolbag 2 para visualização de material e renderização em tempo real.
 helpx_creative_field: ""

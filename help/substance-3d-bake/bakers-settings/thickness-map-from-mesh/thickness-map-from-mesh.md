@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: Gere mapas de espessura lançando raios para dentro das superfícies da malha para uso em sombreadores e mascaramento SSS.
 helpx_creative_field: ""

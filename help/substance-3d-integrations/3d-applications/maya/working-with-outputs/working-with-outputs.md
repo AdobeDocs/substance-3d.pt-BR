@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
 description: Ative e desative as saídas de material de Substance no Maya para controlar quais texturas são computadas e usadas.
 helpx_creative_field: ""

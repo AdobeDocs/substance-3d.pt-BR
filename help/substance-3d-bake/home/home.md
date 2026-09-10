@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Saiba como usar o Substance Bakers para calcular informações baseadas em malha em arquivos de textura e aprimorar o fluxo de trabalho de texturização.
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ Esta documentação aborda os <b>fundamentos do faço bake</b> e os <b>problemas
 ### Problemas comuns
 
 * [Serrilhado em emendas UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [A saída do baker está totalmente preta ou vazia](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [A saída do baker está totalmente preta ou vazia](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [Falha ao fazer bake com Colorir mapa a partir duma malha](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Cruz sombreamento preta é visível na superfície da malha](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [As partes da malha sangram entre si](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

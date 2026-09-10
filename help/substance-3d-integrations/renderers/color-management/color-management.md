@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: Entenda o gerenciamento de cores e a correção de gama ao usar materiais de Substance com renderizadores diferentes.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Adotaremos uma abordagem simplista ao afirmar que a renderização de espaço li
 
 ## Gerenciamento de Cores
 
-A finalidade deste documento é detalhar o processo de trabalho com o textura exportado do **Substance Painter** e do **Substance Designer** no [software 3D](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) e renderizadores.
+A finalidade deste documento é detalhar o processo de trabalho com o textura exportado do **Substance Painter** e do **Substance Designer** no [software 3D](https://www.adobe.com/br/products/substance3d/3d-augmented-reality.html) e renderizadores.
 
 A maneira correta de interpretar uma imagem usada como entrada para um canal de material depende de como a imagem é usada na cena. O espaço da cor, a codificação e se os valores de cor são proporcionais à **luminância com referência em cena** ou à **luminância com referência em exibição** também desempenham um papel importante.
 

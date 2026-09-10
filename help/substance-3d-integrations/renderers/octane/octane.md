@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: Renderize materiais de Substance com Octane usando o renderizador autônomo ou plug-ins DCC no 3ds Max e MODO.
 helpx_creative_field: ""

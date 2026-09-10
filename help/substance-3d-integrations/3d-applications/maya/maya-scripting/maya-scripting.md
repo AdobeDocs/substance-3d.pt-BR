@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
 description: Use a API do Substance Maya para criar e gerenciar materiais de Substance em seus fluxos de trabalho do Maya.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: Gere texturas de curvatura precisas a partir de malhas de alto polígono usando Rastreamento de raios para a detecção precisa de bordas.
 helpx_creative_field: ""

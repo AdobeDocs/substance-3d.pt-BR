@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: Entenda como os nós de saída de Substance funcionam no Maya para conectar texturas computadas a redes de sombreador.
 helpx_creative_field: ""

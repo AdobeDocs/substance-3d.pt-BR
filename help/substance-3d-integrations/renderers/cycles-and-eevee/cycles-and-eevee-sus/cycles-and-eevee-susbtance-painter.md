@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: Exporte texturas de Substance Painter para os renderizadores Ciclos do Blender e Véspera usando as configurações de saída apropriadas.
 helpx_creative_field: ""

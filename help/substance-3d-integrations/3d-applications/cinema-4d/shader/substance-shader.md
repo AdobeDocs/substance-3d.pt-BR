@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: Entenda como os sombreadores de Substance vinculam ativos de Substance a materiais de Cinema 4D para renderizar fluxos de trabalho.
 helpx_creative_field: ""

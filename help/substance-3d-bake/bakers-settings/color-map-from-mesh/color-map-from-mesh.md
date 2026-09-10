@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Projete propriedades de cores de malhas de alto polígono no textura para fazer bake policristalinas ou IDs de material para máscaras de seleção.
 helpx_creative_field: ""
