@@ -73,7 +73,7 @@ Consulte os [parâmetros comuns](../../../bakers-settings/common-parameters/comm
 * **Adicionando um novo baker:** Clique no botão “Adicionar Baker”.
 * **Removendo um baker:** selecione o baker na lista e clique no botão “Excluir baker”.
 * **Movendo um baker para o topo:** selecione o baker na lista e clique no botão “Puxar para o topo”.
-* **Movendo um baker para baixo:**Selecione o baker na lista e clique no botão “Empurrar para baixo”.
+* **Movendo um baker para baixo:**&#x200B;Selecione o baker na lista e clique no botão “Empurrar para baixo”.
 
 Cada baker no herda por padrão os Valores padrão (veja acima). O tamanho (resolução), por exemplo, pode ser substituído clicando na célula na linha do padeiro. Isso é verdadeiro para as outras configurações na linha.
 

@@ -60,24 +60,24 @@ As tabelas abaixo listam o suporte de Rastreamento de raios do GPU para cada pad
 
 | Baking | Suporta Rastreamento de raios do GPU |
 | --- | --- |
-| Oclusão Ambiente | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Dobra normal | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Cor | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Curvatura | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Altura | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normal | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Espaço mundial normal | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Oclusão Ambiente | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Dobra normal | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Cor | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Curvatura | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Altura | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normal | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Espaço mundial normal | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | Baking | Suporta Rastreamento de raios do GPU |
 | --- | --- |
-| Máscara de opacidade | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posição | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Posição baixa | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Espessura | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Textura transferida | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Mundo em tangente | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Máscara de opacidade | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posição | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Posição baixa | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Espessura | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Textura transferida | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Mundo em tangente | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ As tabelas abaixo listam o suporte de Rastreamento de raios do GPU para cada pad
 
 | Baking | Suporta Rastreamento de raios do GPU |
 | --- | --- |
-| Oclusão Ambiente | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Oclusão de ambiente da malha | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Normais dobrados da malha | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Cor da malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Converter UV para SVG | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Curvatura da malha | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Altura da malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Normal da malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| Oclusão Ambiente | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Oclusão de ambiente da malha | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Normais dobrados da malha | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Cor da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Converter UV para SVG | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Curvatura da malha | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Altura da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Normal da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | Baking | Suporta Rastreamento de raios do GPU |
 | --- | --- |
-| Máscara de opacidade da malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posição da malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Posição | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Espessura da malha | <div><img alt="(assinalar)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Textura transferida partir da Malha | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Direção do espaço mundial | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Normais do espaço mundial | <div><img alt="(erro)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Máscara de opacidade da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posição da malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Posição | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Espessura da malha | <div><img alt="(assinalar)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Textura transferida partir da Malha | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Direção do espaço mundial | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Normais do espaço mundial | <div><img alt="(erro)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: Suporta Rastreamento de raios da CPU, que é significativamente mais lento que o Rastreamento de raios do GPU.

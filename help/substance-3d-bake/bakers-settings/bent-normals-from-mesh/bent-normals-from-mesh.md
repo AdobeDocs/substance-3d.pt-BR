@@ -33,7 +33,7 @@ As Dobras normais do baker de malha calculam uma textura que descreve a direçã
 | *Parâmetro* | *Descrição* |
 | --- | --- |
 | **Raios secundários** | Quantidade de raios de oclusão. Um valor alto produzirá menos ruído, mas será mais longo para calcular. |
-| **Distância mínima do oclusor** | Distância mínima em que os raios de oclusão atingirão a alta geometria de poli**.** |
+| **Distância mínima do oclusor** | Distância mínima em que os raios de oclusão atingirão a alta geometria de poli&#x200B;**.** |
 | **Distância Máxima do Ocultador** | Distância máxima em que os raios de oclusão atingirão a alta geometria poli. |
 | **Em relação à caixa delimitadora** | Se ativado, os cálculos de distância de raio são baseados no espaço normalizado (0 a 1) da malha de baixo-polímero. Se desativado, o cálculo da distância de raio é baseado em unidades especificadas na malha de baixo polímero quando ele foi exportado (metros, centímetros etc.). |
 | **Ângulo de Propagação** | Ângulo máximo de propagação dos raios de oclusão. O padrão é 180. |

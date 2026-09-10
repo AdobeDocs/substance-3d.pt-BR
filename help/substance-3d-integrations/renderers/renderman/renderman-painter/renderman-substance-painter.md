@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Renderman - Substance Painter
 
-O Substance Painter 2020.1 (6.1.0) oferece suporte a [**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney](https://docs.substance3d.com/display/SPDOC/Export).
+O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.substance3d.com/display/SPDOC/Export)**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney.
 
 ![](../../../assets/renderman.png)
 

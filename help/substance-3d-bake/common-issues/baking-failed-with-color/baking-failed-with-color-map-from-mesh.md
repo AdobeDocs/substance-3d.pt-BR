@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Possível mensagem de erro:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Fazendo bake ] Falha ao Fazer bake (Colorir mapa a partir duma malha)\
 > Não foi possível localizar as cores do vértice
