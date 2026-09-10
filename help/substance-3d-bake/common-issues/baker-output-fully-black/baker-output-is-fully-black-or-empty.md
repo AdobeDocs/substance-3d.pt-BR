@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
-description: Solucione problemas sobre por que as saídas de panificação estão totalmente pretas ou vazias e saiba como corrigir problemas de malha e UV.
+description: Solucione problemas de porque as saídas de baker estão totalmente pretas ou vazias e saiba como corrigir problemas de malha e UV.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Baker output is fully black or empty
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Problema**
 > 
-> O resultado de um padeiro é uma textura preta ou vazia:
+> O resultado de uma baker é uma textura preta ou vazia:
 > 
 > ![](../../assets/black.png)
 
@@ -32,14 +32,14 @@ ht-degree: 0%
 >
 > **Explicação**
 > 
-> Uma textura preta significa que o padeiro não conseguiu encontrar as informações necessárias para gerar um resultado. Por exemplo, o processo de cozimento não encontrou a malha de alto-poli para combinar com o baixo-poli, resultando em nada para comparar.
+> Uma textura preta significa que o baker não encontrou as informações necessárias para gerar um resultado. Por exemplo, o processo de fça bake não encontrou a malha de alto-polígono para combinar com o baixo-polígono, resultando em nada para comparar.
 
 >[!NOTE]
 >
 > **Solução**
 > 
-> * Verifique se a malha de alto polietileno necessária para o padeiro foi carregada corretamente (consulte o arquivo de registro/janela para ver se há erros).
+> * Verifique se a malha de alto polígono necessária para o baker foi carregada corretamente (consulte o arquivo de registro/janela para verificar se há erros).
 > * Verifique se as malhas de baixo ou alto polígono não são muito grandes (mais de um quilômetro) ou muito pequenas (menos de um centímetro).
-> * Verifique se o padeiro conseguiu ler/processar a malha (consulte o arquivo de registro/janela para ver se há erros).
+> * Verifique se o baker conseguiu ler/processar a malha (consulte o arquivo de registro/janela para ver se há erros).
 > * Verifique se o recurso [Correspondência por Nome](../../features/matching-by-name/matching-by-name.md) não foi configurado corretamente (alguns objetos podem se excluir e nunca se sobrepor).
 > * Verifique se os UVs de baixo polígono estão dentro do intervalo 0-1.

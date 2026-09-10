@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
 breadcrumb-title: ''
 description: Use as configurações do tamanho físico para aplicar e dimensionar materiais de Substance com base em dimensões reais no Unity.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Tamanho físico no Unity
 
-O recurso de tamanho físico no plug-in do [Substance 3D](https://www.adobe.com/br/products/substance3d/3d-augmented-reality.html) para o Unity permite que materiais de Substance sejam aplicados e dimensionados com base em seus tamanhos reais. As dimensões são definidas em aplicativos Substance como Designer e mostradas na seção Tamanho físico do painel de plug-ins.
+O recurso de tamanho físico no plug-in do [Substance 3D](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) para o Unity permite que materiais de Substance sejam aplicados e dimensionados com base em seus tamanhos reais. As dimensões são definidas em aplicativos Substance como Designer e mostradas na seção Tamanho físico do painel de plug-ins.
 
 No momento, o recurso está disponível apenas para fluxos de trabalho HDRP.
 

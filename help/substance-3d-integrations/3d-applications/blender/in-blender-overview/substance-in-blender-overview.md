@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Saiba mais sobre o complemento do Substance 3D para Blender e como importar e trabalhar com materiais do Substance em seus projetos.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Visão geral do plug-in
 
-O complemento do Substance 3D permite importar materiais do Substance para o Blender. Usando o painel Substance 3D, você pode gerenciar e personalizar os materiais de Substance em seu projeto a partir de um único local. O complemento gera mapas de textura de arquivos .sbsar e os usa para criar um material de mesclagem. Essas texturas são atualizadas automaticamente quando os parâmetros de Substance são ajustados.
+O complemento do Substance 3D permite importar materiais do Substance para o Blender. Usando o painel Substance 3D, você pode gerenciar e personalizar os materiais de Substance em seu projeto a partir de um único local. O complemento gera mapas de textura a partir de arquivos .sbsar e os usa para criar um material de mesclagem. Essas texturas são atualizadas automaticamente quando os parâmetros de Substance são ajustados.
 
 ## Importação de um material de Substance
 
@@ -38,13 +38,13 @@ O complemento do Substance 3D permite importar materiais do Substance para o Ble
 
 ## O painel Substance 3D
 
-O painel Substance 3D é usado para gerenciar os materiais de Substance em um projeto e ajustar seus parâmetros individuais. A seção Parâmetros de gráfico tem controles para resolução de textura, divisão em blocos gráficos, randomização e predefinições. A seção Saídas tem controles para os formatos de imagem das texturas geradas. A seção Parâmetro de Substance é onde os parâmetros de Substance podem ser ajustados.
+O painel Substance 3D é usado para gerenciar os materiais de Substance em um projeto e ajustar seus parâmetros individuais. A seção Parâmetros de gráfico tem controles para resolução de textura, divisão em blocos gráficos, aleatoriedade e predefinições. A seção Saídas tem controles para os formatos de imagem das texturas geradas. A seção Parâmetro de Substance é onde os parâmetros de Substance podem ser ajustados.
 
 Para obter mais informações, consulte a página [Painel do Substance 3D](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 
 ## Preferências
 
-Comportamentos padrão e outras configurações podem ser ajustados nas preferências do complemento. A opção “Anexar automaticamente o material” pode ser habilitada para anexar automaticamente materiais Substance a objetos e substituir a atribuição de material atual. “Realçar automaticamente o material para os objetos selecionados” alterará o material realçado no painel Substance 3D se um objeto com esse material for selecionado. Ativar a opção “Atualização automática de texturas de ciclos” permitirá que as texturas sejam atualizadas na Janela de visualização 3D ao usar a visualização de renderização de ciclos.
+Comportamentos padrão e outras configurações podem ser ajustados nas preferências do complemento. A opção “Anexar automaticamente o material” pode ser habilitada para anexar automaticamente materiais Substance a objetos e substituir a atribuição de material atual. “Realçar automaticamente o material para os objetos selecionados” alterará o material realçado no painel Substance 3D se um objeto com esse material for selecionado. Ativar a opção “texturas de atualização automática de ciclos” permitirá que as texturas sejam atualizadas na Janela de visualização 3D ao usar a visualização de renderização de ciclos.
 
 O Deslocamento pode ser ativado com a opção para Height na seção Saídas. Aqui você poderá também ajustar o formato do arquivo e a profundidade de bits de cada saída.
 
@@ -72,7 +72,7 @@ Para obter mais informações, consulte a página [Preferências](../../../3d-ap
 
 ## Encontre mais materiais sobre Substance
 
-Milhares de materiais e outros ativos criados profissionalmente estão disponíveis para download na [Substance 3D Assets](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html). Muitos outros ativos compartilhados pela Comunidade gratuitamente podem ser encontrados na [página Ativos da comunidade do Substance 3D](https://helpx.adobe.com/br/substance-3d/unlisted/community-assets.html)
+Milhares de materiais e outros ativos criados profissionalmente estão disponíveis para download na [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html). Muitos outros ativos que foram compartilhados pela Comunidade gratuitamente podem ser encontrados na [Comunidade do Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)
 
 ## Comunidade
 

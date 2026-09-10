@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
 breadcrumb-title: ''
 description: Diagnostique e resolva problemas comuns com o complemento do Substance 3D no Blender usando o console do sistema.
 helpx_creative_field: ""
@@ -40,13 +40,13 @@ Para relatar um erro, ingresse no canal #substance-blender-beta no [servidor do 
 * *Problemas ao instalar o complemento./ Os materiais estão travados no processamento entre as sessões. / Os materiais não geram texturas entre as sessões. / Erros ao carregar arquivos .sbsar.*
   * Isso pode ser um problema com a instalação das ferramentas de integração e, geralmente, é corrigido removendo manualmente as ferramentas. Visite a página [Desinstalando o Complemento](../../../3d-applications/blender/uninstalling-the-add-on/uninstalling-the-add-on.md) para obter instruções de remoção manual.
 * *Os materiais não são atualizados na exibição de renderização de Ciclos*.
-  * Por padrão, o complemento não atualiza as texturas na exibição de renderização Ciclos. No entanto, elas podem ser atualizadas à força ativando-se <b>Ciclos de atualização automática de texturas</b>nas preferências do complemento.
+  * Por padrão, o complemento não atualiza as texturas na exibição de renderização Ciclos. No entanto, elas podem ser atualizadas à força ativando-se <b>texturas de atualização automática de ciclos</b>nas preferências do complemento.
 * Os parâmetros parecem ser revertidos após salvar na exibição de renderização Ciclos.
   * Esse é um problema de cache conhecido no lado do Blender que é apenas visual. Ao salvar, nenhuma mensagem está sendo enviada ao mecanismo remoto para atualizar os arquivos de textura gerados. As texturas parecerão normais depois de sair da exibição de renderização Ciclos e alternar de volta para ela.
 * *Os materiais não estão mais sendo atualizados após desfazer/alterar os parâmetros.*
   * Os materiais podem falhar ao serem atualizados após desfazer as ações. Embora os parâmetros revertam para o estado anterior, as texturas não são desfeitas para corresponder. Para fazer a atualização da textura novamente, use o botão atualizar para retornar os parâmetros para o padrão e recarregar as texturas.
 * *As cores definidas no Substance Designer aparecem de forma ligeiramente diferente no seletor de cores do Blender, e os valores de cor não são os mesmos.*
-  * O Blender aplica uma correção de gama às cores somente no seletor de cores do Blender. Embora isso cause uma discrepância no seletor de cores, as cores exibidas nas texturas são precisas aos valores definidos nos aplicativos Substance.
+  * O Blender aplica uma correção de gama às cores somente no seletor de cores do Blender. Embora isso cause uma discrepância no seletor de cores, as cores exibidas no textura são precisas aos valores definidos nos aplicativos Substance.
 * Erro de console “wmic is not recognition” do *ao carregar um material no Windows.*
   * Esse problema ocorre quando C:\Windows\System32\wbem\ não está incluído nas variáveis de sistema PATH. Consulte a documentação para obter a sua versão específica do Windows.
 * *erro “Tipo de CPU inválido é executável” no Mac.*

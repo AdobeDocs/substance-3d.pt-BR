@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-4.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Unity versão 2.4.4 para saber mais sobre novos recursos, aprimoramentos e correções de erros.
 helpx_creative_field: ""
@@ -24,8 +24,8 @@ Lançado em fevereiro de 2020
 
 * Adicionado: Suporte adequado para 2019.3: Corrigidas alterações da API do Unity que quebraram o objeto de script do plug-in Substance. Objetos reformulados para funcionar com atualizações de API 2019.3. Fixo - O uso de material personalizado faz com que o material fique preto ao sair da reprodução
 * Corrigido - Falha ao usar a função Duplicate() em um script e depois inserir e sair da reprodução.
-* Fixo - aplicação de material, configurações de bloco gráfico e redefinição de sombreador em 2019.3
-* Fixo - O sombreador de material HDRP não está atualizando alterações de parâmetro
+* Fixo - Lado a lado de material, configurações e redefinição de sombreador em 2019.3
+* Fixo - O Sombreador de material HDRP não está atualizando as alterações de um parâmetro
 * Corrigido - o mapa de máscara HDRP não está sendo atualizado
 * Fixo - Adicionar parâmetro de string para a função Duplicar
 * Corrigido - Corrigir o suporte ao Linux na versão mais recente do Unity Stable
@@ -34,6 +34,6 @@ Lançado em fevereiro de 2020
 Problemas conhecidos:
 
 * Renomear o ativo HDRP fará com que o plug-in não gere um mapa de máscara.
-* Ao usar o plug-in Substance em um projeto HDRP, o uso da compactação Raw define as texturas em tons de cinza como Alpha 8.
+* Ao usar o plug-in Substance em um projeto HDRP, o uso da compactação Raw define as texturas em tons de cinza como Alpha8.
 * GameObjects será desmarcado no modo Reproduzir
 * Clicar em “Gerar mapas de mip” em um gráfico de Substance no modo de reprodução, a alteração dos parâmetros resulta em um travamento infinito.

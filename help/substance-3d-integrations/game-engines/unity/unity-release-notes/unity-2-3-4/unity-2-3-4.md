@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in Unity versão 2.3.4 para saber mais sobre novos recursos, aprimoramentos e correções de erros.
 helpx_creative_field: ""
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ### Correções de erros:
 
-* Corrigidos problemas relacionados à importação de um Substance sem nenhum mapa de textura
+* Correção de problemas relacionados à importação de um Substance sem mapas de textura
 * Correção de um problema com o processo de reflexão que não funcionava corretamente no Unity 2019.x
 * Correção de problemas de manuseio pré-fabricado ao importar um pacote contendo pré-fabricações com materiais Substance
 * Atribuições fixas de material/textura não transitadas após o processo de reflexão
 * Correção de um problema relacionado à alteração de sombreadores que causava quebra de materiais
 * Correção de um problema em que a aspereza não era embalada no canal alfa metálico
-* Correção de um problema em que, quando o plug-in Substance era instalado, a alteração das configurações de importação para texturas que não são da substância revertia determinadas opções.
+* Correção de um problema em que, quando o plug-in Substance era instalado, a alteração das configurações de importação para texturas que não eram do Subsubstance revertia determinadas opções.
 * Correção de um problema em que o Substance Source não abria no Mac
 
 ## Problemas conhecidos:

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Use as saídas de Substance e metálicas no Toolbag 2 para visualização de material e renderização em tempo real.
 helpx_creative_field: ""
@@ -44,7 +44,7 @@ O Substance 3D Painter usa o sombreador PBR metálico como padrão; no entanto, 
 1. Definir Reflexo como GGX
 1. Adicione as texturas aos canais apropriados, conforme mostrado no gráfico a seguir:
 
-   | Substance 3D Painter Textura | Espaço de cores | Material da bolsa de ferramentas |
+   | Textura do Substance 3D Painter | Espaço de cores | Material da bolsa de ferramentas |
    | --- | --- | --- |
    | Cor de base | sRGB | Albedo |
    | Rugosidade | sRGB desativado | Microsuperfície - Brilho - Clique Inverter |

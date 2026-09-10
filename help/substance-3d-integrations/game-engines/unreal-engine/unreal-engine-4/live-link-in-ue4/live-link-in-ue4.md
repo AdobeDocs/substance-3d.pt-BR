@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4.html"
 breadcrumb-title: ''
 description: Use o Live Link no Unreal Engine 4 para sincronizar materiais de Substance entre o Painter e o UE4 em tempo real.
 helpx_creative_field: ""

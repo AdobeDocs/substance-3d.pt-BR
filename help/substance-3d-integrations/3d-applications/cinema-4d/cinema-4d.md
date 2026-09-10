@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: Instale e use o plug-in Substance para o Cinema 4D para importar e trabalhar com materiais Substance em seus projetos.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > O plug-in Substance é instalado nativamente no Cinema 4D R18 e superior e desenvolvido pela Maxon.
 
-O plug-in Substance consiste basicamente em dois componentes: **arquivos de Substance** e um **sombreador de**.
+O plug-in Substance consiste basicamente em dois componentes: **arquivos de Substance** e um **sombreador de Substance**.
 
 * Os ativos de Substance representam os Substance reais no Cinema 4D. Eles são gerenciados no Substance Asset Manager.
 * O Substance sombreador conecta os canais de saída dos ativos de Substance com os canais de Cinema 4D.

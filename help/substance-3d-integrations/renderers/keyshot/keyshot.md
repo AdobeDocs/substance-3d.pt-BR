@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: Use materiais de Substance no renderizador de captura de tela para visualização do produto com mapas de textura exportados.
 helpx_creative_field: ""
@@ -20,11 +20,11 @@ ht-degree: 8%
 
 # Keyshot
 
-*Keyshot 6.1.72*[&#x200B; Baixar Cena De Exemplo](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
+*Keyshot 6.1.72*[ Baixar Cena De Exemplo](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
 
 ## Exportar Substance Painter
 
-1. Para o Keyshot, você precisará configurar uma predefinição de exportação usando Difusa, Reflexão, Metálica, Aspereza e Normal (X direto).
+1. Para o Keyshot, você precisará configurar uma predefinição de exportação usando Difusão, Reflexo, Metálico, Aspereza e Normal (X direto).
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/key-01?$png$&jpegSize=300&wid=1794)
 
@@ -38,7 +38,7 @@ Você usará 2 materiais avançados. Uma será para metais e a outra para dielé
    a) Defina o índice de refração como 10\
    b) Defina os mapas conforme indicado na tabela abaixo
 
-   | textura do Substance Painter | Canal de material avançado |
+   | Substance Painter textura | Canal de material avançado |
    | --- | --- |
    | Difusão | Difusão |
    | Metálico | Opacidade |
@@ -52,7 +52,7 @@ Você usará 2 materiais avançados. Uma será para metais e a outra para dielé
    a) Defina o índice de refração como 1,5\
    b) Defina os mapas conforme indicado na tabela abaixo
 
-   | textura do Substance Painter | Canal de material avançado |
+   | Substance Painter textura | Canal de material avançado |
    | --- | --- |
    | Difusão | Difusão |
    | Normal | Bump \*Normal Ativado |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Altere os parâmetros de material de Substance em tempo de execução no Unreal Engine 4 usando nós de Blueprint para controle de material dinâmico.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Alterando um parâmetro float:
 
-Você usará o [nó Flutuante de Entrada Set](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para alterar os parâmetros de substância float, color(float4) e Boolean.
+Você usará o [nó Flutuante de Entrada Set](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para alterar os parâmetros de substância float, color(float4) e Boolean.
 
 1. Crie uma variável com um tipo de “Instância de Gráfico do Substance” como referência.
 1. Crie um nó flutuante Definir entrada e defina o destino como a variável Instância de Gráfico do Substance.

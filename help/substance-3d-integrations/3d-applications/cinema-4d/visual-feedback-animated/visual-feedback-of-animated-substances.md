@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
 breadcrumb-title: ''
 description: Ative a visualização animada no Cinema 4D para ver o feedback visual de materiais animados em Substance no visor.
 helpx_creative_field: ""
@@ -48,11 +48,11 @@ Portanto, o seguinte mapeamento de canal será usado:
 
 Essa relação só é usada para o comando Criar material(is) e o material que foi criado pode ser modificado subsequentemente. Convém usar esse comando para criar rapidamente uma material de base, que pode então ser ajustada ajustando apenas alguns canais.
 
-Dentro do Substance Shader você não está limitado aos poucos canais de saída listados acima, mas na verdade você pode usar qualquer canal de saída que um Substance possa fornecer.
+Dentro do Sombreador de Substance você não está limitado aos poucos canais de saída listados acima, mas de fato você pode usar qualquer canal de saída que um Substance possa fornecer.
 
 ## Criando material(is) de Substance manualmente
 
-Em vez de usar o comando Criar materiais, você também pode criar materiais manualmente usando o sombreador de Substance.
+Em vez de usar o comando Criar material(is), você também pode criar materiais manualmente usando o sombreador de Substance.
 
 Basta selecionar o sombreador de Substance em um canal de material e arrastar o Substance que deseja usar. A próxima etapa é selecionar o canal de saída do Substance a ser usado neste sombreador e pronto.
 

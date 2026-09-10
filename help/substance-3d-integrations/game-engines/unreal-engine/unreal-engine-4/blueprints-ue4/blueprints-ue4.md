@@ -26,7 +26,7 @@ Esta seção detalha como trabalhar com materiais de Substance e [Esquemas](http
 
 ## Sumário
 
-* [Blueprint(UE4): parâmetros de material de Substance](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
-* [Blueprint(UE4): Instância de material dinâmico](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
-* [Blueprint(UE4): Substance agregado](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
-* [Blueprint(UE4): referência de nó](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)
+* [Blueprint(UE4): parâmetros de material de Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
+* [Blueprint(UE4): Instância de material dinâmico](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+* [Blueprint(UE4): Substance agregado](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
+* [Blueprint(UE4): referência de nó](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)

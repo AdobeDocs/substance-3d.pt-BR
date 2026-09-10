@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Use o Substance Asset Manager no Cinema 4D para adicionar, remover e organizar materiais Substance na cena.
 helpx_creative_field: ""
@@ -106,7 +106,7 @@ Ao clicar com o botão direito do mouse em um Substance selecionado, o menu de c
 Você pode interagir com o Substance Asset Manager arrastando e soltando. Há várias opções disponíveis:
 
 * Carregue Substance(s) na cena arrastando e soltando do Explorer ou do Finder, simplesmente soltando-os no Gerenciador de ativos do Substance.
-* Substance pode ser arrastado para o campo de vínculo de sombreadores de Substance para conectar um sombreador e um ativo de Substance.
+* Substance pode ser arrastado para o campo de link de sombreadores de Substance para conectar um sombreador e um ativo de Substance.
 * Se estiver no modo Não classificado (veja abaixo), você pode reorganizar Substance no Gerenciador de ativos arrastando-os para um novo local.
 
 

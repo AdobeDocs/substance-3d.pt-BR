@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: Exporte texturas de Substance Painter para o Renderman usando o material pxrSurface e as conversões de saída apropriadas.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Renderman - Substance Painter
 
-O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.substance3d.com/display/SPDOC/Export)**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney.
+O Substance Painter 2020.1 (6.1.0) oferece suporte a [**Modelos de saída [pxrSurface**](https://rmanwiki.pixar.com/display/REN/PxrSurface) e pxrDisney](https://docs.substance3d.com/display/SPDOC/Export).
 
 ![](../../../assets/renderman.png)
 
@@ -32,7 +32,7 @@ O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.su
 
 | Exportar Substance Painter | PxrSurface |
 | --- | --- |
-| CorDifusa | Difusa/colorida |
+| CorDifusa | Difusão/Cor |
 | Aspereza especular | Specular/aspereza principal |
 | SpecularFaceColor | Specular/cor do rosto principal |
 | Normal | Globals / Bump / PxrNormalMap → Orientação (Open GL) |

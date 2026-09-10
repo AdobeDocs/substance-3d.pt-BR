@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
-description: Projete propriedades de cores de malhas de alto polígono em texturas para assar policristalinas ou IDs de material para máscaras de seleção.
+description: Projete propriedades de cores de malhas de alto polígono no textura para fazer bake policristalinas ou IDs de material para máscaras de seleção.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Color Map from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Mapa de cores da malha
 
-Este Mapa de cores do mesh baker projeta as propriedades de cores de uma malha de alta definição em uma textura. Ele pode ser usado para assar polypaint ou IDs de material para criar máscaras de seleção.
+Este Mapa de cores do baker de malha projeta as propriedades de cores de uma malha de alta definição em uma textura. Ele pode ser usado para fazer bake polypaint ou IDs de material para criar máscaras de seleção.
 
 **Disponível em:**
 

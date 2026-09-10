@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/unity-preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-preferences.html"
 breadcrumb-title: ''
 description: Configure as preferências do plug-in do Substance 3D no Unity para personalizar o comportamento e as configurações do plug-in.
 helpx_creative_field: ""
@@ -24,13 +24,13 @@ A janela de preferência Adobe Substance 3D permite definir opções definidas p
 
 **Gerar todas as saídas de gráfico** - Sempre gerará todas as saídas de gráfico por gráfico.
 
-**Resolução de textura** - Resolução padrão para texturas geradas por gráfico
+**Resolução de Textura** - Resolução padrão para texturas geradas por gráfico
 
 **Resolução máxima da CPU** - A resolução máxima de textura com suporte ao usar o mecanismo da CPU.
 
 **Ativos do Substance 3D** - Link para a página do Substance 3D Assets.
 
-**Ativos da comunidade do Substance 3d** - Link para a página Ativos da comunidade do Substance 3D.
+**ativos da comunidade do Substance 3d** - Link para a página do Comunidade do Substance 3D.
 
 **Sobre** - Exibe informações sobre a versão do plug-in.
 

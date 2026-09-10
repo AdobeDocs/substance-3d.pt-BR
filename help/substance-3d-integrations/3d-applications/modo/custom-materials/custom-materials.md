@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: Use materiais personalizados do Unreal, Unity e glTF no MODO com o plug-in de Substance para fluxos de trabalho especializados.
 helpx_creative_field: ""
@@ -51,9 +51,9 @@ Ao usar o Material irreal, o Efeito de camada de material será definido automat
 | Metálico | Linear | Unreal Metallic |
 | Normal | Linear | Irreal normal |
 | Altura | Linear | Unreal Bump |
-| Emissivo | sRGB | Unreal Emissive **\*definido como sRGB na imagem Still** |
-| Oclusão de ambiente | Linear | Oclusão ambiente irreal |
-| Opacidade | Linear | Opacidade irreal **\*é necessário desmarcar invertido na camada de textura** |
+| Emissivo | sRGB | Emissivo irreal **\*definido como sRGB na imagem estática** |
+| Oclusão de ambiente | Linear | Oclusão de ambiente irreal |
+| Opacidade | Linear | Opacidade irreal **\*é necessário desmarcar invertido na Camada de Textura** |
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
@@ -65,11 +65,11 @@ Ao usar o Material glTF, o Efeito de camada de material será definido automatic
 
 | Saída de Substance | Espaço de cores | Efeito de camada de material |
 | --- | --- | --- |
-| Cor de base | sRGB | Cor de base de glTF |
+| Cor de base | sRGB | cor de base glTF |
 | Rugosidade | Linear | Aspereza de glTF |
 | Metálico | Linear | glTF Metálico |
 | Normal | Linear | glTF normal |
-| Emissivo | sRGB | glTF Emissive **\*definida como sRGB na Imagem Ainda** |
+| Emissivo | sRGB | emissivo glTF **\*definido como sRGB na imagem estática** |
 | Oclusão de ambiente | Linear | oclusão de ambiente glTF |
 
 ![](../../../assets/gltf.png){width="600px"}

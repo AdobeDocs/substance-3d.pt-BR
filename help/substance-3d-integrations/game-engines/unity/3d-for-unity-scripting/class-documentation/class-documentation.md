@@ -24,6 +24,6 @@ Esta seção da documentação contém detalhes sobre as APIs do Substance 3D qu
 
 ## Sumário
 
-* [SubstanceEditorFerramentas](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/substanceeditortools-256212996.html)
+* [SubstanceEditorFerramentas](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/substanceeditortools-256212996.html)
 * [Classe SubstanceRuntime](../../../../game-engines/unity/3d-for-unity-scripting/class-documentation/substanceruntime-class/substanceruntime-class.md)
 * [Classe SubstanceRuntimeGraph](../../../../game-engines/unity/3d-for-unity-scripting/class-documentation/substanceruntimegraph-cla/substanceruntimegraph-class.md)

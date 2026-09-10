@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: Guia de referência para todas as mensagens de erro e aviso que podem aparecer ao fazer bake com o software Substance.
 helpx_creative_field: ""
@@ -52,9 +52,9 @@ Abaixo está a lista de todas as mensagens de erro que podem aparecer ao fazer b
 | Não foi possível localizar tangentes de vértice na malha [nome da malha]. | Igual como acima. |
 | Não foi possível localizar binormais de vértice na malha [nome da malha]. | Igual como acima. |
 | Não foi possível encontrar cores de vértice na malha [nome da malha]. | Nenhuma cor de vértice foi encontrada na malha fornecida. Isso pode acontecer se pelo menos uma sub-malha na malha de alto polígono não tiver nenhuma cor de vértice definida. |
-| Não há dados suficientes no poli alto para usar o baker selecionado. Anulando faço bake. | Precedido por pelo menos uma das mensagens acima. Normalmente, se apenas um pouco de dados estiver faltando na cena (por exemplo: apenas uma malha em uma cena com alto nível de polígonos não tem cores de vértice), o processo de fça bake preencherá os dados ausentes com zeros e continuará fazendo bake. Se houver muitos dados ausentes, esta mensagem será enviada e o processo de fça bake será interrompido. |
+| Não há dados suficientes no poli alto para usar o baker selecionado. Cancelando cozimento. | Precedido por pelo menos uma das mensagens acima. Normalmente, se apenas um pouco de dados estiver faltando na cena (por exemplo: apenas uma malha em uma cena com alto nível de polígonos não tem cores de vértice), o processo de fça bake preencherá os dados ausentes com zeros e continuará fazendo bake. Se houver muitos dados ausentes, esta mensagem será enviada e o processo de fça bake será interrompido. |
 
-## Textura transferida partir da Malha
+## Textura transferida da malha
 
 | *Mensagem* | *Descrição* |
 | --- | --- |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ''
 description: Instale o plug-in do Substance para o Maya usando o instalador oficial ou por meio do gerenciador de plug-ins do Maya.
 helpx_creative_field: ""

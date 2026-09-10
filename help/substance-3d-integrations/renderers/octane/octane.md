@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: Renderize materiais de Substance com Octane usando o renderizador autônomo ou plug-ins DCC no 3ds Max e MODO.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Octano
 
-O octano pode ser usado para renderizar saídas de Substance usando o renderizador independente ou por meio de plug-ins DCC. Por meio de um material de Substance Live DB, o Octane Standalone oferece suporte a saídas de Substance com base em cor base, metálico e aspereza.
+O octano pode ser usado para renderizar saídas de Substance usando o renderizador independente ou por meio de plug-ins DCC. Por meio de um material de Substance Live DB, o Octane Standalone suporta saídas de Substance com base em cor de base, metálico e aspereza.
 
 **Octano Autônomo**\
 Em **Live DB > Materiais > Diversos**, localize o material “**Substance PBR**”.

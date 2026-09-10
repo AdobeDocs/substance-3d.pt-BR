@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
 breadcrumb-title: ''
 description: Exemplos de scripts C# que demonstram como usar a API de Substance obsoleta para alterações de parâmetro.
 helpx_creative_field: ""
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Exemplo de script C#&#x200B;
+# Exemplo de script C#
 
 ## Alterando Parâmetros
 

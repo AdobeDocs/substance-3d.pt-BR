@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: Configure as preferências do complemento do Substance 3D no Blender para personalizar o comportamento e as configurações do plug-in.
 helpx_creative_field: ""

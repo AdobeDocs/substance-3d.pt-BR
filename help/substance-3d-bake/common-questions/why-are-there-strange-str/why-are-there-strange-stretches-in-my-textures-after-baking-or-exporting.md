@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: Identifique e corrija trechos estranhos em suas texturas feitas bake causados por problemas de mapeamento UV ou de malha.
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **Solução**
 > 
-> Os padeiros do Substance aplicam difusão e dilatação fora das Ilhas UV para preencher a lacuna e garantir que a textura funcione bem em mecanismos de jogo quando mipmaps forem gerados. Para saber mais sobre isso, consulte: [Preenchimento](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).
+> Os padeiros do Substance aplicam difusão e dilatação fora das Ilhas UV para preencher a lacuna e garantir que a textura funcione bem em mecanismos de jogo quando mipmaps forem gerados. Para saber mais sobre isso, consulte: [Preenchimento](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).

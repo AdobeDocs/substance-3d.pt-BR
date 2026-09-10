@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Saiba como usar o painel Substance 3D no Blender para gerenciar materiais, parâmetros e saídas.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 **Aplicar** - Anexe o material selecionado do Substance 3D aos objetos selecionados em um novo slot de material. Isso não substitui as atribuições de material anteriores no objeto.
 
-**Ativos da comunidade do Substance 3D** - abre a página Ativos da comunidade do Substance 3D no navegador da Web.
+**Comunidade do Substance 3D** - Abre a página do Comunidade do Substance 3D no navegador da Web.
 
 **Substance 3D Assets** - Abre a página de origem do Substance 3D Assets no navegador da Web.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 >
 > **Aviso:**
 > 
-> O uso do botão atualizar desfará todas as alterações do usuário no gráfico de sombreador. Copie todos os nós adicionados pelo usuário antes de atualizar para colá-los no gráfico após a atualização.
+> O uso do botão atualizar desfará as alterações do usuário no gráfico de sombreador. Copie todos os nós adicionados pelo usuário antes de atualizar para colá-los no gráfico após a atualização.
 
 **Remover** - Remove o material do Substance 3D selecionado do painel.
 
@@ -66,7 +66,7 @@ Os parâmetros que foram expostos no Substance Designer podem ser ajustados usan
 
 O formato de arquivo das texturas de saída pode ser alternado e alterado nos menus suspensos.
 
-Para obter mais informações, consulte [Expondo um parâmetro](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) na página de documentação do Designer.
+Para obter mais informações, consulte [Expondo um parâmetro](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) na página de documentação do Designer.
 
 ## Parâmetros técnicos
 

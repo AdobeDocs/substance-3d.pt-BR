@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/br/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Use o recurso Correspondência por nome para isolar malhas de baixo e alto polígono e evitar sangramento de geometria durante o fça bake.
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ A Correspondência por Nome pode ser habilitada nos [Parâmetros Comuns](../../b
 Os sufixos padrão são \_low e \_high e podem ser alterados da seguinte maneira:
 
 * **Substance Painter**: na [janela de Fça bake](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), dentro dos parâmetros comuns.
-* **Substance Designer**: em [Configurações do projeto](https://experienceleague.adobe.com/pt-br/docs/substance-3d-designer/using/workspace/preferences/project-settings), nas configurações do Faço bake.
+* **Substance Designer**: em [Configurações do projeto](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings), nas configurações do Faço bake.
 
 ## Malhas de alto polígono do zBrush
 

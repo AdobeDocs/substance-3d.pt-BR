@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Saiba como otimizar a configuração do hardware e a preparação de malha para obter um desempenho de cozimento mais rápido.
 helpx_creative_field: ""
@@ -49,11 +49,11 @@ Como exemplo:
 
 **Considerando esses números, a configuração 8x8 deve ser usada com cuidado**.
 
-Para reduzir a presença de ruído, geralmente é aconselhável aumentar o número de raios secundários (para os baker de oclusão de ambiente, thickness e dobra normal) e manter uma configuração de AA 2x2 ou 4x4 em vez de usar uma quantidade baixa de raios secundários e uma configuração de AA alta.
+Para reduzir a presença de ruído, geralmente é aconselhável aumentar o número de raios secundários (para pães normais de oclusão ambiente, thickness e curvatura) e manter uma configuração de AA 2x2 ou 4x4 em vez de usar uma quantidade baixa de raios secundários e uma configuração de AA alta.
 
 >[!NOTE]
 >
-> Uma boa configuração de desempenho/qualidade para oclusão de ambiente da malha é usar AA 2x2 e pelo menos 128 raios secundários.
+> Uma boa configuração de desempenho/qualidade para oclusão ambiente da malha é usar AA 2x2 e pelo menos 128 raios secundários.
 
 ## Formato de arquivo
 
@@ -66,4 +66,4 @@ As falhas podem ser causadas por vários fatores, um deles é o TDR (Timeout Det
 * ao fazer bake malhas densas com o baker de Oclusão de ambiente
 * ao utilizar os baker acelerados por DXR com malhas muito densas de alto poli (mais de 60 milhões de triângulos)
 
-Você pode encontrar informações adicionais sobre o TDR e um guia passo a passo de como modificar suas configurações associadas aqui: [Os drivers de GPU falham com cálculos longos (falha do TDR)](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Você pode encontrar informações adicionais sobre o TDR e um guia passo a passo de como modificar suas configurações associadas aqui: [Os drivers de GPU falham com cálculos longos (falha do TDR)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

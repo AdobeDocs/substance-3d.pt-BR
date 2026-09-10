@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Documentação detalhada de todas as funções membro da classe SubstanceRuntimeGraph no script Unity.
 helpx_creative_field: ""
@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-Obter entrada de flutuação de Substance
+Obter Entrada de Precisão decimal Substance
 
 **Parâmetros**
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Atualizar Entrada Substance Texture2D.
+Atualize a entrada Substance Textura2D.
 
 **Parâmetros**
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: Entenda como a triangulação de malha afeta os resultados de cozimento e aprenda as práticas recomendadas para preparar sua geometria.
 helpx_creative_field: ""

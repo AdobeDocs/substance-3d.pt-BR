@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: Saiba mais sobre o plug-in Substance para MODO e como importar e usar materiais Substance no seu fluxo de trabalho.
 helpx_creative_field: ""
@@ -25,7 +25,7 @@ ht-degree: 5%
 ## Abrindo um Substance
 
 1. Crie um material ou selecione um grupo de materiais.
-1. Em Textura>Substance, escolha criar Substance ou use o botão Criar nas opções do Kit de Substance. Isso criará um material de Substance na árvore sombreadora.
+1. Em Textura > Substance, escolha criar Substance ou use o botão Criar nas opções do kit de Substance. Isso criará um material de Substance na árvore de sombreador.
 1. Clique em Carregar sbsar para carregar um arquivo sbsar.
 
    ![](../../../assets/load-1.png)
@@ -34,7 +34,7 @@ ht-degree: 5%
 
 Usando o **Padrão - Modo de Sombreamento de Princípios**, você pode criar saídas usando o fluxo de trabalho metálico/rugosidade.
 
-1. Na seção Saídas das Propriedades do Substance, clique nas saídas necessárias para o sombreamento. A textura do Substance será gerada, adicionada à Árvore sombreadora com o efeito de camada de material correto. Para o Modo de Sombreamento de princípios, você precisará do seguinte:
+1. Na seção Saídas das Propriedades do Substance, clique nas saídas necessárias para o sombreamento. A textura de Substance será gerada, adicionada à Árvore de Sombreador com o Efeito de camada de material correto. Para o Modo de Sombreamento de princípios, você precisará do seguinte:
 
    | Saída de Substance | Espaço de cores | Efeito de camada de material (modo de Sombreamento de princípios) |
    | --- | --- | --- |
@@ -47,7 +47,7 @@ Usando o **Padrão - Modo de Sombreamento de Princípios**, você pode criar sa�
 
 ## Alteração de Resolução/Parâmetros
 
-Você pode alterar os parâmetros de Substance para atualizar ou alterar as texturas geradas. Alterar um parâmetro fará com que o Substance Engine recalcule as texturas que são alimentadas no material MODO.
+Você pode alterar os parâmetros Substance para atualizar ou alterar as texturas geradas. Alterar um parâmetro fará com que o Substance Engine recalcule as texturas que são alimentadas no material MODO.
 
 1. Vá para as Propriedades de Substance do material de Substance e, na seção Ajustes, altere qualquer um dos parâmetros.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: Crie Definições de instância de material com materiais de Substance no Unreal Engine 5 para otimizar o desempenho de renderização da GPU.
 helpx_creative_field: ""
@@ -30,9 +30,9 @@ Você pode usar instâncias de material UE5 com Substance. Isso salvará uma gra
 1. Clique com o botão direito do mouse na fábrica de instâncias do substance e escolha “Criar uma instância de gráfico”. Isso criará uma instância do gráfico e outro material UE5. Exclua o material UE5 recém-criado, pois ele não será usado.
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-10-38-pm.png)
-1. Clique duas vezes na instância do material criada na etapa 1 e ative os parâmetros de Textura para todos os mapas.
+1. Clique duas vezes na instância do material criada na etapa 1 e ative os parâmetros Textura para todos os mapas.
 1. Defina a textura para a nova textura INST criada na etapa 2. Isso definirá a ocorrência do material para usar os mapas de saída do substance a partir do gráfico de ocorrência.
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-Agora você tem uma instância de material UE5 que está usando um conjunto específico de texturas do substance. Esta é uma forma mais otimizada de trabalhar com múltiplas substâncias num projeto UE5. Para saber como criar um MID usando o blueprint, verifique esta página. [Blueprint(UE5): Instância de Material Dinâmico](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+Agora você tem uma instância de material UE5 que está usando um conjunto específico de texturas do substance. Esta é uma forma mais otimizada de trabalhar com múltiplas substâncias num projeto UE5. Para saber como criar um MID usando o blueprint, verifique esta página. [Blueprint(UE5): Instância de Material Dinâmico](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

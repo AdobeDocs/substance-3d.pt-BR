@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
-description: Resolva as falhas de cozimento do Mapa de cores da malha verificando as propriedades da cor da malha e o mapeamento UV.
+description: Resolva falhas de fça bake de Colorir mapa a partir duma malha verificando as propriedades de cor de malha e o mapeamento UV.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Baking failed with Color Map from Mesh
 helpx_experience_level: ""
@@ -26,16 +26,16 @@ ht-degree: 0%
 > 
 > Possível mensagem de erro:
 > 
-> &#x200B;> > > 
+> > > > 
 > 
-> [ Preparação ] Falha na cozedura (Mapa de cores da malha)\
+> [ Fazendo bake ] Falha ao Fazer bake (Colorir mapa a partir duma malha)\
 > Não foi possível localizar as cores do vértice
 
 >[!NOTE]
 >
 > **Explicação**
 > 
-> As configurações padrão para o [Mapa de cores da malha](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md) é assar as cores de vértice de malha de alto polígono em uma textura com base nos UVs de malha. No entanto, muitas vezes é o caso em que a malha de alto-poli não tem nenhuma informação de cores de vértice. Portanto, o padeiro não pode escrever informações que não existem.
+> As configurações padrão para o [Colorir mapa a partir duma malha](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md) é fazer bake as cores de vértice de malha de alto polígono em uma textura com base nos UVs de malha. No entanto, muitas vezes é o caso em que a malha de alto-poli não tem nenhuma informação de cores de vértice. Portanto, o baker não pode gravar informações que não existem.
 
 >[!NOTE]
 >
@@ -44,5 +44,5 @@ ht-degree: 0%
 > Soluções diferentes estão disponíveis para evitar esta mensagem de erro:
 > 
 > * Usar uma malha de alto polígono com cores de vértice
-> * Defina o Mapa de cores do padeiro de malha com configurações diferentes
-> * Não use o Mapa de cores do padeiro de malha se não precisar dele
+> * Defina o baker do Colorir mapa a partir duma malha com configurações diferentes
+> * Não use o baker Colorir mapa a partir duma malha se não precisar dele

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: Otimize materiais de Substance para plataformas móveis no Unity ajustando as configurações e as resoluções de textura.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> **Tamanho da textura em dispositivos móveis**
+> **Tamanho da Textura em dispositivos móveis**
 > 
 > A resolução da textura definida no Editor de Unidade será do tamanho publicado no binário do aplicativo. Diminuir a resolução do material da Substance criará texturas com tamanhos de arquivo menores.
 

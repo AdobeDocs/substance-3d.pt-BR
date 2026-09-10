@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/creative-cloud-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications.html"
 breadcrumb-title: ''
 description: Use materiais de Substance em aplicativos da Adobe Creative Cloud, como Photoshop e After Effects, para fluxos de trabalho aprimorados.
 helpx_creative_field: ""

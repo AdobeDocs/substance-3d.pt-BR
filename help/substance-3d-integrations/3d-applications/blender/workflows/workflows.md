@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: Saiba como usar materiais de Substance com os ciclos do Blender e renderizadores Evee para diferentes fluxos de trabalho.
 helpx_creative_field: ""
@@ -54,7 +54,7 @@ A predefinição de sombreador padrão usada pelos materiais pode ser selecionad
 
 A seção Saídas do painel Substance 3D também tem opções para filtrar as saídas. Três botões ao lado do menu suspenso predefinição de sombreador podem ser usados para filtrar por saídas habilitadas (marca de seleção), saídas de sombreador (esfera) e todas as saídas disponíveis (linhas).
 
-As saídas podem ser habilitadas individualmente usando a caixa de seleção. Quando uma saída estiver habilitada, uma saída correspondente no grupo de nós de textura será criada. Se essa saída for suportada pelo nó de material Principled BSDF, ela será conectada automaticamente a ela. O Height se conectará a um nó de deslocamento e a Oclusão ambiente se combinará com a cor base em um nó MixRGB.\
+As saídas podem ser habilitadas individualmente usando a caixa de seleção. Quando uma saída estiver ativada, uma saída correspondente no grupo de nós de textura será criada. Se essa saída for suportada pelo nó de material Principled BSDF, ela será conectada automaticamente a ela. O Height se conectará a um nó de deslocamento e o Oclusão de ambiente se combinará com a cor de base em um nó MixRGB.\
 O menu suspenso Formato de arquivo ao lado da marca de seleção pode ser usado para definir o tipo de arquivo no qual a textura de saída é salva.
 
 Além disso, as preferências de saída de arquivo padrão podem ser alteradas no complemento [Preferências](../../../3d-applications/blender/preferences/preferences.md).
@@ -65,6 +65,6 @@ Clique no ícone de esfera no painel de propriedades do material do Blender para
 
 ## Deslocamento
 
-Deslocamento da malha de texturas suportado no renderizador de ciclos, mas não no Eevee. Para ver o deslocamento, certifique-se de que a saída do Height esteja ativada. O complemento definirá automaticamente a configuração de deslocamento do material como **Deslocamento e Relevo**. A exibição do material em um objeto agora mostrará deslocamento na visualização de renderização. A escala do deslocamento pode ser ajustada no painel de material ou no nó do deslocamento.
+Deslocamento da malha do textura no renderizador de ciclos suportado, mas não no Eevee. Para ver o deslocamento, certifique-se de que a saída do Height esteja ativada. O complemento definirá automaticamente a configuração de deslocamento do material como **Deslocamento e Relevo**. A exibição do material em um objeto agora mostrará deslocamento na visualização de renderização. A escala do deslocamento pode ser ajustada no painel de material ou no nó do deslocamento.
 
 Para obter melhores resultados, use níveis de subdivisão mais altos ou malhas de alto polígono para materiais com detalhes de deslocamento complexos.

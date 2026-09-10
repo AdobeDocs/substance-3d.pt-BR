@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
 description: Saiba como converter saídas de material Substance para corresponder a diferentes requisitos e fluxos de trabalho de renderizador.
 helpx_creative_field: ""
@@ -35,6 +35,6 @@ O plug-in Substance vai gerar saídas e criar materiais automaticamente para flu
 
 ## Substance personalizado
 
-Se você estiver criando um Substance personalizado, poderá criar as saídas específicas necessárias para renderizadores como Vray e Corona. Usando o nó de conversão metal/aspereza (Biblioteca>Utilitários PBR), você pode facilmente converter a cor base, a aspereza e os mapas metálicos para o renderizador específico.
+Se você estiver criando um Substance personalizado, poderá criar as saídas específicas necessárias para renderizadores como Vray e Corona. Usando o nó de conversão metálico/aspereza (Biblioteca > Utilitários PBR), você pode facilmente converter os mapas de cor de base, aspereza e metálico para o renderizador específico.
 
 ![](../../assets/convert-designer.png){width="600px"}

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: Corrija os artefatos de suavização que aparecem em emendas UV durante o fça bake ajustando as configurações de suavização de borda e preenchimento.
 helpx_creative_field: ""

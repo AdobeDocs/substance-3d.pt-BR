@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
-description: Use valores de cor e tabelas de dados precisos para simular materiais metálicos reais com o modelo de material padrão da Adobe.
+description: Use valores de cores e tabelas de dados precisos para simular materiais metálicos reais com o modelo de Adobe Standard Material.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > Metal material references
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 54%
 
 # Referências de material metálico
 
-Use as tabelas a seguir para simular com precisão materiais do mundo real com seus dados de **Cor base** (F0) e **Specular edge color** (tonalidade F82) correspondentes. Esta tabela foi criada para uso com o modelo de **Materiais padrão da Adobe**. Para obter mais informações, consulte a [documentação técnica do material padrão da Adobe](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md).
+Use as tabelas a seguir para simular com precisão materiais do mundo real com seus dados de **Cor de base** (F0) e **Specular edge color** (tonalidade F82) correspondentes. Esta tabela foi criada para uso com o modelo **Adobe Standard Material**. Para obter mais informações, consulte a [documentação técnica do Adobe Standard Material](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md).
 
 ## sRGB de 8 bits
 

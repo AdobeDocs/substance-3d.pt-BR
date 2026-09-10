@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: Use materiais de Substance com o renderizador Arnold no Maya e no 3ds Max, incluindo compatibilidade com saídas metálicas de fluxo de trabalho.
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ O material de superfície padrão em Arnold 5 agora suporta o fluxo de trabalho 
 
 ## Sumário
 
-* [Arnold - Substance em 3ds Max](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [Arnold - Substance no Maya](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold - Substance em 3ds Max](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [Arnold - Substance no Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [Arnold - Substance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

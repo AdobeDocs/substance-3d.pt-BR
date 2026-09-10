@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Consulte as notas de versão do plug-in 3ds Max versão 3.0.0 e posterior para saber mais sobre novos recursos, aprimoramentos e correções de erros.
 helpx_creative_field: ""

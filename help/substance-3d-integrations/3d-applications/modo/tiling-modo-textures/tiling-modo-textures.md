@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
-description: Ajuste as propriedades de divisão em blocos gráficos de textura de Substance no MODO definindo as configurações de quebra horizontal e vertical.
+description: Ajuste as propriedades de textura em MODO definindo as configurações de quebra horizontal e vertical.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Tiling Modo textures
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Modo de divisão em blocos gráficos
 
-Você pode ajustar as propriedades de uma Textura de Substance da mesma forma que faria com qualquer textura no MODO. Para cobrir as texturas, você pode definir a quebra horizontal e vertical.
+Você pode ajustar as propriedades de uma Textura da mesma forma que faria com qualquer textura no MODO. Para cobrir as texturas, você pode definir a quebra horizontal e vertical.
 
 ![](../../../assets/wrap-1.png)

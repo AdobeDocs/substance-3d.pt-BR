@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: Aprenda a usar o padeiro de Oclusão ambiente para gerar texturas de sombra ambiente usando algoritmos acelerados por GPU rápidos.
 helpx_creative_field: ""

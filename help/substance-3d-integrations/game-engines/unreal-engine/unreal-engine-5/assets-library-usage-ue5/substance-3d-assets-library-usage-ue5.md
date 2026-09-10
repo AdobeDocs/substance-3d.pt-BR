@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
 breadcrumb-title: ''
 description: Acesse materiais de Substance de alta qualidade da Biblioteca de ativos e ativos da comunidade em projetos do Unreal Engine 5.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Uso da Biblioteca do Substance 3D Assets - UE5
 
-Acesse mais de 1.000 materiais 4K ajustáveis e prontos para exportação de alta qualidade com predefinições na [biblioteca de ativos do Substance 3D](https://helpx.adobe.com/br/substance-3d/unlisted/assets.html). Você pode explorar ativos de contribuição da comunidade na [biblioteca de ativos da comunidade](https://helpx.adobe.com/br/substance-3d/unlisted/community-assets.html).
+Acesse mais de 1.000 materiais 4K ajustáveis e prontos para exportação de alta qualidade com predefinições na [biblioteca de ativos do Substance 3D](https://helpx.adobe.com/substance-3d/unlisted/assets.html). Você pode explorar ativos de contribuição da comunidade na [biblioteca de ativos da comunidade](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html).
 
 Você pode baixar os materiais da biblioteca de ativos e usá-los no UE5.
 

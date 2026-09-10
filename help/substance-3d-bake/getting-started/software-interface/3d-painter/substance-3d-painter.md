@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Saiba como acessar e usar a janela de cozimento no Substance 3D Painter para gerar mapas de malha para suas texturas.
 helpx_creative_field: ""
@@ -22,21 +22,21 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-A janela de cozimento pode ser acessada por meio das [Configurações do conjunto de textura](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Clique no botão chamado “**Fazer mapas de malha**” para abrir a janela de cozimento do projeto atual.
+A janela de cozimento pode ser acessada por meio das [Configurações do conjunto de textura](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings). Clique no botão chamado “**Fazer bake mapas de malha**” para abrir a janela de fça bake do projeto atual.
 
 ## Visão geral
 
 ![](../../../assets/sp-ui-overview.png){width="400px"}
 
-A janela de cozedura é dividida em três componentes principais.
+A janela de fça bake é dividida em três componentes principais.
 
-### Lista Baker
+### Lista de baker
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/sp-baking-list?$png$&jpegSize=100&wid=150)
 
 No canto superior esquerdo da janela estão disponíveis vários botões.
 
-Ao lado desse botão há uma caixa de seleção, se estiver marcada, ela habilitará esse processo de cozimento para o processo de cozimento. Os botões que têm um ícone ao lado de seus nomes indicam aqueles que precisam de uma malha de alta poli. Esse ícone exibe um aviso se agora houver alto índice disponível.
+Ao lado desse botão há uma caixa de seleção, se estiver marcada, ela habilitará esse faço bake para o processo de fça bake. Os botões que têm um ícone ao lado de seus nomes indicam aqueles que precisam de uma malha de alta poli. Esse ícone exibe um aviso se agora houver alto índice disponível.
 
 | *Botão* | *Descrição* |
 | --- | --- |
@@ -44,21 +44,21 @@ Ao lado desse botão há uma caixa de seleção, se estiver marcada, ela habilit
 | **Normal** | Altere a exibição de parâmetros para [Parâmetros normais](../../../bakers-settings/normal-map-from-mesh/normal-map-from-mesh.md). |
 | **Espaço Mundial Normal** | Altere a exibição de parâmetros para os [parâmetros Normais do Espaço Mundial](../../../bakers-settings/world-space-normals/world-space-normals.md). |
 | **ID** | Altere a exibição de parâmetros para [Parâmetros de cores](../../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md). |
-| **Oclusão de ambiente** | Altere a exibição de parâmetros para [Parâmetros de Oclusão de ambiente](../../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md). |
+| **Oclusão de ambiente** | Altere a exibição de parâmetros para [parâmetros de Oclusão de ambiente](../../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md). |
 | **Curvatura** | Altere a exibição de parâmetros para [Parâmetros de curvatura](../../../bakers-settings/curvature/curvature.md). |
 | **Posição** | Altere a exibição de parâmetros para [Parâmetros de posição](../../../bakers-settings/position/position.md). |
 | **Thickness** | Altere a exibição de parâmetros para [parâmetros de Thickness](../../../bakers-settings/thickness-map-from-mesh/thickness-map-from-mesh.md). |
 | **Height** | Altere a exibição de parâmetros para [parâmetros de Height](../../../bakers-settings/height-map-from-mesh/height-map-from-mesh.md). |
-| **Normais tortos** | Altere a exibição de parâmetros para os [parâmetros normais entortados](../../../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md). |
+| **Dobras normais** | Altere a exibição de parâmetros para [parâmetros do Dobra normal](../../../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md). |
 | **Opacidade** | Altere a exibição de parâmetros para [Parâmetros de opacidade](../../../bakers-settings/opacity-mask-from-mesh/opacity-mask-from-mesh.md). |
 
 ### Parâmetros
 
 ![](../../../assets/sp-baking-params.png)
 
-Esta parte da janela exibe as várias configurações de cozimento. Seu conteúdo pode mudar dependendo do padeiro atualmente selecionado ou dos parâmetros comuns.
+Esta parte da janela exibe as várias configurações de fça bake. Seu conteúdo pode mudar dependendo do baker atualmente selecionado ou dos parâmetros comuns.
 
-Para saber mais sobre as configurações do padeiro, consulte as [Configurações do Padeiro](../../../bakers-settings/bakers-settings.md).
+Para saber mais sobre as configurações do baker, consulte as [Configurações do Baker](../../../bakers-settings/bakers-settings.md).
 
 ### Mensagem de ajuda
 

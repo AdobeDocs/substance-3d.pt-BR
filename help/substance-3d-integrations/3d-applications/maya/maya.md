@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
 description: Instale e use o plug-in do Substance para Maya para importar materiais do Substance e integrá-los ao seu fluxo de trabalho.
 helpx_creative_field: ""
@@ -30,10 +30,10 @@ ht-degree: 3%
 * [Nó de saída do Substance](../../3d-applications/maya/output-node/substance-output-node.md)
 * [Uso de fluxos de trabalho](../../3d-applications/maya/using-workflows/using-workflows.md)
 * [Trabalhar com saídas](../../3d-applications/maya/working-with-outputs/working-with-outputs.md)
-* [Amostragem de procedimentos](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
+* [Amostragem processual](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
 * [Predefinições](../../3d-applications/maya/presets/presets.md)
 * [Configurações](../../3d-applications/maya/settings/settings.md)
 * [Suporte a Arnold](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [Aplicar Fluxo De Trabalho A Mapas](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Maya Scripting](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [Tamanho físico no Maya](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [Tamanho físico no Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)

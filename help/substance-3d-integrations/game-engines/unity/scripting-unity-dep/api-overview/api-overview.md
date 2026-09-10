@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/api-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/api-overview.html"
 breadcrumb-title: ''
 description: Visão geral de referência da API do Substance Unity obsoleta para projetos herdados e necessidades de script.
 helpx_creative_field: ""
@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game é o assembly que contém as classes usadas para scripts. Estas classes são as seguintes:
 
-**Substance.Game.**&#x200B;**Substance**: Referencia o sbsar
+**Substance.Game.****Substance**: Referencia o sbsar
 
 **Substance.Game.SubstanceGraph**: gráfico individual no sbsar.*(usado para ser ProceduralMaterial no Unity 2017)*
 
@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-O valor entre aspas é o parâmetro Identifier definido em Substance Designer.
+O valor entre aspas é o Identificador de parâmetro definido em Substance Designer.
 
-No Inspetor de unidade, você pode passar o mouse sobre um parâmetro para revelar uma dica de ferramenta que mostra o nome do identificador definido em Substance Designer.
+No Inspetor de unidade, você pode passar o mouse sobre um parâmetro para revelar uma dica de ferramenta que mostra o nome do Identificador definido em Substance Designer.
 
 ![](../../../../assets/tooltip-6.png)
 

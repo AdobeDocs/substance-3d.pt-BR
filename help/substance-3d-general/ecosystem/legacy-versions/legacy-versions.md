@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-general/ecosystem/legacy-versions.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/legacy-versions.html"
 breadcrumb-title: ''
 description: Acesse versões herdadas de aplicativos da Substance 3D que usam o sistema de ativação de arquivos com chave de licença anterior.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
 breadcrumb-title: ''
 description: Saiba como importar e usar materiais de Substance no Unreal Engine 5 com o guia de visão geral do plug-in Substance.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
-description: Entenda por que a Correspondência por nome não funciona com a Oclusão ambiente e os padeiros de Thickness e encontre alternativas.
+description: Entenda por que a Correspondência por Nome não funciona com baker de Oclusão de ambiente e Thickness e encontre alternativas.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why is Matching by Name not working with Ambient OcclusionThickness "
 helpx_experience_level: ""
@@ -30,10 +30,10 @@ ht-degree: 0%
 >
 > **Explicação**
 > 
-> O padeiro Ambient Oclusão, Thickness e Bent Normals lança raios secundários quando calculam suas texturas. Esses raios têm sua própria configuração de Correspondência por nome.
+> Os baker Oclusão de ambiente, Thickness e Dobra normal iniciam os raios secundários quando calculam suas texturas. Esses raios têm sua própria configuração de Correspondência por nome.
 
 >[!NOTE]
 >
 > **Solução : Substance Painter**
 > 
-> Solução: ative a filtragem de correspondência por nome para os raios secundários nos parâmetros do padeiro.
+> Solução: ative a filtragem de correspondência por nome para os raios secundários nos parâmetros do baker.

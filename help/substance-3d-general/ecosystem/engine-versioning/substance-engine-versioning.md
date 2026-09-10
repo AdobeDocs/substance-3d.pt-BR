@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: Use esta referência para verificar qual versão do mecanismo de Substance é compatível com o seu software e garantir a compatibilidade do material.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: Crie e use predefinições de renderização para saídas de Substance no Maya para gerar automaticamente redes de sombreador para renderizadores diferentes.
 helpx_creative_field: ""

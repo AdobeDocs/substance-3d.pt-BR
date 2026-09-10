@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
-description: Use fluxos de trabalho de renderização no 3ds Max para criar automaticamente redes sombreadoras para diferentes renderizadores a partir de materiais de Substance.
+description: Use fluxos de trabalho de renderização no 3ds Max para criar automaticamente redes de sombreador para diferentes renderizadores a partir de materiais de Substance.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Using Workflows in 3ds Max
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Utilização de fluxos de trabalho no 3ds Max
 
-O plug-in Substance in 3ds Max contém fluxos de trabalho para a criação automática de uma rede de sombreador para oferecer suporte a renderizadores. Os fluxos de trabalho de renderização podem ser encontrados no menu Substance.
+O plug-in Substance no 3ds Max contém fluxos de trabalho para a criação automática de uma rede de sombreador para oferecer suporte a renderizadores. Os fluxos de trabalho de renderização podem ser encontrados no menu Substance.
 
 ![](../../../assets/workflows-3.png)
 

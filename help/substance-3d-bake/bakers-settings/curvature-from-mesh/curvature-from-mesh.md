@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: Gere texturas de curvatura precisas a partir de malhas de alto polígono usando Rastreamento de raios para a detecção precisa de bordas.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Curvatura da malha
 
-A Curvatura do baker de malha gera uma textura de curvatura de malhas de alto polígono. É mais lento do que o baker de base [curvatura](../../bakers-settings/curvature/curvature.md), mas produz resultados mais precisos.
+A Curvatura do padeiro de malha gera uma textura de curvatura de malhas de alto polígono. É mais lento do que o padeiro de base [curvatura](../../bakers-settings/curvature/curvature.md), mas produz resultados mais precisos.
 
 **Disponível em:**
 
