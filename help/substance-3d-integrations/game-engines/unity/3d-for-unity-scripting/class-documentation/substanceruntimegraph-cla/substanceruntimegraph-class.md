@@ -42,14 +42,14 @@ Anexa um novo objeto de gráfico a este manipulador de tempo de execução.
 ```
 
 
-Atualizar entrada de flutuação de Substance
+Atualizar entrada de Precisão decimal de Substance
 
 ```
 • float GetInputFloat (string inputName)
 ```
 
 
-Obter entrada de flutuação de Substance
+Obter Entrada de Precisão decimal Substance
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -210,7 +210,7 @@ Atualizar Entrada Substance Texture2D.
 ```
 
 
-Retorna a resolução da saída da textura da instância.
+Retorna a resolução da saída de textura da instância.
 
 ```
 • void SetTexturesResolution (Vector2Int size)

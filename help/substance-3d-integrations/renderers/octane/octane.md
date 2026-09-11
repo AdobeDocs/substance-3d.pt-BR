@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Octano
 
-O octano pode ser usado para renderizar saídas de Substance usando o renderizador independente ou por meio de plug-ins DCC. Por meio de um material de Substance Live DB, o Octane Standalone oferece suporte a saídas de Substance com base em cor base, metálico e aspereza.
+O octano pode ser usado para renderizar saídas de Substance usando o renderizador independente ou por meio de plug-ins DCC. Por meio de um material de Substance Live DB, o Octane Standalone suporta saídas de Substance com base em cor de base, metálico e aspereza.
 
 **Octano Autônomo**\
 Em **Live DB > Materiais > Diversos**, localize o material “**Substance PBR**”.

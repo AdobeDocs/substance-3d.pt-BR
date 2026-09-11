@@ -52,7 +52,7 @@ Esta atualização inclui compatibilidade com o Blender 4.0+ e vários recursos 
 
 <b>Adicionado/Atualizado:</b>
 
-* Adição da funcionalidade do conector do Substance (compatível com arquivos SBSAR e arquivos USD).
+* Foi adicionada a funcionalidade do conector do Substance (compatível com arquivos SBSAR e USD).
 * Suporte para o Blender 4.0+.
 * Suporte para SRE versão 2.1.0.
 * Em Preferências de Complemento:
@@ -61,10 +61,10 @@ Esta atualização inclui compatibilidade com o Blender 4.0+ e vários recursos 
   * Botão para abrir a pasta Ferramentas de integração.
   * Adicionado Aplicar tipo para atribuir material (Inserir: defina-o como material principal, Anexar: adicione-o na parte inferior da lista).
   * Adicionada caixa de seleção para selecionar o comportamento padrão dos grupos de Entrada (recolhida/expandida).
-  * Adicionada caixa de seleção para selecionar o comportamento padrão da propriedade atualizar somente texturas.
+  * Adicionada caixa de seleção para selecionar o comportamento padrão da única propriedade de atualização do textura.
   * Inicie automaticamente o Substance Remote Engine ao abrir o Blender (importante para ser ativado se estiver usando o conector).
 * Complemento:
-  * Adicionada somente texturas de atualização (permite alterar os parâmetros sem refazer o gráfico de nó).
+  * Adicionado Somente texturas de atualização (permite alterar os parâmetros sem refazer o gráfico de nó).
   * Adicionado, expandir todos os grupos e recolher todos os botões de grupos.
   * Grupo de imagens de entrada adicionado para agrupar todas as imagens de entrada, se necessário, em um SBSAR.
   * As Entradas de parâmetro agora são exibidas na mesma ordem que o Designer.

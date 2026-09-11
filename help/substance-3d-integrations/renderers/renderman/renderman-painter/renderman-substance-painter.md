@@ -32,7 +32,7 @@ O Substance Painter 2020.1 (6.1.0) oferece suporte a [&#128279;](https://docs.su
 
 | Exportar Substance Painter | PxrSurface |
 | --- | --- |
-| CorDifusa | Difusa/colorida |
+| CorDifusa | Difusão/Cor |
 | Aspereza especular | Specular/aspereza principal |
 | SpecularFaceColor | Specular/cor do rosto principal |
 | Normal | Globals / Bump / PxrNormalMap → Orientação (Open GL) |

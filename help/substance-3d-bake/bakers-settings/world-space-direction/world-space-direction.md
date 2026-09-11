@@ -20,7 +20,7 @@ ht-degree: 4%
 
 # Direção Espacial Global
 
-O padeiro World Space Direction permite calcular uma direção vetorial no espaço mundial em uma textura.
+O baker de direção do espaço mundial permite calcular uma direção vetorial no espaço mundial em uma textura.
 
 **Disponível em:**
 
@@ -32,6 +32,6 @@ O padeiro World Space Direction permite calcular uma direção vetorial no espa�
 | *Parâmetro* | *Descrição* |
 | --- | --- |
 | **Direção de entrada** | Define a partir de qual entrada a direção é calculada.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Da Textura</strong>: a direção do vetor é definida por uma textura de entrada.</li><li data-preserve-html="true"><strong>De Vetor Uniforme</strong> (padrão): a direção do vetor é definida com os controles deslizantes X, Y, Z.</li></ul> |
-| **Orientação Normal** | Define se o formato normal da textura de saída. Isso inverte o canal verde dependendo do formato.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (padrão)</li></ul> |
+| **Orientação Normal** | Define o formato normal da textura de saída. Isso inverte o canal verde dependendo do formato.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (padrão)</li></ul> |
 | **X Y Z** | Controles deslizantes para definir os 3 componentes do vetor de direção, se a **Direção de Entrada** estiver definida como **De Vetor Uniforme**. |
-| **Arquivo de Direção** | Caminho para o arquivo de textura de entrada para definir o vetor de direção, se a **Direção de Entrada** estiver definida como **De Textura**. |
+| **Arquivo de Direção** | Caminho para o arquivo de textura de entrada para definir o vetor de direção, se a **Direção de Entrada** estiver definida como **Da Textura**. |

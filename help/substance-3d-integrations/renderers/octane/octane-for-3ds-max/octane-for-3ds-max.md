@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance no plug-in 3ds Max
 
-Usando o [plug-in 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), você pode escolher Octano no menu Substance para configurar automaticamente o material Octano com entradas de textura Substance.
+Usando o [plug-in 3ds Max](../../../3d-applications/3ds-max/3ds-max.md), você pode escolher Octano no menu Substance para configurar automaticamente o material Octano com entradas de textura de Substance.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/octane?$png$&jpegSize=200&wid=852)

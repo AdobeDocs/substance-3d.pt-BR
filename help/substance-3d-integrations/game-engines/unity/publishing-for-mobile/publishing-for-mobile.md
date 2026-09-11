@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> **Tamanho da textura em dispositivos móveis**
+> **Tamanho da Textura em dispositivos móveis**
 > 
 > A resolução da textura definida no Editor de Unidade será do tamanho publicado no binário do aplicativo. Diminuir a resolução do material da Substance criará texturas com tamanhos de arquivo menores.
 

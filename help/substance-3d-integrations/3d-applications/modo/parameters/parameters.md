@@ -36,13 +36,13 @@ Um Substance tem um conjunto de parâmetros principais, que podem ser encontrado
 * **Carregar predefinição:** você pode carregar uma predefinição, que configurará os parâmetros de ajuste de Substance. As predefinições podem ser criadas usando Substance Player. O arquivo de predefinição é um tipo de arquivo .sbsprs. Depois de carregar uma predefinição, você precisa clicar no menu suspenso Predefinição e escolher a predefinição, pois um arquivo .sbsprs pode conter várias predefinições.
 * **Salvar predefinição:** permite salvar uma predefinição
 * **Selecionar predefinição:** permite escolher uma predefinição incorporada no arquivo de Substance ou entre as predefinições salvas dentro do MODO.
-* **Assimilar ao disco:** este parâmetro irá assentar as texturas geradas pelo Substance em um arquivo de bitmap.
-* **Tamanho de saída:** este parâmetro redimensionará dinamicamente a textura para o tamanho definido. O Substance Engine regenerará a textura para o tamanho desejado.
-* **Distribuição Aleatória:** este parâmetro variará a geração de procedimentos do Substance. Esse parâmetro é ótimo para criar uma versão aleatória do mesmo Substance. Isso permite variar rapidamente os parâmetros de Substance para gerar uma nova versão das texturas
+* **Fazer bake em Disco:** este parâmetro fará bake as textura geradas pelo Substance em um arquivo de bitmap.
+* **Tamanho de Saída:** este parâmetro redimensionará dinamicamente a textura para o tamanho definido. O Substance Engine regenerará a textura para o tamanho desejado.
+* **Distribuição aleatória:** este parâmetro variará a geração processual do Substance. Esse parâmetro é ótimo para criar uma versão aleatória do mesmo Substance. Ele permite que você varie rapidamente os parâmetros de Substance para gerar uma nova versão do textura
 
 ## Saídas
 
-As opções de Saída permitem ativar ou desativar as saídas de Substance. Uma saída é o que é gerado pelo Substance Engine e renderizado como uma textura na Árvore sombreadora.
+As opções de Saída permitem ativar ou desativar as saídas de Substance. Uma saída é o que é gerado pelo Substance Engine e renderizado como uma textura na Árvore de Sombreadores.
 
 ![](../../../assets/outputs-02.png){width="300px"}
 

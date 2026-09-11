@@ -153,18 +153,18 @@ Um ponto de distinção entre os termos &#39;transparente&#39; e &#39;transmissi
 
 Materiais do mundo real raramente são perfeitamente puros. Muitas superfícies são melhor descritas como misturas de comportamentos, em vez de pertencerem a uma única categoria. Por exemplo, se uma superfície apresentar sinais de dirt, desgaste ou ferrugem, diferentes partes da superfície reagirão à luz de maneiras diferentes. O OpenPBR suporta isso, permitindo que a mistura se misture suavemente, de uma parte de uma superfície para outra.
 
-### Metalidade como uma mesclagem
+### Metalidade como um Combinar
 
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/extra/metalness/metalnessAsBlend.png" alt="" width="400"/><br><em>Nesse material, o ferro tem uma metalidade de 1, enquanto a ferrugem tem uma metalidade de 0. Pode haver valores intermediários de metalidade onde a ferrugem faz a transição para ferro.</em></td>
-    <td style="border: 0;" valign="top">Embora a metalidade seja normalmente definida como 0 ou 1 (ou seja, totalmente não metálica ou totalmente metálica), os valores intermediários são significativos. Esses valores representam superfícies em que materiais metálicos e não metálicos são misturados em pequena escala, em casos como pinturas que contêm partículas de metal ou flocos. Além disso, como mencionado anteriormente, os materiais de OpenPBR são construídos a partir de camadas que representam interfaces físicas distintas. É inteiramente possível que a camada de base de um material (é a camada de “núcleo”) seja metálica, mas para ela ter uma camada de revestimento não metálico acima - a camada de revestimento não é simplesmente um controle de specular adicional - ela representa uma superfície física separada através da qual a luz deve passar. Isso seria o caso com alguns tipos de pintura de carro, por exemplo: flocos metálicos seriam representados na camada de base do material, enquanto a camada de revestimento representaria uma laca de revestimento claro.</td>
+    <td style="border: 0;" valign="top">Embora a metalidade seja normalmente definida como 0 ou 1 (ou seja, totalmente não metálica ou totalmente metálica), os valores intermediários são significativos. Esses valores representam superfícies em que materiais metálicos e não metálicos são misturados em pequena escala, em casos como tintas contendo partículas ou flocos de metal. Além disso, como mencionado anteriormente, os materiais de OpenPBR são construídos a partir de camadas que representam interfaces físicas distintas. É inteiramente possível que a camada de base de um material (é a camada de “núcleo”) seja metálica, mas para ela ter uma camada de revestimento não metálico acima - a camada de revestimento não é simplesmente um controle de specular adicional - ela representa uma superfície física separada através da qual a luz deve passar. Isso seria o caso de alguns tipos de tinta de carro, por exemplo: flocos metálicos seriam representados na camada de base do material, enquanto a camada de revestimento representaria uma laca de revestimento claro.</td>
   </tr>
 </table>
 
 ### Combinar camadas para criar um comportamento complexo
 
-Materiais complexos, como o vidro fosco ou a pintura de carro mencionada anteriormente nesta seção, são criados combinando vários comportamentos de forma controlada. Por exemplo:
+Materiais complexos, como o vidro fosco ou a tinta do carro mencionada anteriormente nesta seção, são criados combinando vários comportamentos de forma controlada. Por exemplo:
 
 * **Vidro fosco**: transmissão combinada com alta aspereza e dispersão
 * **Metal pintado**: uma superfície dielétrica sobre uma base metálica, geralmente com uma pelagem transparente. Em vez de pensar em termos de predefinições, é mais eficaz considerar quais comportamentos físicos estão presentes e como eles interagem. Os materiais de OpenPBR são definidos por componentes fisicamente significativos que descrevem como a luz interage com as superfícies. Os “tipos” de materiais surgem naturalmente de combinações de comportamentos, em vez de serem selecionados explicitamente. Ao se concentrar na interação com a luz, na mesclagem e na disposição em camadas, os artistas podem criar uma ampla variedade de materiais realistas, mantendo a plausibilidade física.
@@ -404,7 +404,7 @@ Na parte inferior do modelo de OpenPBR, a camada Base representa a interação f
   </tr>
 </table>
 
-* **Cor base**: determina a &#39;cor principal&#39; de um material, definindo o albedo - isto é, a quantidade de luz vermelha, verde e azul refletida - das bases metálicas e difusas (para não metálicas). Como observado acima, enquanto a Cor base determina quais cores são refletidas, a configuração da Espessura base determina a intensidade desse reflexo.
+* **Cor de base**: determina a &#39;cor principal&#39; de um material, definindo o albedo - isto é, a quantidade de luz vermelha, verde e azul refletida - das bases metálicas e difusas (para não metálicas). Como observado acima, enquanto a Cor de base determina quais cores são refletidas, a configuração da Espessura base determina a intensidade desse reflexo.
 
 <table>
   <tr style="border: 0;">
@@ -420,16 +420,16 @@ Na parte inferior do modelo de OpenPBR, a camada Base representa a interação f
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/metalness/metalness05.png" alt=""/><br><em>Metalidade = 0,5</em></td>
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/metalness/metalness1.png" alt=""/><br><em>Metais= 1,0</em></td>
-    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/metalness/metalness1Colored.png" alt=""/><br><em>Metalidade = 1,0 com cor base amarela</em></td>
+    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/metalness/metalness1Colored.png" alt=""/><br><em>Metalidade = 1,0 com cor de base amarela</em></td>
   </tr>
 </table>
 
-* **Aspereza difusa**: define a aspereza da microsuperfície de um material, variando de 0 (possuindo um reflexo muito suave e uniforme) a 1 (com um reflexo muito áspero e difuso), adequado para materiais como rocha ou casca de árvore.
+* **Aspereza da Difusão**: define a aspereza da microsuperfície de um material, variando de 0 (possuindo um reflexo muito suave e uniforme) a 1 (com um reflexo muito áspero e difuso), adequado para materiais como rocha ou casca de árvore.
 
 <table>
   <tr style="border: 0;">
-    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness0.png" alt=""/><br><em>Aspereza difusa = 0,0</em></td>
-    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness1.png" alt=""/><br><em>Aspereza difusa = 1,0</em></td>
+    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness0.png" alt=""/><br><em>Aspereza da Difusão = 0,0</em></td>
+    <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughness1.png" alt=""/><br><em>Aspereza da Difusão = 1,0</em></td>
     <td style="border: 0;" valign="top"><img src="../assets/openpbrf/renders/base/diffuse-rough/diffuseRoughnessSplit.png" alt=""/><br><em>Lado a lado de 0,0 vs 1,0</em></td>
   </tr>
 </table>
@@ -847,7 +847,7 @@ O peso do specular permanece útil, no entanto, como uma forma abreviada para aj
 
 ### Transmissão Confusa, Transparência e Dispersão Subsuperficial
 
-Os efeitos de passagem de luz são frequentemente agrupados vagamente sob &#39;transparência&#39; ou &#39;translucidez&#39;, mas o OpenPBR faz distinções claras entre eles. A transmissão descreve a luz que passa por um material e sai do lado oposto, como visto em vidro, água ou plástico transparente. A dispersão da subsuperfície descreve a luz entrando em um material, dispersa internamente e saindo em pontos diferentes, produzindo sombras suaves e cores internas.
+Os efeitos de passagem de luz são frequentemente agrupados vagamente sob “transparência” ou “translucidez”, mas o OpenPBR faz distinções claras entre eles. A transmissão descreve a luz que passa por um material e sai do lado oposto, como visto em vidro, água ou plástico transparente. A dispersão da subsuperfície descreve a luz entrando em um material, dispersa internamente e saindo em pontos diferentes, produzindo sombras suaves e cores internas.
 
 No plano físico, dois fenômenos estão em jogo: a dispersão, efeito que faz o leite parecer branco, e a absorção, que faz o café parecer preto. Quando há pouca ou nenhuma dispersão, o volume tende a parecer mais transparente, e a transmissão é uma característica chave a considerar. Quando há muita dispersão, o volume tende a parecer mais reflexivo e a subsuperfície é uma característica-chave. Ao forçar os parâmetros para valores extremos, seria possível fazer com que a subsuperfície parecesse transparente e a transmissão parecesse opaca, mas seria muito ineficiente.
 

@@ -49,11 +49,11 @@ Como exemplo:
 
 **Considerando esses números, a configuração 8x8 deve ser usada com cuidado**.
 
-Para reduzir a presença de ruído, geralmente é aconselhável aumentar o número de raios secundários (para os baker de oclusão de ambiente, thickness e dobra normal) e manter uma configuração de AA 2x2 ou 4x4 em vez de usar uma quantidade baixa de raios secundários e uma configuração de AA alta.
+Para reduzir a presença de ruído, geralmente é aconselhável aumentar o número de raios secundários (para pães normais de oclusão ambiente, thickness e curvatura) e manter uma configuração de AA 2x2 ou 4x4 em vez de usar uma quantidade baixa de raios secundários e uma configuração de AA alta.
 
 >[!NOTE]
 >
-> Uma boa configuração de desempenho/qualidade para oclusão de ambiente da malha é usar AA 2x2 e pelo menos 128 raios secundários.
+> Uma boa configuração de desempenho/qualidade para oclusão ambiente da malha é usar AA 2x2 e pelo menos 128 raios secundários.
 
 ## Formato de arquivo
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 materiais de Substance podem ser usados com cenas referenciadas. No entanto, se precisar desativar uma saída para um Substance em uma cena referenciada, será necessário remover manualmente as saídas. Simplesmente desmarcar a saída nas propriedades de Substance não removerá as saídas para os Substance referenciados ao usar as preferências de referenciamento padrão do MODO.\
 Para permitir que o material de Substance referenciado exclua suas próprias saídas geradasPara remover manualmente as saídas, você deve primeiro alterar as Substituições de referência da cena. Vá para Item>Referências>Editar Sobreposições de Referência e defina Exclusões como “Se permitido por item.” Isso permitirá remover manualmente as saídas de Substance\
-no navegador de sombreadores e clipes para qualquer cena que seja aberta ou criada após essa alteração ter sido feita.
+na árvore de sombreador e no navegador de clipes para qualquer cena que seja aberta ou criada após essa alteração ter sido feita.
 
 Consulte a documentação do MODO para obter mais informações sobre Substituições de referência.\
 <http://modo.docs.thefoundry.co.uk/modo/801/help/pages/modointerface/ImportReference.html>

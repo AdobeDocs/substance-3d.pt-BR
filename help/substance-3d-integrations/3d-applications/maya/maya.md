@@ -30,7 +30,7 @@ ht-degree: 3%
 * [Nó de saída do Substance](../../3d-applications/maya/output-node/substance-output-node.md)
 * [Uso de fluxos de trabalho](../../3d-applications/maya/using-workflows/using-workflows.md)
 * [Trabalhar com saídas](../../3d-applications/maya/working-with-outputs/working-with-outputs.md)
-* [Amostragem de procedimentos](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
+* [Amostragem processual](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
 * [Predefinições](../../3d-applications/maya/presets/presets.md)
 * [Configurações](../../3d-applications/maya/settings/settings.md)
 * [Suporte a Arnold](../../3d-applications/maya/arnold-support/arnold-support.md)

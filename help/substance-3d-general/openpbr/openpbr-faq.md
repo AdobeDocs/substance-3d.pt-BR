@@ -69,7 +69,7 @@ Para migrar manualmente para o OpenPBR, selecione o sombreador do OpenPBR na jan
 
 +++Meus sombreadores personalizados precisam ser atualizados para o OpenPBR?
 
-Não — os shaders personalizados existentes continuam funcionando, pois as bibliotecas de sombreador relevantes são descontinuadas em vez de removidas. No entanto, é recomendável migrar para as novas bibliotecas de sombreador; elas estão mais limpas e fáceis de trabalhar. Consulte o log de alterações do API de sombreamento no menu Ajuda para obter detalhes.
+Não — os shaders personalizados existentes continuam funcionando, pois as bibliotecas de sombreador relevantes são descontinuadas em vez de removidas. No entanto, é recomendável migrar para as novas bibliotecas de sombreador; elas são mais limpas e mais fáceis de trabalhar. Consulte o log de alterações do API de sombreamento no menu Ajuda para obter detalhes.
 
 +++
 
@@ -77,26 +77,26 @@ Não — os shaders personalizados existentes continuam funcionando, pois as bib
 
 +++Com tantos parâmetros disponíveis no OpenPBR, onde devo focar minha atenção?
 
-Comece simples. Para a maioria das superfícies opacas, a Cor base, a Aspereza do Specular e a Metalidade são responsáveis pela maioria das diferenças visíveis entre os materiais. Adicione IOR se a refletividade precisa for importante; refine a cor do Specular se o material tiver uma tonalidade de ângulo de pastagem. Permita transmissão, subsuperfície, revestimento, difusão, filme fino e dispersão somente quando tiver um motivo claro e orientado por referência para fazer isso, uma vez que cada canal adicional adiciona complexidade e potencial custo de renderização. Ocultar ou recolher grupos de parâmetros não utilizados mantém o foco do espaço de trabalho e reduz o risco de efeitos não intencionais.
+Comece simples. Para a maioria das superfícies opacas, Cor de base, aspereza do Specular e metalidade respondem pela maioria das diferenças visíveis entre os materiais. Adicione IOR se a refletividade precisa for importante; refine a cor do Specular se o material tiver uma tonalidade de ângulo de pastagem. Permita transmissão, subsuperfície, revestimento, difusão, filme fino e dispersão somente quando tiver um motivo claro e orientado por referência para fazer isso, uma vez que cada canal adicional adiciona complexidade e potencial custo de renderização. Ocultar ou recolher grupos de parâmetros não utilizados mantém o foco do espaço de trabalho e reduz o risco de efeitos não intencionais.
 
 +++
 
-+++Eu tenho um mapa de aspereza — devo conectá-lo à Aspereza difusa básica ou à Aspereza de Specular?
++++Eu tenho um mapa da aspereza — devo conectá-lo à Aspereza da Difusão base ou Aspereza do Specular?
 
-Aspereza do specular: controla a nitidez do reflexo e é o equivalente direto da entrada de aspereza em outros fluxos de trabalho de PBR. Aspereza difusa básica é um parâmetro especializado separado que afeta somente a dispersão difusa; para a maioria dos fluxos de trabalho, ele pode permanecer em seu padrão.
+Aspereza do specular: controla a nitidez do reflexo e é o equivalente direto da entrada de aspereza em outros fluxos de trabalho de PBR. A aspereza da Difusão base é um parâmetro especializado separado que afeta somente a dispersão difusa. Para a maioria dos fluxos de trabalho, ela pode permanecer em seu padrão.
 
 +++
 
-+++Por que a alteração da cor base não tem efeito quando estou usando dispersão superficial?
++++Por que mudar a Cor de base não tem efeito quando estou usando dispersão subsuperficial?
 
 Há uma “hierarquia de prioridade” que determina quanta influência cada parâmetro tem sobre a aparência final do material. Curtir:
 
 * A metalidade vem em primeiro lugar: quando a metalidade = 1, as partes da subsuperfície e da transmissão são desativadas.
 * O Peso da Transmissão vem em seguida: se o Peso da Transmissão=1, a Subsuperfície estará ausente.
 * O peso da subsuperfície vem depois disso.
-* A Cor base difusa vem por último: a base difusa só contribui quando nenhuma das opções acima está definida como 1.
+* A Cor de base de Difusão vem por último: a base difusa só contribui quando nenhuma das anteriores está definida como 1.
 
-Portanto, no exemplo mencionado, se a Espessura da subsuperfície for definida como 1 (seu valor máximo), ela controlará toda a aparência. Alterar o valor da Cor base não surte efeito porque o Difuso base não faz praticamente nenhuma contribuição. Por outro lado, se a Metalidade for definida com o valor máximo de 1, a alteração dos valores de Espessura de transmissão, Espessura da subsuperfície e Cor base difusa não terá nenhum efeito na aparência final do material. Transmissão, Subsuperfície e Difusa são todos dielétricos (não-metálicos), portanto, definir a Metalidade como 1 removerá qualquer contribuição não-metálica.
+Portanto, no exemplo mencionado, se a Espessura da subsuperfície for definida como 1 (seu valor máximo), ela controlará toda a aparência. Alterar o valor de Cor de base não tem efeito porque a Difusão base não faz essencialmente nenhuma contribuição. Por outro lado, se a Metalidade for definida com o valor máximo de 1, a alteração dos valores de Peso da transmissão, Peso da subsuperfície e Cor de base da Difusão não terá nenhum efeito na aparência final do material. Transmissão, Subsuperfície e Difusões são todos dielétricos (não-metálicos), portanto, definir a Metalidade como 1 é remover qualquer contribuição não-metálica.
 
 +++
 

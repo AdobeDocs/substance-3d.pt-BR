@@ -36,16 +36,16 @@ O plug-in Substance permite carregar um material de Substance criado em Substanc
 
    ![](../../../assets/createnode.png)
 
-   Você também pode pressionar Tab no editor de nó e no campo de texto, digite substance e isso filtrará para as opções de substance. Nas opções, escolha Textura do Substance.
+   Você também pode pressionar Tab no editor de nó e no campo de texto, digite substance e isso filtrará para as opções de substance. Nas opções, escolha Substance Textura.
 1. Selecione o nó Substance e no Editor de propriedades e navegue para carregar um arquivo de Substance (.sbsar).
 
    ![](../../../assets/1.png)
 1. A lista suspensa Gráfico selecionado será preenchida se o Substance contiver vários gráficos. O gráfico escolhido será usado para criar o material.
 1. O botão Informações do gráfico exibirá os atributos do gráfico definidos no Substance Designer.
 1. Defina a Resolução escolhendo um valor na caixa suspensa Largura e Height. A taxa de bloqueio está ativada por padrão.
-1. Ative as Saídas de cache para o disco a fim de preparar as Saídas de Substance para o disco para que elas possam ser usadas com renderizadores como Arnold. O arquivo armazenado em cache será lido novamente pelo plug-in usando um nó de arquivo do Maya.
+1. Ative as Saídas de cache para o disco para fazer bake as Saídas de Substance para o disco para que elas possam ser usadas com renderizadores como Arnold. O arquivo armazenado em cache será lido novamente pelo plug-in usando um nó de arquivo do Maya.
 
    ![](../../../assets/outputsettings.png)
-1. Escolha um fluxo de trabalho para o renderizador que você está usando e clique no botão Criar rede do sombreador. Uma rede de sombreador é criada para o fluxo de trabalho do renderizador. Agora você pode aplicar o material na cena.
+1. Escolha um fluxo de trabalho para o renderizador que você está usando e clique no botão Criar rede de Sombreador. Uma rede de sombreador é criada para o fluxo de trabalho do renderizador. Agora você pode aplicar o material na cena.
 
    ![](../../../assets/createnetwork.gif){width="1000px"}

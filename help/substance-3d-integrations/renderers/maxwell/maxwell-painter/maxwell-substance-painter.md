@@ -21,9 +21,9 @@ ht-degree: 0%
 # Maxwell - Substance Painter
 
 O Substance Painter 2020.1 (6.1.0) oferece suporte a Maxwell [Modelos de saída](https://experienceleague.adobe.com/pt-br/docs/substance-3d-painter/using/getting-started/export/export) para metálico/rugosidade e specular/brilho. Você pode simplesmente exportar usando o Modelo de saída Maxwell**.\
-O Maxwell 5.1.0** tem uma integração com o Substance Painter que permite importar texturas com facilidade e configurar automaticamente um material Maxwell.
+O Maxwell 5.1.0** tem uma integração com Substance Painter que permite importar texturas com facilidade e configurar automaticamente um material Maxwell.
 
-## Exportando texturas
+## Exportação de texturas
 
 Você pode escolher os Modelos de saída Maxwell (Aspereza metálica) ou Maxwell (Textura reluzente do Specular) para exportar texturas para renderização no Maxwell.
 
@@ -36,7 +36,7 @@ Para começar, clique com o botão direito do mouse na Lista de materiais e esco
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maxwell-painter?$png$&jpegSize=100&wid=413)
 
-Navegue até o local em que você exportou as texturas e selecione um dos mapas, como cor de base. Quando você clica em abrir, a integração cria um novo material Maxwell com os mapas atribuídos.\
+Navegue até o local em que você exportou as texturas de Substance Painter e selecione um dos mapas, como a cor base. Quando você clica em abrir, a integração cria um novo material Maxwell com os mapas atribuídos.\
 Se você tiver vários conjuntos de texturas exportados do Substance Painter, a integração usará a convenção de nomenclatura para a textura para atribuir mapas de textura correspondentes.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/image-material?$png$&jpegSize=100&wid=620){width="600px"}

@@ -22,15 +22,15 @@ ht-degree: 0%
 
 ## Alterando um parâmetro float:
 
-Você usará o [nó Flutuante de Entrada Set](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para alterar os parâmetros de substância float, color(float4) e Boolean.
+Você usará o [nó de Precisão decimal Definir Entrada](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) para alterar os parâmetros de substância float, color(float4) e Boolean.
 
 1. Crie uma variável com um tipo de “Instância de Gráfico do Substance” como referência.\
    \**Para fazer isso, adicione uma variável na guia Meu Blueprint e dê um nome a ela. Na lista suspensa, procure Instância de Gráfico do Substance > Referência do objeto. Arraste a variável para o gráfico e selecione Obter (nome da variável). Defina a Instância de Gráfico do Substance na seção Valor Padrão da Guia Detalhes.*
-1. Crie um nó flutuante Definir entrada e defina o destino como a variável Instância de Gráfico do Substance. A caixa Sensível ao contexto na janela de pesquisa pode precisar ser desmarcada para ver todos os resultados.
-1. No nó Set Input Float, defina o Identificador como o nome do Parâmetro Substance a ser alterado.\
-   *\* É possível localizar o nome do Identificador abrindo o INST do Substance e passando o mouse sobre o nome do parâmetro. O nome do Identificador aparecerá no pop-up da dica de ferramenta.*
-1. No nó flutuante de entrada, arraste uma conexão para fora e crie um nó Criar matriz. O Make Array Node terá um índice de 0. O índice de 0 corresponde ao valor de flutuação.
-1. Crie um nó de renderização Assíncrono ou Sincronizado e conecte a linha de execução do Flutuante de entrada Definir ao Nó de renderização. Defina as instâncias a serem renderizadas para a variável de instância de Gráfico do Substance.\
+1. Crie um nó Definir Precisão decimal de entrada e defina o destino como a variável Instância de Gráfico do Substance. A caixa Sensível ao contexto na janela de pesquisa pode precisar ser desmarcada para ver todos os resultados.
+1. No nó Definir Precisão decimal de entrada, defina o Identificador como o nome do Parâmetro de Substance a ser alterado.\
+   *\* Você pode encontrar o nome do Identificador abrindo o INST do Substance e passando o mouse sobre o nome do parâmetro. O nome do Identificador aparecerá no pop-up de dica de ferramenta.*
+1. No nó de Precisão decimal de entrada, arraste uma conexão para fora e crie um nó Criar matriz. O Make Array Node terá um índice de 0. O índice de 0 corresponde ao valor de flutuação.
+1. Crie um nó de renderização Assíncrono ou Sincronizado e conecte a linha de execução da Precisão decimal Definir entrada ao nó Renderizar. Defina as instâncias a serem renderizadas para a variável de instância de Gráfico do Substance.\
    *\* Assíncrono não está bloqueando e Sincronização está bloqueando.*
 
 ![](../../../../../assets/steps.png){width="800px"}

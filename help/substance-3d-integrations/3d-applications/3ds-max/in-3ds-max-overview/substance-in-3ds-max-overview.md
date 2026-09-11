@@ -56,7 +56,7 @@ ht-degree: 0%
 ## Alterando Parâmetros:
 
 1. Clique duas vezes no nó Substance para carregar os parâmetros Substance na janela de parâmetros.
-1. Altere os parâmetros para atualizar automaticamente as texturas de Substance.
+1. Altere os parâmetros para atualizar o Substance textura automaticamente.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max4?$png$&jpegSize=200&wid=1276){width="500px"}
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
 ## Substance de divisão em blocos:
 
-Você pode usar as propriedades Coordenadas para cobrir texturas de Substance e definir Canais de mapa.
+Você pode usar as propriedades Coordenadas para colocar texturas lado a lado e definir Canais de Mapa.
 
 ![](../../../assets/max10.png)

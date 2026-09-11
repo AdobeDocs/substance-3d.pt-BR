@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Plug-in irreal 4.24.0.3
 
-A Substance em Unreal Engine passou por uma grande reestruturação. Parte desta reestruturação oferece suporte total ao **UTexture2D** e inclui entradas e saídas. Com suporte para **UTexture2D**, o plug-in agora pode ser usado para publicar em qualquer plataforma que suporte o Unreal, incluindo dispositivos móveis. Juntamente com a adição de suporte a várias plataformas, o **UTexture2D** também permite o uso nativo do sistema de streaming de textura no UE4.
+A Substance em Unreal Engine passou por uma grande reestruturação. Parte desta reestruturação oferece suporte total ao **UTexture2D** e inclui entradas e saídas. Com suporte para **UTexture2D**, o plug-in agora pode ser usado para publicar em qualquer plataforma que suporte o Unreal, incluindo dispositivos móveis. Além da adição de suporte a várias plataformas, o **UTexture2D** também permite o uso nativo do sistema de streaming de textura no UE4.
 
 O plug-in também traz suporte total para **instanciação** de material e introduz um novo fluxo de trabalho de modelo de material com saídas numéricas suportadas pelo Substance Engine. Os modelos de material permitem que você defina exatamente como deseja configurar os sombreadores de material de Substance em UE4.
 
 ![](../../../../../assets/ue4-material-templates.png)
 
-Enviamos modelos para trabalhar com materiais de deslocamento, refração e alinhados mundialmente que possuem controles incorporados para ajustar a divisão em blocos gráficos, o tamanho da textura, o deslocamento e os parâmetros emissivos. O sistema de modelos de material também permite que você forneça seus próprios modelos personalizados.
+Enviamos modelos para trabalhar com materiais de deslocamento, refração e alinhados com o mundo que possuem controles incorporados para ajustar os parâmetros de textura, , deslocamento e emissivo. O sistema de modelos de material também permite que você forneça seus próprios modelos personalizados.
 
 ![](../../../../../assets/ue4-material-instance-params.png)

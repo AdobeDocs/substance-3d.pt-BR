@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
-description: Salve normais de malha, tangentes e binormais em texturas usando coordenadas do espaço global para workflows avançados.
+description: Salve normais de malha, tangentes e binormais no textura usando coordenadas do espaço global para workflows avançados.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > World Space Normals
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Normas globais de espaço
 
-O padeiro de normais do espaço mundial permite salvar o normal de malha, tangente e binormals em uma textura.
+O baker de normais do espaço mundial permite salvar o normal de malha, tangente e binormals em uma textura.
 
 **Disponível em:**
 
@@ -31,6 +31,6 @@ O padeiro de normais do espaço mundial permite salvar o normal de malha, tangen
 
 | *Parâmetro* | *Descrição* |
 | --- | --- |
-| **Tipo de Preparação** | Define que tipo de computação o padeiro realizará.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normal</strong> (padrão)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormal</strong></li></ul> |
-| **Mapa Normal** | Caminho para a textura normal de entrada que será usada durante o cálculo para adicionar detalhes. |
-| **Orientação Normal** | Define o formato normal da textura de entrada se **Tipo de Preparação** estiver definido como **Normal**.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (padrão)</li></ul> |
+| **Fazendo bake Tipo** | Define qual tipo de computação o baker executará.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normal</strong> (padrão)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormal</strong></li></ul> |
+| **Mapa normal** | Caminho para a textura normal de entrada que será usada durante o cálculo para adicionar detalhes. |
+| **Orientação Normal** | Define o formato normal da textura de entrada se o **Tipo de Fça bake** estiver definido como **Normal**.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (padrão)</li></ul> |

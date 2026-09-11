@@ -24,7 +24,7 @@ ht-degree: 8%
 
 ## Exportar Substance Painter
 
-1. Para o Keyshot, você precisará configurar uma predefinição de exportação usando Difusa, Reflexão, Metálica, Aspereza e Normal (X direto).
+1. Para o Keyshot, você precisará configurar uma predefinição de exportação usando Difusão, Reflexo, Metálico, Aspereza e Normal (X direto).
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/key-01?$png$&jpegSize=300&wid=1794)
 
@@ -38,7 +38,7 @@ Você usará 2 materiais avançados. Uma será para metais e a outra para dielé
    a) Defina o índice de refração como 10\
    b) Defina os mapas conforme indicado na tabela abaixo
 
-   | textura do Substance Painter | Canal de material avançado |
+   | Substance Painter textura | Canal de material avançado |
    | --- | --- |
    | Difusão | Difusão |
    | Metálico | Opacidade |
@@ -52,7 +52,7 @@ Você usará 2 materiais avançados. Uma será para metais e a outra para dielé
    a) Defina o índice de refração como 1,5\
    b) Defina os mapas conforme indicado na tabela abaixo
 
-   | textura do Substance Painter | Canal de material avançado |
+   | Substance Painter textura | Canal de material avançado |
    | --- | --- |
    | Difusão | Difusão |
    | Normal | Bump \*Normal Ativado |

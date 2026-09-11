@@ -100,7 +100,7 @@ ht-degree: 0%
 
 * Correção de um problema que afetava mapas normais em projetos Android.
 * Correção de um erro em que arrastar um objeto sbsar para a exibição de cena fazia com que todos os objetos que passavam o mouse fossem substituídos por seus materiais pelo material do objeto sbsar.
-* Correção de um erro que causava erro ao inspecionar um material marcado como Somente tempo de execução no modo Tempo de execução e ao abrir o Mapeamento de textura de saída.
+* Correção de um erro que causava erro ao inspecionar um material marcado como Somente tempo de execução no modo Tempo de execução e ao abrir o Mapeamento de Textura de saída.
 
 ## Unity 3.7.0
 

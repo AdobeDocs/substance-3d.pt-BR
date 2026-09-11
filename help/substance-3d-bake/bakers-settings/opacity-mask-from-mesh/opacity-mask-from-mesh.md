@@ -20,7 +20,7 @@ ht-degree: 10%
 
 # Máscara de opacidade da malha
 
-A Máscara de opacidade do baker de malha calcula uma textura em que os raios não vistos são convertidos em uma imagem binária em tons de cinza. Essa textura é geralmente usada como um mapa de opacidade.
+A Máscara de opacidade do mesh baker calcula uma textura onde os raios faltantes são convertidos em uma imagem binária em tons de cinza. Essa textura é geralmente usada como um mapa de opacidade.
 
 As propriedades da textura são definidas como:
 

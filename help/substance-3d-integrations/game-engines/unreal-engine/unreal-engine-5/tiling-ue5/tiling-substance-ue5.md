@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
-description: Texturas de Substance de blocos no Unreal Engine 5 adicionando nós de Coordenada de textura e parâmetros escalares aos materiais.
+description: Texturas Substance de blocos no Unreal Engine 5 adicionando nós de coordenadas de Textura e parâmetros escalares aos materiais.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Tiling Substance - UE5
 helpx_experience_level: ""

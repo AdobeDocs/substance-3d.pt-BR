@@ -154,7 +154,7 @@ Use sua nova variante de material na cena do Roblox
 
 >[!NOTE]
 >
-> Se a cor das texturas parecer diferente no Roblox, verifique o atributo **Cor** na categoria **Aparência** nas propriedades do objeto ao qual a Variante de material está aplicada e certifique-se de que esteja definida como *branco puro*, ou seja, RGB (255, 255, 255), rotulado como *Branco institucional* no Roblox.
+> Se a cor das texturas parecer diferente no Roblox, verifique o atributo **Cor** na categoria **Aparência** nas propriedades do objeto ao qual a Variante de material está aplicada e verifique se ele está definido como *branco puro*, isto é, RGB (255, 255, 255), rotulado como *Branco institucional* no Roblox.
 
 </td>
 <td style="border: 0;" valign="top">

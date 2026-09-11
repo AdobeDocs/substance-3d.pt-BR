@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
-description: Defina as configurações normais de orientação do mapa no MODO para garantir a renderização correta do mapa normal com materiais Substance.
+description: Defina as configurações de orientação do mapa normal no MODO para garantir a renderização correta do mapa normal com materiais de Substance.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working with Normals
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Trabalhar com dados normais - Definir a orientação correta
 
-Os Substance do Stock são criados para usar a orientação normal DX. No entanto, o MODO usa OGL. Você pode inverter o normal definindo o parâmetro Formato normal como 1.0. O plug-in Substance interpretará apenas os parâmetros definidos no Substance. Você pode encontrar um Substance que não tem o parâmetro “normal\_format”, pois cabe ao autor do Substance adicionar esse controle a Substance personalizados. Se você encontrar um Substance que não tem esse parâmetro, pode virar o canal verde na camada de textura do mapa normal para corrigir a orientação.
+Os Substance do Stock são criados para usar a orientação normal DX. No entanto, o MODO usa OGL. Você pode inverter o normal definindo o parâmetro Formato normal como 1.0. O plug-in Substance interpretará apenas os parâmetros definidos no Substance. Você pode encontrar um Substance que não tem o parâmetro “normal\_format”, pois cabe ao autor do Substance adicionar esse controle a Substance personalizados. Se encontrar um Substance sem esse parâmetro, você pode virar o canal verde na camada de Textura do mapa normal para corrigir a orientação.
 
 >[!NOTE]
 >

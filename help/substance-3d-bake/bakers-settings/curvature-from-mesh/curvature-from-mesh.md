@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Curvatura da malha
 
-A Curvatura do baker de malha gera uma textura de curvatura de malhas de alto polígono. É mais lento do que o baker de base [curvatura](../../bakers-settings/curvature/curvature.md), mas produz resultados mais precisos.
+A Curvatura do padeiro de malha gera uma textura de curvatura de malhas de alto polígono. É mais lento do que o padeiro de base [curvatura](../../bakers-settings/curvature/curvature.md), mas produz resultados mais precisos.
 
 **Disponível em:**
 

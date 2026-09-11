@@ -24,9 +24,9 @@ ht-degree: 13%
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-Os <b>Substance Bakers</b> são um conjunto de ferramentas de algoritmo avançado para computar informações baseadas em malha em arquivos de textura. Eles podem ser usados por qualquer artista com uma malha 3D para aproveitar os métodos avançados de texturização. Cozimento é um processo no núcleo do fluxo de trabalho do software Substance para oferecer<b> ferramentas poderosas</b> e <b>texturização automatizada</b>.
+Os <b>Substance Bakers</b> são um conjunto de ferramentas de algoritmo avançado para computar informações baseadas em malha em arquivos de textura. Eles podem ser usados por qualquer artista com uma malha 3D para aproveitar os métodos avançados de texturização. Fazer bake é um processo no núcleo do fluxo de trabalho do software Substance para oferecer<b> ferramentas poderosas</b> e <b>texturização automatizada</b>.
 
-Esta documentação aborda os <b>fundamentos da panificação</b> e os <b>problemas comuns</b> e os erros que podem ser encontrados ao lidar com esse processo.
+Esta documentação aborda os <b>fundamentos do faço bake</b> e os <b>problemas comuns</b> e os erros que podem ser encontrados ao lidar com este processo.
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -44,7 +44,7 @@ Esta documentação aborda os <b>fundamentos da panificação</b> e os <b>proble
 ## Introdução
 
 * [O que é assar?](../getting-started/what-is-baking/what-is-baking.md)
-* Assar com:
+* Fazer bake por:
   * [Substance 3D Painter](../getting-started/software-interface/3d-painter/substance-3d-painter.md)
   * [Substance 3D Designer](../getting-started/software-interface/3d-designer/substance-3d-designer.md)
   * [Substance 3D Automation Toolkit](../getting-started/software-interface/3d-automation-toolkit/substance-3d-automation-toolkit.md)
@@ -106,15 +106,15 @@ Esta documentação aborda os <b>fundamentos da panificação</b> e os <b>proble
 ### Perguntas comuns
 
 * [Como exportar os mapas baked?](../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)
-* [O pontilhamento é aplicado a texturas assadas?](../common-questions/dithering-applied-baked/is-dithering-applied-to-baked-textures.md)
+* [O pontilhamento é aplicado às texturas feitas bake?](../common-questions/dithering-applied-baked/is-dithering-applied-to-baked-textures.md)
 * [Devo ativar “Calcular espaço tangente por fragmento”?](../common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
-* [A textura cozida fora do software do Substance parece incorreta](../common-questions/texture-baked-outside-sof/texture-baked-outside-of-substance-software-looks-incorrect.md)
+* [A textura feita bake fora do software Substance parece incorreta](../common-questions/texture-baked-outside-sof/texture-baked-outside-of-substance-software-looks-incorrect.md)
 * [O que são arquivos Assbin?](../common-questions/what-are-assbin-files/what-are-assbin-files.md)
-* [Qual é a profundidade de bits das texturas assadas?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
+* [Qual é a profundidade de bits das texturas feitas bake?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
 * [Qual é a diferença entre o formato normal do OpenGL e do DirectX?](../common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
-* [Por que existem trechos estranhos em minhas texturas após assar ou exportar?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
-* [Por que a Correspondência por Nome não está funcionando com a Oclusão/Thickness ambiente?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
-* [Por que minha malha está totalmente preta depois de assar?](../common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
+* [Por que existem trechos estranhos em minhas texturas depois de fazer bake ou exportar?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
+* [Por que a Correspondência por Nome não está funcionando com a Oclusão de ambiente/Thickness?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
+* [Por que minha malha está totalmente preta depois de fazer bake?](../common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -122,13 +122,13 @@ Esta documentação aborda os <b>fundamentos da panificação</b> e os <b>proble
 ### Problemas comuns
 
 * [Serrilhado em emendas UV](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [A saída Baker é totalmente preta ou vazia](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-* [Falha na cozedura com o Mapa de cores da malha](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
+* [A saída do baker está totalmente preta ou vazia](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [Falha ao fazer bake com Colorir mapa a partir duma malha](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Cruz sombreamento preta é visível na superfície da malha](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [As partes da malha sangram entre si](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)
 * [O mapa normal tem gradientes coloridos estranhos](../common-issues/normal-map-has-strange/normal-map-has-strange-colorful-gradients.md)
 * [A textura normal parece facetada](../common-issues/normal-texture-looks-fac/normal-texture-looks-faceted.md)
-* [As emendas ficam visíveis após assar uma textura normal](../common-issues/seams-are-visible-after/seams-are-visible-after-baking-a-normal-texture.md)
+* [As costuras ficam visíveis depois de fazer bake uma textura normal](../common-issues/seams-are-visible-after/seams-are-visible-after-baking-a-normal-texture.md)
 * [Costura visível em cada rosto](../common-issues/seam-visible-every-face/seam-visible-on-every-face.md)
 
 </td>

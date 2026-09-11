@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **Notas de versão do Complemento versão 0.9.3+**
 
-* Adicione rótulos de espaços de cor OCIO 2.0 nas preferências do complemento.
+* Adicione rótulos de espaços de cores OCIO 2.0 nas preferências do complemento.
 * Adicione descrições à fábrica de parâmetros/saídas como dicas de ferramentas.
 * Adicionar a funcionalidade de relatório (geral) (removeu pop-ups invasivos e os substituiu por mensagens de mesclador nativo).
 * Atualize o rótulo da versão SRE ao instalar e atualizar nas preferências do complemento.
@@ -40,5 +40,5 @@ ht-degree: 0%
 **Seção Do Painel Do Substance 3D: Adicionada/Atualizada:**
 
 * O Tamanho físico de um material é exibido (em metros) em Parâmetros do gráfico.
-* O Tamanho físico Ciclos/Véspera está disponível na lista suspensa do sombreador.
+* Ciclos/Eevee Tamanho físico está disponível na lista suspensa sombreador.
 * Ocultar grupos de Parâmetros se todos os parâmetros estiverem invisíveis.

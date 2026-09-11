@@ -24,12 +24,12 @@ Lançado em 21 de maio de 2020
 
 Adicionado
 
-* Suporte universal a pipeline de renderização: as texturas de Substance usarão automaticamente sombreadores e materiais de URP
+* Suporte a Pipeline de Renderização Universal: o Substance textura usará sombreadores e materiais URP automaticamente
 
 Fixa
 
 * Configuração da resolução máxima do mecanismo da CPU Substance:
-  * Atualizado o nome do campo no menu Configurações do Substance de “Texture Clamp \*\*” para “Resolução máxima do mecanismo da CPU do Substance”
+  * Atualizado o nome do campo no menu Configurações de Substance de “Restrinjo de Textura \*\*” para “Resolução máxima do mecanismo da CPU para Substance”
   * A notificação de aviso será exibida indicando que todos os materiais da substância serão reimportados quando a configuração for modificada
 * Removida a mensagem de depuração desnecessária exibida na instalação (”TextureClamp = 4096 Unity.Engine.Debug:Log(Object)”)
 * Projeto HDRP: as propriedades de material que estão nos materiais padrão e HDRP continuarão quando os pacotes forem importados e incluírem Substance

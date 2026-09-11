@@ -44,7 +44,7 @@ O Substance 3D Painter usa o sombreador PBR metálico como padrão; no entanto, 
 1. Definir Reflexo como GGX
 1. Adicione as texturas aos canais apropriados, conforme mostrado no gráfico a seguir:
 
-   | Substance 3D Painter Textura | Espaço de cores | Material da bolsa de ferramentas |
+   | Textura do Substance 3D Painter | Espaço de cores | Material da bolsa de ferramentas |
    | --- | --- | --- |
    | Cor de base | sRGB | Albedo |
    | Rugosidade | sRGB desativado | Microsuperfície - Brilho - Clique Inverter |

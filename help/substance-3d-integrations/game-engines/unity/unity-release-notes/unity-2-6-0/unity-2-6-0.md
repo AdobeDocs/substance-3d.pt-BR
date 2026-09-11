@@ -38,5 +38,5 @@ Problemas conhecidos:
 
 * O erro de acesso negado e/ou falha ocorre ao atualizar o plug-in das versões anteriores 2.5.4 e anteriores
   * Solução alternativa: as versões 2.5.4 e anteriores do plug-in precisam ser desinstaladas das versões 2020.2 e posteriores do projeto Unity antes de instalar a versão 2.6.0 do plug-in
-* As visualizações de textura para arquivos de imagem não serão exibidas no inspetor quando o plug-in Substance for instalado
+* As visualizações de Textura para arquivos de imagem não serão exibidas no inspetor quando o plug-in Substance for instalado
   * A origem desse problema existe no Unity e está planejada para ser corrigida pelo Unity em suas versões 2021.2 (atualmente em beta)

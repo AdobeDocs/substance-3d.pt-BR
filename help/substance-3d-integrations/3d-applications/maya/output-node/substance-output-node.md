@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
-description: Entenda como os nós de saída de Substance funcionam no Maya para conectar texturas computadas a redes sombreadoras.
+description: Entenda como os nós de saída de Substance funcionam no Maya para conectar texturas computadas a redes de sombreador.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Substance Output Node
 helpx_experience_level: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Nó de saída do Substance
 
-O nó de saída do Substance é uma referência à textura computada do Substance Engine. Ele está conectado ao nó Substance. Quando uma saída é criada no nó Substance, o mecanismo Substance computa a textura e esses dados são mantidos como RAM. Se estiver usando o mecanismo da GPU, os dados serão calculados na GPU e enviados de volta à memória usando o mecanismo de mesclagem da GPU de Substance. As saídas no nó do Substance que não estão ativadas não são computadas.
+O nó de saída de Substance é uma referência à textura computada do Substance Engine. Ele está conectado ao nó Substance. Quando uma saída é criada no nó Substance, o mecanismo Substance computa a textura e esses dados são mantidos como RAM. Se estiver usando o mecanismo da GPU, os dados serão calculados na GPU e enviados de volta à memória usando o mecanismo de Combinar da GPU de Substance. As saídas no nó do Substance que não estão ativadas não são computadas.
 
 ![](../../../assets/outputnode.png)
 
-Neste nó, você pode ver as informações de Saída, como Identificador, Rótulo e Uso definidos na saída em Substance Designer. Este nó também permite preparar a textura para o disco na seção Cache de saída.
+Neste nó, você pode ver informações de Saída como Identificador, Rótulo e Uso definidos na saída em Substance Designer. Este nó também permite que você Fça bake a textura ao disco na seção Cache de saída.

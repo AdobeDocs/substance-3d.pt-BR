@@ -96,7 +96,7 @@ O pacote inclui uma assinatura de um ano da Maxon One e da Adobe Substance 3D Co
 +++
 
 +++Como faço para renovar após o primeiro ano?
-Sua assinatura do Maxon One será renovada automaticamente por mais um ano pelo preço normal ($1199 USD por ano, ou equivalente regional).
+Sua assinatura do Maxon One será renovada automaticamente por mais um ano pelo preço normal (US$ 1.199 USD por ano ou equivalente regional).
 
 A Coleção do Adobe Substance 3D só será renovada automaticamente se você inserir um cartão de crédito válido ao resgatar o código do cupom ou se adicionar um cartão de crédito à página de gerenciamento de conta em account.adobe.com antes da data de expiração do prazo da assinatura.
 

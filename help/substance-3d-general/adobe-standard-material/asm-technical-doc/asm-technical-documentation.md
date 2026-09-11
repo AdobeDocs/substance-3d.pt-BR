@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/br/substance-3d-general/adobe-standard-material/asm-technical-documentation.html"
 breadcrumb-title: ''
-description: Acessar a documentação técnica detalhada, incluindo fórmulas e matemática usada pelo modelo de material padrão da Adobe.
+description: Acessar a documentação técnica detalhada, incluindo fórmulas e matemática usada pelo modelo de Adobe Standard Material.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > ASM technical documentation
 helpx_experience_level: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Documentação técnica do ASM
 
-Esta página reagrupa informações técnicas sobre o Material padrão da Adobe.
+Esta página reagrupa informações técnicas sobre o Adobe Standard Material.
 
 A documentação técnica, como as fórmulas detalhadas e a matemática utilizada pelo ASM, está disponível como um documento PDF:
 
-* [Material padrão da Adobe - Technical Documentation.pdf](https://helpx.adobe.com/content/dam/substance-3d/general-knowledge/asm/Adobe%20Standard%20Material%20-%20Technical%20Documentation%20-%20May2023.pdf) (Última atualização: maio de 2023)
+* [Adobe Standard Material - Technical Documentation.pdf](https://helpx.adobe.com/content/dam/substance-3d/general-knowledge/asm/Adobe%20Standard%20Material%20-%20Technical%20Documentation%20-%20May2023.pdf) (Última atualização: maio de 2023)

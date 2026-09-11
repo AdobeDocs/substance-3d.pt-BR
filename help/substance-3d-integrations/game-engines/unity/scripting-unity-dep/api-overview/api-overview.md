@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-O valor entre aspas é o parâmetro Identifier definido em Substance Designer.
+O valor entre aspas é o Identificador de parâmetro definido em Substance Designer.
 
-No Inspetor de unidade, você pode passar o mouse sobre um parâmetro para revelar uma dica de ferramenta que mostra o nome do identificador definido em Substance Designer.
+No Inspetor de unidade, você pode passar o mouse sobre um parâmetro para revelar uma dica de ferramenta que mostra o nome do Identificador definido em Substance Designer.
 
 ![](../../../../assets/tooltip-6.png)
 

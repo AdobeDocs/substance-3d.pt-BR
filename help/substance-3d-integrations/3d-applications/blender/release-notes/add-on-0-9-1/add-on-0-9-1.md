@@ -37,7 +37,7 @@ ht-degree: 0%
 * Um caminho de exportação de textura padrão (pasta Temporal) que emula o caminho usado pelo Substance 3d Painter para manipular as exportações de arquivos não salvos
 * Textura o caminho relativo como acima, com a opção de usar chaves como $matName para criar subpastas
 * Caminho relativo dos arquivos sbsar para criar uma subpasta que empacota os arquivos sbsar usados em seu arquivo de mesclagem quando você salva seu projeto
-* Capacidade de definir dinamicamente diferentes redes de sombreador nas preferências - Na rede de sombreador, capacidade de definir diferentes variáveis por sombreador dependendo das necessidades de sombreador
+* Capacidade de definir dinamicamente diferentes redes de sombreador em preferências - Na rede de sombreador, a capacidade de definir diferentes variáveis por sombreador dependendo das necessidades do sombreador
 * Na seção Saídas da rede de sombreador, você pode definir se uma saída está ativada por padrão
 * Capacidade de definir o espaço de cores (ele oferecerá suporte a fluxos de trabalho de dados de aces, exr linear e mesclador, não apenas a srgb)
 * A seleção padrão do formato de imagem e da profundidade de bits

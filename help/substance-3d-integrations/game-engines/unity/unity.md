@@ -46,7 +46,7 @@ ht-degree: 0%
 * [Atualizando projetos/problemas conhecidos](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) — problemas conhecidos com o Substance no plug-in Unity
 * [Gerenciando Gráficos do Substance](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — você pode criar novos materiais com base no material do Substance usando o SGM (Gerenciador de Gráficos do Substance)
 * [Alterando parâmetros](../../game-engines/unity/changing-parameters/changing-parameters.md) — Parâmetros para o material de Substance estão acessíveis no SGO (Objeto de Gráfico do Substance).
-* [Texturas Geradas (Embalagem)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — As Texturas Geradas mostram as saídas do Substance que são computadas pelo Substance Engine para criar texturas
+* [Textura geradas (Embalagem)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — As Textura geradas mostram as saídas do Substance que são computadas pelo Substance Engine para criar texturas
 * [Espaço da cor de renderização](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — para obter os melhores resultados, você deve definir o espaço da cor como linear nas Configurações do Reprodutor de Unidade.
 * [Utilização de entradas de imagem](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [Publicação para dispositivos móveis](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) — Diretrizes para publicação em plataformas móveis
@@ -78,7 +78,7 @@ ht-degree: 0%
 * [Atualizando projetos/problemas conhecidos](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) — problemas conhecidos com o Substance no plug-in Unity
 * [Gerenciando Gráficos do Substance](https://helpx.adobe.com/br/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — você pode criar novos materiais com base no material do Substance usando o SGM (Gerenciador de Gráficos do Substance)
 * [Alterando parâmetros](../../game-engines/unity/changing-parameters/changing-parameters.md) — Parâmetros para o material de Substance estão acessíveis no SGO (Objeto de Gráfico do Substance).
-* [Texturas Geradas (Embalagem)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — As Texturas Geradas mostram as saídas do Substance que são computadas pelo Substance Engine para criar texturas
+* [Textura geradas (Embalagem)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — As Textura geradas mostram as saídas do Substance que são computadas pelo Substance Engine para criar texturas
 * [Espaço da cor de renderização](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — para obter os melhores resultados, você deve definir o espaço da cor como linear nas Configurações do Reprodutor de Unidade.
 * [Utilização de entradas de imagem](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [Publicação para dispositivos móveis](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) — Diretrizes para publicação em plataformas móveis

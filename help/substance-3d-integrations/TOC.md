@@ -4,7 +4,7 @@ user-guide-title: Ecossistema do Substance 3D
 breadcrumb-title: Guia do usuário do ecossistema do Substance 3D
 source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '815'
 ht-degree: 2%
 
 ---
