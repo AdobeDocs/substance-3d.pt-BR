@@ -1,6 +1,6 @@
 ---
-helpx_url: "https://helpx.adobe.com/br/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
-breadcrumb-title: ''
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+breadcrumb-title: ""
 description: Crie texturas de oclusão ambiente precisas a partir de malhas de alto polígono usando técnicas de traçado de raio para aprimorar o realismo.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Ambient Occlusion from Mesh
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: Oclusão ambiente da malha
-user-guide-description: ''
-user-guide-title: ''
+user-guide-description: ""
+user-guide-title: ""
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 2%
-
 ---
-
 
 # Oclusão ambiente da malha
 
@@ -39,8 +37,8 @@ A Oclusão ambiente do padeiro de malha permite assar uma textura de Oclusão am
 | **Ângulo de Propagação** | Ângulo máximo de propagação dos raios de oclusão. O padrão é 180. |
 | **Distribuição** | Distribuição angular dos raios de oclusão. Define como os raios são espalhados em um cone do tamanho do ângulo de propagação.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Cosseno</strong> (padrão): realista, mas pode levar à linha branca em áreas ocultadas muito finas. Mais adequado para sombreamento e iluminação.</li><li data-preserve-html="true"><strong>Uniforme</strong>: útil para criar degradês lineares. Mais adequado para máscara de camada e outras filtragens.</li></ul> |
 | **Ignorar Backface** | Esses parâmetros definem se os raios de oclusão ignoram acertos em uma face traseira (se o alto poli normal estiver voltado para a direção oposta como o baixo poli de onde o raio é disparado). Na maioria das vezes, essa configuração deve ser ativada para evitar artefatos. Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Nunca</strong> (padrão): as faces traseiras nunca são ignoradas</li><li data-preserve-html="true"><strong>Sempre</strong>: as faces traseiras são sempre ignoradas</li><li data-preserve-html="true"><strong>Por nome da malha</strong>: os backfaces são ignorados somente para malhas que correspondem à palavra-chave do sufixo. Consulte os [parâmetros comuns](../../bakers-settings/common-parameters/common-parameters.md).</li></ul> |
-| **Auto-oclusão** | Correspondência por nome para raios de oclusão. Indica como os padeiros devem corresponder à geometria baixa e alta. Ele pode ser usado para filtrar o processo de cozimento sem a necessidade de mover manualmente (explodir) malhas.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Sempre</strong> (padrão): a malha de baixo polígono corresponde a cada malha de alto polígono.</li><li data-preserve-html="true"><strong>Por nome da malha</strong>: filtre as malhas por nome para evitar correspondência com geometria indesejada.</li></ul>Para saber mais sobre a geometria correspondente, consulte: [Correspondência por Nome](../../features/matching-by-name/matching-by-name.md). |
-| **Mapa Normal** | Caminho opcional para uma textura normal. Pode ser usado para substituir o cálculo interno do padeiro. |
+| **Auto-oclusão** | Correspondência por nome para raios de oclusão. Indica como os baker devem corresponder à geometria baixa e alta. Ele pode ser usado para filtrar o processo de fça bake sem a necessidade de separar manualmente (explodir) malhas.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Sempre</strong> (padrão): a malha de baixo polígono corresponde a cada malha de alto polígono.</li><li data-preserve-html="true"><strong>Por nome da malha</strong>: filtre as malhas por nome para evitar correspondência com geometria indesejada.</li></ul>Para saber mais sobre a geometria correspondente, consulte: [Correspondência por Nome](../../features/matching-by-name/matching-by-name.md). |
+| **Mapa normal** | Caminho opcional para uma textura normal. Pode ser usado para substituir o cálculo interno do padeiro. |
 | **Espaço Mundial** | Se ativada, a textura normal é interpretada como um espaço de mundo normal em vez de um espaço tangente. |
 | **Orientação Normal** | Formato da textura Normal, se estiver no Espaço Tangente. Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>DirectX</strong> (padrão)</li><li data-preserve-html="true"><strong>OpenGL</strong></li></ul> |
 | **Atenuação** | Define como a oclusão é atenuada pela distância do oclusor.Valores possíveis:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Nenhum</strong>: nenhuma atenuação.</li><li data-preserve-html="true"><strong>Linear</strong> (padrão): atenuação progressiva.</li><li data-preserve-html="true"><strong>Suave</strong>: atenuação suave.</li></ul> |
