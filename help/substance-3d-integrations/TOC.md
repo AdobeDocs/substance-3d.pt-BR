@@ -2,13 +2,11 @@
 user-guide-description: Ecossistema do Substance 3D
 user-guide-title: Ecossistema do Substance 3D
 breadcrumb-title: Guia do usuário do ecossistema do Substance 3D
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Ecossistema do Substance 3D {#ecosystem}
 
@@ -153,7 +151,7 @@ ht-degree: 2%
     + [Nó de saída do Substance](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [Uso de fluxos de trabalho](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [Trabalhar com saídas](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
-    + [Amostragem de procedimentos](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
+    + [Amostragem processual](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
     + [Predefinições](/help/substance-3d-integrations/3d-applications/maya/presets/presets.md)
     + [Configurações](/help/substance-3d-integrations/3d-applications/maya/settings/settings.md)
     + [Suporte a Arnold](/help/substance-3d-integrations/3d-applications/maya/arnold-support/arnold-support.md)
@@ -198,26 +196,28 @@ ht-degree: 2%
     + [Parâmetros](/help/substance-3d-integrations/3d-applications/modo/parameters/parameters.md)
     + [Materiais personalizados](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
     + [Trabalhando com normais](/help/substance-3d-integrations/3d-applications/modo/working-with-normals/working-with-normals.md)
-    + [Trabalhar com Emissivo](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
+    + [Trabalhando com Emissivo](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
     + [Relevo e Deslocamento](/help/substance-3d-integrations/3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
     + [Trabalhando com referências](/help/substance-3d-integrations/3d-applications/modo/working-with-references/working-with-references.md)
     + [Animação de Substance](/help/substance-3d-integrations/3d-applications/modo/animating-substances/animating-substances.md)
     + [Copiar/Duplicar Substance](/help/substance-3d-integrations/3d-applications/modo/copy-duplicate/copy-duplicate-substance.md)
     + [Configuração de ambiente e renderização](/help/substance-3d-integrations/3d-applications/modo/environment-and-rendering/environment-and-rendering-setup.md)
     + [Modo Switch Engine](/help/substance-3d-integrations/3d-applications/modo/modo-switch-engine/modo-switch-engine.md)
-    + [Modo de divisão em blocos gráficos](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
+    + [Modo de divisão em blocos gráficos texturas](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
   + Cinema 4D{#cinema-4d}
     + [visão geral do Cinema 4D](/help/substance-3d-integrations/3d-applications/cinema-4d/cinema-4d.md)
     + [Configuração](/help/substance-3d-integrations/3d-applications/cinema-4d/set-up/set-up.md)
     + [Utilização do plug-in Substance](/help/substance-3d-integrations/3d-applications/cinema-4d/using-the-plugin/using-the-substance-plugin.md)
     + [Substance Asset Manager](/help/substance-3d-integrations/3d-applications/cinema-4d/asset-manager/substance-asset-manager.md)
-    + [Sombreador de Substance](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
+    + [Substance Sombreador](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
     + [Gerenciador de Atributos](/help/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager/attribute-manager.md)
     + [Feedback visual de Substance animados](/help/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-animated/visual-feedback-of-animated-substances.md)
   + [Houdini](/help/substance-3d-integrations/3d-applications/houdini/houdini.md)
   + Blender{#blender}
     + [Visão geral do Blender](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + Notas de versão{#release-notes}
+      + [Notas de versão](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [Complemento 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [Complemento 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [Complemento 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [Complemento 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
