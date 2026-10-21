@@ -100,7 +100,7 @@ Sua assinatura do Maxon One será renovada automaticamente por mais um ano pelo 
 
 A Coleção do Adobe Substance 3D só será renovada automaticamente se você inserir um cartão de crédito válido ao resgatar o código do cupom ou se adicionar um cartão de crédito à página de gerenciamento de conta em account.adobe.com antes da data de expiração do prazo da assinatura.
 
-[Compare os planos de assinatura de Adobe](https://www.adobe.com/creativecloud/plans.html) para verificar o preço de lista do Plano Individual da Coleção do Adobe Substance 3D, assinatura anual paga antecipadamente.
+[Compare os planos de assinatura de Adobe](https://www.adobe.com/br/creativecloud/plans.html) para verificar o preço de lista do Plano Individual da Coleção do Adobe Substance 3D, assinatura anual paga antecipadamente.
 
 +++
 
